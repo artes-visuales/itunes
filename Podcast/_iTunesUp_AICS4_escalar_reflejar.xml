@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Podcast/_iTunesUp_AICS4_escalar_reflejar.xml" />
+		<lastBuildDate>Thu, 26 May 2011 10:27:09 +0200</lastBuildDate>
+		<title>Illustrator CS4 - Escalar y Reflejar</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com/</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Al cambiar la escala de un objeto, su tamaño aumenta o disminuye en el plano horizontal y en el vertical.]]></description>
+		<itunes:subtitle>Al cambiar la escala de un objeto, su tamaño aumenta o disminuye en el plano horizontal y en el vertical.</itunes:subtitle>
+		<itunes:summary>Al cambiar la escala de un objeto, su tamaño aumenta o disminuye en el plano horizontal y en el vertical.</itunes:summary>
+		<language>es</language>
+		<copyright>Creative Commons 3.0</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Podcast/_iTunesUp_AICS4_escalar_reflejar_144.jpg</url>
+			<title>Illustrator CS4 - Escalar y Reflejar</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Podcast/_iTunesUp_AICS4_escalar_reflejar.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Reflejar I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description><![CDATA[Cuando se refleja un objeto, se crea una imagen especular en relación con un eje invisible especificado por el usuario.]]></description>
+			<itunes:subtitle>Cuando se refleja un objeto, se crea una imagen especular en relación con un eje invisible especificado por el usuario.</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/AICS4_0503_reflejar-ipod.m4v" type="video/x-m4v" length="8972185" />
+			<guid>http://itunes.artesvisuales.com/Podcast/AICS4_0503_reflejar-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 10:24:49 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Reflejar II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description><![CDATA[Cuando se refleja un objeto, se crea una imagen especular en relación con un eje invisible especificado por el usuario.]]></description>
+			<itunes:subtitle>Cuando se refleja un objeto, se crea una imagen especular en relación con un eje invisible especificado por el usuario.</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/AICS4_0504_reflejar-ipod.m4v" type="video/x-m4v" length="9039915" />
+			<guid>http://itunes.artesvisuales.com/Podcast/AICS4_0504_reflejar-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 10:24:31 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Escalar I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description><![CDATA[Al cambiar la escala de un objeto, su tamaño aumenta o disminuye en el plano horizontal y en el vertical.]]></description>
+			<itunes:subtitle>Al cambiar la escala de un objeto, su tamaño aumenta o disminuye en el plano horizontal y en el vertical.</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/AICS4_0505_escalar-ipod.m4v" type="video/x-m4v" length="11640375" />
+			<guid>http://itunes.artesvisuales.com/Podcast/AICS4_0505_escalar-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 10:24:18 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Escalar II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description><![CDATA[Al cambiar la escala de un objeto, su tamaño aumenta o disminuye en el plano horizontal y en el vertical]]></description>
+			<itunes:subtitle>Al cambiar la escala de un objeto, su tamaño aumenta o disminuye en el plano horizontal y en el vertical</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/AICS4_0506_escalar-ipod.m4v" type="video/x-m4v" length="14871056" />
+			<guid>http://itunes.artesvisuales.com/Podcast/AICS4_0506_escalar-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 10:24:03 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+	</channel>
+</rss>

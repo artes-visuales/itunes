@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_PremiereCS5_05.xml" />
+		<lastBuildDate>Fri, 10 Jun 2011 11:03:37 +0200</lastBuildDate>
+		<title>Efectos</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Adobe Premiere CS5 es la principal aplicación para la edición y montaje de vídeo digital.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Adobe Premiere CS5 es la principal aplicación para la edición y montaje de vídeo digital.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_PremiereCS5_144.jpg</url>
+			<title>Efectos</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_PremiereCS5.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>5.1 Efectos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0501_efectos-qtfs.mp4" type="video/mp4" length="6264265" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0501_efectos-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:03:01 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.2 Efectos fijos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0502_efectosfijos-qtfs.mp4" type="video/mp4" length="38287017" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0502_efectosfijos-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:02:42 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.3 Efectos estándar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0503_efectosestandar-qtfs.mp4" type="video/mp4" length="16598803" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0503_efectosestandar-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:02:21 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.4 Bandeja efectos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0504_bandejaefectos-qtfs.mp4" type="video/mp4" length="13169957" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0504_bandejaefectos-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:02:03 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.5 Aplicar efecto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0505_aplicarefecto-qtfs.mp4" type="video/mp4" length="14872200" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0505_aplicarefecto-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:01:43 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.6 Copiar efectos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0506_copiarefectos-qtfs.mp4" type="video/mp4" length="11958312" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0506_copiarefectos-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:01:26 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.7 Controles de efectos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0507_controlesefectos-qtfs.mp4" type="video/mp4" length="29378440" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0507_controlesefectos-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:01:02 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.8 Antiparpadeo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0508_antiparpadeo-qtfs.mp4" type="video/mp4" length="7698389" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0508_antiparpadeo-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:00:39 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.9 Direccional</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0509_direccional-qtfs.mp4" type="video/mp4" length="15815461" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0509_direccional-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:00:23 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.10 Invertir</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0510_invertir-qtfs.mp4" type="video/mp4" length="12660306" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0510_invertir-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:00:06 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.11 Corrección de color</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0511_correccioncolor-qtfs.mp4" type="video/mp4" length="16721216" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0511_correccioncolor-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:59:39 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.12 Aumentar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0512_aumentar-qtfs.mp4" type="video/mp4" length="16007596" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0512_aumentar-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:59:19 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.13 Espejo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0513_espejo-qtfs.mp4" type="video/mp4" length="16183558" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0513_espejo-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:59:03 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.14 Transformar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0514_transformar-qtfs.mp4" type="video/mp4" length="14435570" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0514_transformar-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:58:46 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.15 Croma</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0515_croma-qtfs.mp4" type="video/mp4" length="23697782" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0515_croma-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:58:30 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.16 Ruido</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0516_ruido-qtfs.mp4" type="video/mp4" length="22803976" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0516_ruido-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:58:03 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.17 Cuatro colores</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0517_cuatrocolores-qtfs.mp4" type="video/mp4" length="14416555" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0517_cuatrocolores-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:57:43 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.18 Patrón celdas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0518_patronceldas-qtfs.mp4" type="video/mp4" length="18910128" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0518_patronceldas-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:57:23 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.19 Incrustación no roja</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0519_incrustacionnoroja-qtfs.mp4" type="video/mp4" length="23436879" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0519_incrustacionnoroja-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:56:30 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.20 Círculo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0520_circulo-qtfs.mp4" type="video/mp4" length="15555063" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0520_circulo-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:56:09 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.21 Destello</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0521_destello-qtfs.mp4" type="video/mp4" length="18773291" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0521_destello-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:55:47 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.22 Relámpago</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0522_relampago-qtfs.mp4" type="video/mp4" length="22309507" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0522_relampago-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:55:19 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.23 3d básico</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0523_3dbasico-qtfs.mp4" type="video/mp4" length="19763348" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0523_3dbasico-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:54:57 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.24 Biselar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0524_biselar-qtfs.mp4" type="video/mp4" length="19567612" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0524_biselar-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:54:39 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.25 Sombra paralela</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0525_sombraparalela-qtfs.mp4" type="video/mp4" length="16335111" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0525_sombraparalela-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:54:16 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.26 Cuatro puntos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0526_cuatropuntos-qtfs.mp4" type="video/mp4" length="15219881" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0526_cuatropuntos-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:53:37 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.27 Bordes rugosos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0527_bordesrugosos-qtfs.mp4" type="video/mp4" length="17145534" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0527_bordesrugosos-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:53:18 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.28 Estilizar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0528_estilizar-qtfs.mp4" type="video/mp4" length="24620675" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0528_estilizar-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:53:02 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.29 Incrustación ultra</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0529_incrustacionultra-qtfs.mp4" type="video/mp4" length="30053227" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0529_incrustacionultra-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 10:52:34 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_IndesignCS5_07.xml" />
+		<lastBuildDate>Wed, 08 Jun 2011 07:43:38 +0200</lastBuildDate>
+		<title>Gestión del color</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://artesvisuales.groups.adobe.com/</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Adobe Indesign CS5 es la principal aplicación cuya función principal es la autoedición o maquetación digital.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Adobe Indesign CS5 es la principal aplicación cuya función principal es la autoedición o maquetación digital.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_Indesign_144.jpg</url>
+			<title>Gestión del color</title>
+			<link>http://artesvisuales.groups.adobe.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_Indesign.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>7.1 Tintas planas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0701_tintaplana-ipod.m4v" type="video/x-m4v" length="27582939" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0701_tintaplana-ipod.m4v</guid>
+			<pubDate>Wed, 08 Jun 2011 07:17:35 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>7.2 Cuatricromias</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0702_cuatricromias-ipod.m4v" type="video/x-m4v" length="34557078" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0702_cuatricromias-ipod.m4v</guid>
+			<pubDate>Wed, 08 Jun 2011 07:17:14 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>7.3 Operaciones con color</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0703_operacionescolor-ipod.m4v" type="video/x-m4v" length="38574214" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0703_operacionescolor-ipod.m4v</guid>
+			<pubDate>Wed, 08 Jun 2011 07:16:52 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>7.4 Gestion del color</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0704_gestioncolor-ipod.m4v" type="video/x-m4v" length="23601672" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0704_gestioncolor-ipod.m4v</guid>
+			<pubDate>Wed, 08 Jun 2011 07:16:28 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>7.5 Sobreimprimir</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0705_sobreimprimir-ipod.m4v" type="video/x-m4v" length="26512066" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0705_sobreimprimir-ipod.m4v</guid>
+			<pubDate>Wed, 08 Jun 2011 07:16:05 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>7.6 Negros</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0706_negros-ipod.m4v" type="video/x-m4v" length="20718105" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0706_negros-ipod.m4v</guid>
+			<pubDate>Wed, 08 Jun 2011 07:15:47 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>7.7 Reventados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0707_reventados-ipod.m4v" type="video/x-m4v" length="20921248" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0707_reventados-ipod.m4v</guid>
+			<pubDate>Wed, 08 Jun 2011 07:15:26 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>7.8 Prueba de color</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0708_pruebacolor-ipod.m4v" type="video/x-m4v" length="25488975" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0708_pruebacolor-ipod.m4v</guid>
+			<pubDate>Wed, 08 Jun 2011 07:15:00 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>7.9 Exportar PDF I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0709_exportarpdf01-ipod.m4v" type="video/x-m4v" length="20577687" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0709_exportarpdf01-ipod.m4v</guid>
+			<pubDate>Tue, 07 Jun 2011 10:48:36 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>7.10 Exportar PDF II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0710_exportarpdf02-ipod.m4v" type="video/x-m4v" length="16799152" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0710_exportarpdf02-ipod.m4v</guid>
+			<pubDate>Tue, 07 Jun 2011 10:35:52 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>7.11 Exportar PDF III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0711_exportarpdf03-ipod.m4v" type="video/x-m4v" length="18786363" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0711_exportarpdf03-ipod.m4v</guid>
+			<pubDate>Tue, 07 Jun 2011 10:35:29 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>7.12 Exportar PDF IV</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0712_exportarpdf04-ipod.m4v" type="video/x-m4v" length="21450579" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0712_exportarpdf04-ipod.m4v</guid>
+			<pubDate>Tue, 07 Jun 2011 10:34:51 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>7.13 Exportar PDF V</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0713_exportarpdf05-ipod.m4v" type="video/x-m4v" length="13219924" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0713_exportarpdf05-ipod.m4v</guid>
+			<pubDate>Tue, 07 Jun 2011 10:34:27 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+	</channel>
+</rss>

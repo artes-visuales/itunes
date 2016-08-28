@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://stream.artesvisuales.com/video/_iTunesU_ACP.xml" />
+		<lastBuildDate>Fri, 21 Mar 2014 12:50:34 +0100</lastBuildDate>
+		<title>Diseño de Elementos</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com/</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Anuncios, Carteles y Portadas.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Anuncios, Carteles y Portadas.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>itunes@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_ACP_144.jpg</url>
+			<title>Diseño de Elementos</title>
+			<link>http://www.artesvisuales.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_ACP.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>ACP 0101 portadas-I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0101_portadas-I.mov" type="video/quicktime" length="39779" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0101_portadas-I.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:15 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0101 portadas-II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0101_portadas-II.mov" type="video/quicktime" length="42086" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0101_portadas-II.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:14 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0101 portadas-III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0101_portadas-III.mov" type="video/quicktime" length="47960" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0101_portadas-III.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:14 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0102 cartel</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0102_cartel.mov" type="video/quicktime" length="36139" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0102_cartel.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:14 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0103 anuncio</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0103_anuncio.mov" type="video/quicktime" length="39851" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0103_anuncio.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:14 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0104 recorrido visual</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0104_recorrido_visual.mov" type="video/quicktime" length="29692" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0104_recorrido_visual.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:14 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0105 eleccion elementos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0105_eleccion_elementos.mov" type="video/quicktime" length="26375" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0105_eleccion_elementos.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:14 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0106 paleta color</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0106_paleta_color.mov" type="video/quicktime" length="40536" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0106_paleta_color.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:14 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0201 publicidad</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0201_publicidad.mov" type="video/quicktime" length="34412" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0201_publicidad.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:14 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0202 adobe bridge</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0202_adobe_bridge.mov" type="video/quicktime" length="53014" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0202_adobe_bridge.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:14 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0202 adobe minibridge</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0202_adobe_minibridge.mov" type="video/quicktime" length="26921" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0202_adobe_minibridge.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:14 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0203 especificaciones tecnicas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0203_especificaciones_tecnicas.mov" type="video/quicktime" length="46975" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0203_especificaciones_tecnicas.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:14 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0204 tratamiento objeto inteligente</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0204_tratamiento_objeto_inteligente.mov" type="video/quicktime" length="48039" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0204_tratamiento_objeto_inteligente.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:13 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0205 creacion documento guideguide</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0205_creacion_documento_guideguide.mov" type="video/quicktime" length="37479" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0205_creacion_documento_guideguide.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:13 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0206 colocacion imagen principal</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0206_colocacion_imagen_principal.mov" type="video/quicktime" length="54349" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0206_colocacion_imagen_principal.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:13 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0206 colocacion otras imagenes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0206_colocacion_otras_imagenes.mov" type="video/quicktime" length="53617" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0206_colocacion_otras_imagenes.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:13 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0207 trabajo texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0207_trabajo_texto.mov" type="video/quicktime" length="50424" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0207_trabajo_texto.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:13 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0208 otros elementos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0208_otros_elementos.mov" type="video/quicktime" length="55111" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0208_otros_elementos.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:13 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0209 marcas corte</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0209_marcas_corte.mov" type="video/quicktime" length="53822" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0209_marcas_corte.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:13 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0210 generar pdf</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0210_generar_pdf.mov" type="video/quicktime" length="38563" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0210_generar_pdf.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:13 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0301 elegir imagen</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0301_elegir_imagen.mov" type="video/quicktime" length="43590" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0301_elegir_imagen.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:13 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0302 crear documento illustraor</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0302_crear_documento_illustraor.mov" type="video/quicktime" length="33321" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0302_crear_documento_illustraor.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:13 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0303 colocar imagen mascara</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0303_colocar_imagen_mascara.mov" type="video/quicktime" length="37019" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0303_colocar_imagen_mascara.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:13 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0304 colocar texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0304_colocar_texto.mov" type="video/quicktime" length="38925" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0304_colocar_texto.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:13 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0305 formas texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0305_formas_texto.mov" type="video/quicktime" length="39826" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0305_formas_texto.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0306 calco logotipo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0306_calco_logotipo.mov" type="video/quicktime" length="35184" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0306_calco_logotipo.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0307 creacion simbolo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0307_creacion_simbolo.mov" type="video/quicktime" length="45555" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0307_creacion_simbolo.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0308 creacion efecto papel</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0308_creacion_efecto_papel.mov" type="video/quicktime" length="44377" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0308_creacion_efecto_papel.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0309 generar pdf</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0309_generar_pdf.mov" type="video/quicktime" length="40097" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0309_generar_pdf.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0401 definir documento</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0401_definir_documento.mov" type="video/quicktime" length="34868" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0401_definir_documento.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0402 colocar cabecera</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0402_colocar_cabecera.mov" type="video/quicktime" length="41394" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0402_colocar_cabecera.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0403 ajustar imagen</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0403_ajustar_imagen.mov" type="video/quicktime" length="44091" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0403_ajustar_imagen.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0404 colocar imagen</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0404_colocar_imagen.mov" type="video/quicktime" length="49084" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0404_colocar_imagen.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0405 paleta color</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0405_paleta_color.mov" type="video/quicktime" length="39650" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0405_paleta_color.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0406 estilos texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0406_estilos_texto.mov" type="video/quicktime" length="54474" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0406_estilos_texto.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0407 otros textos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0407_otros_textos.mov" type="video/quicktime" length="49328" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0407_otros_textos.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0408 codigo barras</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0408_codigo_barras.mov" type="video/quicktime" length="52054" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0408_codigo_barras.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:11 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0409 generar pdf</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0409_generar_pdf.mov" type="video/quicktime" length="41577" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0409_generar_pdf.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:11 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+		<item>
+			<title>ACP 0410 empaquetar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACP_0410_empaquetar.mov" type="video/quicktime" length="41392" />
+			<guid>http://stream.artesvisuales.com/video/ACP_0410_empaquetar.mov</guid>
+			<pubDate>Fri, 21 Mar 2014 12:47:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>aplicaciones, cartel, portadas, anuncios,</itunes:keywords>
+		</item>
+	</channel>
+</rss>

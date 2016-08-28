@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://stream.artesvisuales.com/video/_iTunesU_DreamweaverCS6_Responsive.xml" />
+		<lastBuildDate>Thu, 06 Feb 2014 07:57:29 +0100</lastBuildDate>
+		<title>Dreamweaver CS6 Responsive</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com/</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[En este curso aprenderemos a desarrollar páginas web adaptables al medio de consulta.En primer lugar, ilustraremos las mejores técnicas para la edición de imágenes y elementos multimedia en diseños web sensibles, a medida que iremos profundizando en las opciones de cuadrículas fluidas de Dreamweaver.Al finalizar el curso, un diseñador será capaz de desarrollar una amplia gama de aplicaciones web, capaces de llegar al público a través de múltiples medios de salida, como por ejemplo Tablets o dispositivos móviles.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>En este curso aprenderemos a desarrollar páginas web adaptables al medio de consulta.En primer lugar, ilustraremos las mejores técnicas para la edición de imágenes y elementos multimedia en diseños web sensibles, a medida que iremos profundizando en las opciones de cuadrículas fluidas de Dreamweaver.Al finalizar el curso, un diseñador será capaz de desarrollar una amplia gama de aplicaciones web, capaces de llegar al público a través de múltiples medios de salida, como por ejemplo Tablets o dispositivos móviles.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>itunes@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS6_Responsive_144.jpg</url>
+			<title>Dreamweaver CS6 Responsive</title>
+			<link>http://www.artesvisuales.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS6_Responsive.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>wordpress</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>DWCS6DS 0200 Diseño Responsive</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6DS_0200_disenio.mp4" type="video/mp4" length="27055" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6DS_0200_disenio.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 07:53:17 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6DS 0201 Modificar número columnas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6DS_0201_modificar.mp4" type="video/mp4" length="48454" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6DS_0201_modificar.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 07:53:17 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6DS 0202 Insertar bloques de diseño</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6DS_0202_insertar.mp4" type="video/mp4" length="44944" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6DS_0202_insertar.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 07:53:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6DS 0203 Estructura HTML 5</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6DS_0203_estructura.mp4" type="video/mp4" length="60632" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6DS_0203_estructura.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 07:53:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6DS 0300 Añadir contenido</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6DS_0300_aniadir.mp4" type="video/mp4" length="49690" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6DS_0300_aniadir.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 07:53:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6DS 0301 Aplicar estilos CSS</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6DS_0301_aplicar.mp4" type="video/mp4" length="63455" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6DS_0301_aplicar.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 07:53:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6DS 0302 Imágenes Flexibles</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6DS_0302_imagenes.mp4" type="video/mp4" length="59406" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6DS_0302_imagenes.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 07:53:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6DS 0303 Acordeón Spry</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6DS_0303_acordeon.mp4" type="video/mp4" length="68791" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6DS_0303_acordeon.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 07:53:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6DS 0304 Carrusel Jquery Cycle</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6DS_0304_carrusel.mp4" type="video/mp4" length="60217" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6DS_0304_carrusel.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 07:53:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6DS 0400 Consulta de medios</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6DS_0400_consulta.mp4" type="video/mp4" length="66241" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6DS_0400_consulta.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 07:53:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6DS 0401 Móvil</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6DS_0401_mediom.mp4" type="video/mp4" length="53394" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6DS_0401_mediom.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 07:53:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6DS 0402 Tablet</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6DS_0401_mediot.mp4" type="video/mp4" length="63049" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6DS_0401_mediot.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 07:53:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+	</channel>
+</rss>

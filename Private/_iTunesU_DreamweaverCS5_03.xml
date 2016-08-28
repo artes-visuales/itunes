@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS5_03.xml" />
+		<lastBuildDate>Thu, 09 Jun 2011 12:13:27 +0200</lastBuildDate>
+		<title>Estilos</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://campus.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description />
+		<itunes:subtitle />
+		<itunes:summary />
+		<language>es-es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS5_144.jpg</url>
+			<title>Estilos</title>
+			<link>http://campus.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS5.jpg" />
+		<category>Training</category>
+		<itunes:category text="Education">
+			<itunes:category text="Training" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords />
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>3.1 Introducción y primer estilo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0301_introduccionyprimerestilo.mov" type="video/quicktime" length="15016927" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0301_introduccionyprimerestilo.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 12:12:34 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.2 Estilo para etiquetas y div</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0302_estiloparaetiquetasydiv.mov" type="video/quicktime" length="15256801" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0302_estiloparaetiquetasydiv.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 12:12:11 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.3 Panel estilos css</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0303_panelestiloscss.mov" type="video/quicktime" length="16137066" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0303_panelestiloscss.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 12:11:46 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.4 Reglas compuestas y anidadas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0304_reglascompuestasyanidadas_movercodigocss.mov" type="video/quicktime" length="17387873" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0304_reglascompuestasyanidadas_movercodigocss.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 12:11:10 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.5 Ejemplo maquetación I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0305_panelreglacss_ejemplomaquetacion.mov" type="video/quicktime" length="22873017" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0305_panelreglacss_ejemplomaquetacion.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 12:10:31 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.6 Ejemplo maquetación II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0306_ejemplomaquetacion2.mov" type="video/quicktime" length="18785478" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0306_ejemplomaquetacion2.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 11:27:26 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.7 Ejemplo maquetación III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0307_ejemplomaquetacion3.mov" type="video/quicktime" length="20795870" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0307_ejemplomaquetacion3.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 11:27:03 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.8 Insertar texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0308_insertartexto.mov" type="video/quicktime" length="16648422" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0308_insertartexto.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 11:26:47 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.9 Maquetación y propiedades</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0309_maquetacion_marginpaddingyborder.mov" type="video/quicktime" length="20175870" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0309_maquetacion_marginpaddingyborder.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 11:26:19 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.10 Caracteres especiales e insertar imágenes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0310_caracteresespeciales_insertarimagenes.mov" type="video/quicktime" length="16270842" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0310_caracteresespeciales_insertarimagenes.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 11:25:54 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.11 Estilos de imagen</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0311_estilosimagen.mov" type="video/quicktime" length="17864013" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0311_estilosimagen.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 11:25:37 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.12 Barra representación de estilos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0312_barrarepresentacionestilos.mov" type="video/quicktime" length="13539700" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0312_barrarepresentacionestilos.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 11:25:12 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.13 Estilo print</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0313_estiloprint.mov" type="video/quicktime" length="24100781" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0313_estiloprint.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 11:24:55 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.14 Tiempo diseño hojas css de muestra</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0314_tiempodiseno_hojascssdemuestra.mov" type="video/quicktime" length="18657703" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0314_tiempodiseno_hojascssdemuestra.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 11:24:23 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.15 Validación</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0315_validacion.mov" type="video/quicktime" length="19545871" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0315_validacion.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 11:24:03 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.16 Div pa</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0316_divpa.mov" type="video/quicktime" length="16830436" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0316_divpa.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 11:23:41 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.17 Opciones div pa</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0317_opcionesdivpa.mov" type="video/quicktime" length="17302262" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0317_opcionesdivpa.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 11:23:15 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.19 Anidación div pa</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0319_anidaciondivpa_convertirdivpaentabla.mov" type="video/quicktime" length="16259863" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0319_anidaciondivpa_convertirdivpaentabla.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 11:22:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.20 CSS3</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0320_novedadescss3.mov" type="video/quicktime" length="15115763" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0320_novedadescss3.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 11:22:07 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+	</channel>
+</rss>

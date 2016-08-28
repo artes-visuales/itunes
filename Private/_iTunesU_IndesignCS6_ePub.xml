@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://stream.artesvisuales.com/video/_iTunesU_IndesignCS6_ePub.xml" />
+		<lastBuildDate>Mon, 27 Jan 2014 08:24:25 +0100</lastBuildDate>
+		<title>Indesign CS6 ePub</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Adobe InDesign es la aplicación de publicación estándar del mercado para maquetar publicaciones impresas, documentos PDF interactivos, revistas digitales y documentos EPUB.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Adobe InDesign es la aplicación de publicación estándar del mercado para maquetar publicaciones impresas, documentos PDF interactivos, revistas digitales y documentos EPUB.</itunes:summary>
+		<language>es</language>
+		<copyright>© Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>itunes@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_IndesignCS6_ePub_144.jpg</url>
+			<title>Indesign CS6 ePub</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_IndesignCS6_ePub.jpg" />
+		<category>Podcasting</category>
+		<itunes:category text="Technology">
+			<itunes:category text="Podcasting" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<category>Training</category>
+		<itunes:category text="Education">
+			<itunes:category text="Training" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>ePubsInd 0011 introduccion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0011_introduccion.mp4" type="video/mp4" length="64045" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0011_introduccion.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:57 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0012 ePub3</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0012_ePub3.mp4" type="video/mp4" length="64283" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0012_ePub3.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:57 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0013 aplicaciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0013_aplicaciones.mp4" type="video/mp4" length="68513" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0013_aplicaciones.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:57 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0021 diseno alternativo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0021_diseno_alternativo.mp4" type="video/mp4" length="56875" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0021_diseno_alternativo.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:57 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0022 diseno alternativo2</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0022_diseno_alternativo2.mp4" type="video/mp4" length="58424" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0022_diseno_alternativo2.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:57 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0023 diseno valores documento</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0023_diseno_valores_documento.mp4" type="video/mp4" length="62720" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0023_diseno_valores_documento.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:57 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0024 reglas diseno liquido</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0024_reglas_diseno_liquido.mp4" type="video/mp4" length="58161" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0024_reglas_diseno_liquido.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:57 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0025 regla escala</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0025_regla_escala.mp4" type="video/mp4" length="54935" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0025_regla_escala.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:57 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0026 regla centrar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0026_regla_centrar.mp4" type="video/mp4" length="59806" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0026_regla_centrar.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:57 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0027 regla objetos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0027_regla_objetos.mp4" type="video/mp4" length="56936" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0027_regla_objetos.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:57 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0028 regla guia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0028_regla_guia.mp4" type="video/mp4" length="63017" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0028_regla_guia.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:57 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0029 marco texto autoajustable</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0029_marco_texto_autoajustable.mp4" type="video/mp4" length="78809" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0029_marco_texto_autoajustable.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:56 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0031 examinando formato epub</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0031_examinando_formato_epub.mp4" type="video/mp4" length="58117" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0031_examinando_formato_epub.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:27 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0032 contenido epub</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0032_contenido_epub.mp4" type="video/mp4" length="63815" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0032_contenido_epub.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:27 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0033 posibilidades limitaciones epub</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0033_posibilidades_limitaciones_epub.mp4" type="video/mp4" length="67971" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0033_posibilidades_limitaciones_epub.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:27 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0034 elementos pagina anclaje</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0034_elementos_pagina_anclaje.mp4" type="video/mp4" length="72538" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0034_elementos_pagina_anclaje.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:27 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0035 espacios separacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0035_espacios_separacion.mp4" type="video/mp4" length="90592" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0035_espacios_separacion.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:27 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0036 estilos caracter parrafo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0036_estilos_caracter_parrafo.mp4" type="video/mp4" length="73927" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0036_estilos_caracter_parrafo.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:26 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0037 tablas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0037_tablas.mp4" type="video/mp4" length="70772" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0037_tablas.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:26 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0038 conversion objetos imagen</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0038_conversion_objetos_imagen.mp4" type="video/mp4" length="38703" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0038_conversion_objetos_imagen.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:26 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0041 creacion imagen portada</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0041_creacion_imagen_portada.mp4" type="video/mp4" length="60818" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0041_creacion_imagen_portada.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:26 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0042 tabla contenido Toc</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0042_tabla_contenido_Toc.mp4" type="video/mp4" length="50484" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0042_tabla_contenido_Toc.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:26 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0043 estilo tabla contenido Ind</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0043_estilo_tabla_contenido_Ind.mp4" type="video/mp4" length="70864" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0043_estilo_tabla_contenido_Ind.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:26 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0044 tabla libro Ind</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0044_tabla_libro_Ind.mp4" type="video/mp4" length="79360" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0044_tabla_libro_Ind.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:26 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0045 estilos parrafo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0045_estilos_parrafo.mp4" type="video/mp4" length="70380" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0045_estilos_parrafo.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:26 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0046 flujo contenido articulo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0046_flujo_contenido_articulo.mp4" type="video/mp4" length="57795" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0046_flujo_contenido_articulo.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:26 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0047 contenido xml</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0047_contenido_xml.mp4" type="video/mp4" length="65853" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0047_contenido_xml.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:26 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0051 exportacion metadatos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0051_exportacion_metadatos.mp4" type="video/mp4" length="67568" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0051_exportacion_metadatos.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:26 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0052 texto alternativo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0052_texto_alternativo.mp4" type="video/mp4" length="64695" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0052_texto_alternativo.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:25 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0053 exp general version</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0053_exp_general_version.mp4" type="video/mp4" length="69580" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0053_exp_general_version.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:25 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0054 exp general configuracion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0054_exp_general_configuracion.mp4" type="video/mp4" length="70744" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0054_exp_general_configuracion.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:25 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0055 exp general texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0055_exp_general_texto.mp4" type="video/mp4" length="70012" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0055_exp_general_texto.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:25 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0056 exp imagen</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0056_exp_imagen.mp4" type="video/mp4" length="67234" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0056_exp_imagen.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:25 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0057 exp avanzado dividir metadatos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0057_exp_avanzado_dividir_metadatos.mp4" type="video/mp4" length="68070" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0057_exp_avanzado_dividir_metadatos.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:25 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0058 exp avanzado css javascript</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0058_exp_avanzado_css_javascript.mp4" type="video/mp4" length="68116" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0058_exp_avanzado_css_javascript.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:25 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0061 revision toc1</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0061_revision_toc1.mp4" type="video/mp4" length="69307" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0061_revision_toc1.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:14 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0062 modificar metadatos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0062_modificar_metadatos.mp4" type="video/mp4" length="62421" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0062_modificar_metadatos.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:14 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0063 seccion guia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0063_seccion_guia.mp4" type="video/mp4" length="78907" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0063_seccion_guia.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:14 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0064 archivo xhtml</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0064_archivo_xhtml.mp4" type="video/mp4" length="57083" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0064_archivo_xhtml.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:14 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0065 edicion CSS</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0065_edicion_CSS.mp4" type="video/mp4" length="57028" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0065_edicion_CSS.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:13 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0066 fuentes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0066_fuentes.mp4" type="video/mp4" length="105707" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0066_fuentes.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:13 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0067 capitular</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0067_capitular.mp4" type="video/mp4" length="103071" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0067_capitular.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:13 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0071 archivo ibook fuente</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0071_archivo_ibook_fuente.mp4" type="video/mp4" length="103071" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0071_archivo_ibook_fuente.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:13 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0072 previsualizacion ePub</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0072_previsualizacion_ePub.mp4" type="video/mp4" length="66909" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0072_previsualizacion_ePub.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:13 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0073 validacion ePubcheck</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0073_validacion_ePubcheck.mp4" type="video/mp4" length="85161" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0073_validacion_ePubcheck.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:13 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 0074 conversion tiendas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_0074_conversion_tiendas.mp4" type="video/mp4" length="59174" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_0074_conversion_tiendas.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:13 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 00210 marco texto principal</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_00210_marco_texto_principal.mp4" type="video/mp4" length="78980" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_00210_marco_texto_principal.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:13 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 00612 revision toc2</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_00612_revision_toc2.mp4" type="video/mp4" length="64497" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_00612_revision_toc2.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:13 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>ePubsInd 00613 tabla contenido etiquetas parrafo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ePubsInd_00613_tabla_contenido_etiquetas_parrafo.mp4" type="video/mp4" length="75214" />
+			<guid>http://stream.artesvisuales.com/video/ePubsInd_00613_tabla_contenido_etiquetas_parrafo.mp4</guid>
+			<pubDate>Mon, 27 Jan 2014 08:18:13 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesUp_PHCS6_Design_02.xml" />
+		<lastBuildDate>Tue, 22 Jan 2013 07:59:03 +0100</lastBuildDate>
+		<title>Photoshop CS6 Diseñadores I - Tema 2. Contenidos y Capas</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[2.2 Herramienta Detención de Contenido  
+2.3 Herramienta Parche con detención de contenido  
+2.4 Agrupar Capas  
+2.5 Agrupar Capas 02  
+2.6 Efectos de Capa  
+2.7 Efectos de Capa 02  
+2.8 Crear Capa  
+2.9 Capas de Ajuste 01  
+2.10 Capas de Ajuste 02  
+2.11 Máscara de Recorte  
+2.12 Capas de forma 01  
+2.13 Capas de forma 02  
+2.14 Fusión de Capas  
+2.15 Filtrado de Capas  ]]></description>
+		<itunes:subtitle />
+		<itunes:summary>2.2 Herramienta Detención de Contenido  
+2.3 Herramienta Parche con detención de contenido  
+2.4 Agrupar Capas  
+2.5 Agrupar Capas 02  
+2.6 Efectos de Capa  
+2.7 Efectos de Capa 02  
+2.8 Crear Capa  
+2.9 Capas de Ajuste 01  
+2.10 Capas de Ajuste 02  
+2.11 Máscara de Recorte  
+2.12 Capas de forma 01  
+2.13 Capas de forma 02  
+2.14 Fusión de Capas  
+2.15 Filtrado de Capas  </itunes:summary>
+		<language>es</language>
+		<copyright>Creative Commons 3.0</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesUp_PHCS6D_144.jpg</url>
+			<title>Photoshop CS6 Diseñadores I - Tema 2. Contenidos y Capas</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesUp_PHCS6D.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>PHCS6D 0201 segun contenido</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0201_segun_contenido.mp4" type="video/mp4" length="36543" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0201_segun_contenido.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 07:58:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0202 detencion contenido</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0202_detencion_contenido.mp4" type="video/mp4" length="37054" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0202_detencion_contenido.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 07:58:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0203 parche detencion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0203_parche_detencion.mp4" type="video/mp4" length="31747" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0203_parche_detencion.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 07:58:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0204 agrupar capas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0204_agrupar_capas.mp4" type="video/mp4" length="44726" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0204_agrupar_capas.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 07:58:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0205 agrupar capas02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0205_agrupar_capas02.mp4" type="video/mp4" length="33412" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0205_agrupar_capas02.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 07:58:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0206 efectos capas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0206_efectos_capas.mp4" type="video/mp4" length="32287" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0206_efectos_capas.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 07:58:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0207 efectos capas 02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0207_efectos_capas%2002.mp4" type="video/mp4" length="33557" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0207_efectos_capas%2002.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 07:58:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0207 efectos capas02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0207_efectos_capas02.mp4" type="video/mp4" length="33343" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0207_efectos_capas02.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 07:58:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0208 crear caa</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0208_crear_caa.mp4" type="video/mp4" length="30741" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0208_crear_caa.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 07:58:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0208 crear capa</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0208_crear_capa.mp4" type="video/mp4" length="30848" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0208_crear_capa.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 07:58:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0209 capas ajuste 01</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0209_capas_ajuste_01.mp4" type="video/mp4" length="38292" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0209_capas_ajuste_01.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 07:58:18 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0210 capas ajuste 02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0210_capas_ajuste_02.mp4" type="video/mp4" length="39470" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0210_capas_ajuste_02.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 07:58:18 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0211 mascara recorte</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0211_mascara_recorte.mp4" type="video/mp4" length="31961" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0211_mascara_recorte.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 07:58:18 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0212 capas forma 01</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0212_capas_forma_01.mp4" type="video/mp4" length="27554" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0212_capas_forma_01.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 07:58:18 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0213 capas forma 02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0213_capas_forma_02.mp4" type="video/mp4" length="29163" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0213_capas_forma_02.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 07:58:18 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0214 fusion capas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0214_fusion_capas.mp4" type="video/mp4" length="34611" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0214_fusion_capas.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 07:58:18 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0215 filtrado capas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0215_filtrado_capas.mp4" type="video/mp4" length="33309" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0215_filtrado_capas.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 07:58:18 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesUp_PHCS6_Fotografos_01.xml" />
+		<lastBuildDate>Wed, 23 Jan 2013 08:25:04 +0100</lastBuildDate>
+		<title>Photoshop CS6 Fotógrafos</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[1.2 RGB  
+			1.3 CMYK  
+			1.4 Escala de grises  
+			1.5 Consulta de colores  
+			1.6 Mapa de degradado  
+			1.7 Colorear imagen 01  
+			1.8 Colorear imagen 02  
+			1.9 Base de color 
+			2.3 Deformación libre  
+			2.4 Deformación libre 02  
+			2.5 Escalar según contenido  
+			2.6 Licuar 01  
+			2.7 Licuar 02  
+			2.8 Angulo de ancho adaptable 
+			3.2 Desenfoque suavizado  
+			3.3 Enderezar  
+			3.4 Tipos de imágenes  
+			3.5 Ajustar Luces y Sombras  
+			3.6 Luces, sombras y Niveles  
+			3.7 Sombras e IIuminaciones 01  
+			3.8 Sombras e Iluminaciones 02 
+			4.2 Curvas 01  
+			4.3 Curvas 02  
+			4.4 Equilibrio del color  
+			4.5 Filtros de fotografía  
+			4.6 HDR 01  
+			4.7 HDR 02  
+			4.8 Consultar colores
+			5.2 Máscara de enfoque  
+			5.3 Enfoque Selectivo  
+			5.4 Mejorar la piel  
+			5.5 Correcciones  
+			5.6 Igualar Color  
+			5.7 Máscara de capa 01  
+			5.8 Máscara de capa 02  
+			5.9 Igualar Máscara de capa  
+			5.10 Capa de Ajuste
+			6.2 Acciones 01  
+			6.3 Acciones 02  
+			6.4 Lote  
+			6.5 Droplet  
+			6.6 Panorámica  
+			6.7 Combinar HDR
+			 ]]>
+		</description>
+		<itunes:subtitle />
+		<itunes:summary>1.2 RGB  
+			1.3 CMYK  
+			1.4 Escala de grises  
+			1.5 Consulta de colores  
+			1.6 Mapa de degradado  
+			1.7 Colorear imagen 01  
+			1.8 Colorear imagen 02  
+			1.9 Base de color 
+			2.3 Deformación libre  
+			2.4 Deformación libre 02  
+			2.5 Escalar según contenido  
+			2.6 Licuar 01  
+			2.7 Licuar 02  
+			2.8 Angulo de ancho adaptable 
+			3.2 Desenfoque suavizado  
+			3.3 Enderezar  
+			3.4 Tipos de imágenes  
+			3.5 Ajustar Luces y Sombras  
+			3.6 Luces, sombras y Niveles  
+			3.7 Sombras e IIuminaciones 01  
+			3.8 Sombras e Iluminaciones 02
+			4.2 Curvas 01  
+			4.3 Curvas 02  
+			4.4 Equilibrio del color  
+			4.5 Filtros de fotografía  
+			4.6 HDR 01  
+			4.7 HDR 02  
+			4.8 Consultar colores
+			5.2 Máscara de enfoque  
+			5.3 Enfoque Selectivo  
+			5.4 Mejorar la piel  
+			5.5 Correcciones  
+			5.6 Igualar Color  
+			5.7 Máscara de capa 01  
+			5.8 Máscara de capa 02  
+			5.9 Igualar Máscara de capa  
+			5.10 Capa de Ajuste
+			6.2 Acciones 01  
+			6.3 Acciones 02  
+			6.4 Lote  
+			6.5 Droplet  
+			6.6 Panorámica  
+			6.7 Combinar HDR</itunes:summary>
+		<language>es</language>
+		<copyright>Creative Commons 3.0</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_PHCS6D_144.jpg</url>
+			<title>Photoshop CS6 Fotógrafos</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_PHCS6D.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>PHCS6FOT 0101 modos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0101_modos.mp4" type="video/mp4" length="38980" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0101_modos.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 07:37:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0102 RGB</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0102_RGB.mp4" type="video/mp4" length="39110" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0102_RGB.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 07:37:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0103 CMYK</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0103_CMYK.mp4" type="video/mp4" length="39249" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0103_CMYK.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 07:37:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0104 grises</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0104_grises.mp4" type="video/mp4" length="35921" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0104_grises.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 07:37:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0105 consultadecolores</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0105_consultadecolores.mp4" type="video/mp4" length="36313" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0105_consultadecolores.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 07:37:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0106 mapadegradado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0106_mapadegradado.mp4" type="video/mp4" length="41736" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0106_mapadegradado.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 07:37:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0107 colorerarimagen</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0107_colorerarimagen.mp4" type="video/mp4" length="35715" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0107_colorerarimagen.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 07:37:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0108 colorerarimagen02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0108_colorerarimagen02.mp4" type="video/mp4" length="37365" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0108_colorerarimagen02.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 07:37:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0109 basecolor</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0109_basecolor.mp4" type="video/mp4" length="36200" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0109_basecolor.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 07:37:05 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0201 correcionlente</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0201_correcionlente.mp4" type="video/mp4" length="35931" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0201_correcionlente.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:26:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0202 recortar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0202_recortar.mp4" type="video/mp4" length="33780" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0202_recortar.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:26:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0203 deformacion libre</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0203_deformacion_libre.mp4" type="video/mp4" length="37873" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0203_deformacion_libre.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:26:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0204 deformacion libre02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0204_deformacion_libre02.mp4" type="video/mp4" length="40104" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0204_deformacion_libre02.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:26:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0205 escalar sgcontenido</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0205_escalar_sgcontenido.mp4" type="video/mp4" length="35753" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0205_escalar_sgcontenido.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:26:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0206 licuar01</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0206_licuar01.mp4" type="video/mp4" length="34064" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0206_licuar01.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:26:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0207 licuar02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0207_licuar02.mp4" type="video/mp4" length="34379" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0207_licuar02.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:26:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0208 angulo ancho adaptable</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0208_angulo_ancho_adaptable.mp4" type="video/mp4" length="33022" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0208_angulo_ancho_adaptable.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:26:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0301 ruidos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0301_ruidos.mp4" type="video/mp4" length="28964" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0301_ruidos.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:28:08 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0302 desenfoque suavizado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0302_desenfoque_suavizado.mp4" type="video/mp4" length="35568" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0302_desenfoque_suavizado.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:28:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0303 enderezar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0303_enderezar.mp4" type="video/mp4" length="33112" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0303_enderezar.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:28:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0304 tiposdeimagenes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0304_tiposdeimagenes.mp4" type="video/mp4" length="29773" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0304_tiposdeimagenes.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:28:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0305 ajustarluces sombras</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0305_ajustarluces_sombras.mp4" type="video/mp4" length="35423" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0305_ajustarluces_sombras.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:28:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0306 luces sombras niveles</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0306_luces_sombras_niveles.mp4" type="video/mp4" length="34641" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0306_luces_sombras_niveles.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:28:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0307 sombras e iluminaciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0307_sombras_e_iluminaciones.mp4" type="video/mp4" length="34200" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0307_sombras_e_iluminaciones.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:28:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0308 sombras e iluminaciones02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0308_sombras_e_iluminaciones02.mp4" type="video/mp4" length="41970" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0308_sombras_e_iluminaciones02.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:28:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0401 cambio modo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0401_cambio_modo.mp4" type="video/mp4" length="38324" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0401_cambio_modo.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:17:01 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0402 curvas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0402_curvas.mp4" type="video/mp4" length="36195" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0402_curvas.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:17:01 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0403 curvas02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0403_curvas02.mp4" type="video/mp4" length="39117" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0403_curvas02.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:17:01 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0404 equilibrio color</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0404_equilibrio_color.mp4" type="video/mp4" length="40877" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0404_equilibrio_color.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:17:00 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0405 filtro fotografia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0405_filtro_fotografia.mp4" type="video/mp4" length="35792" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0405_filtro_fotografia.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:17:00 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0406 HDR01</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0406_HDR01.mp4" type="video/mp4" length="43942" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0406_HDR01.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:17:00 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0407 HDR02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0407_HDR02.mp4" type="video/mp4" length="45710" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0407_HDR02.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:17:00 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0408 consulta colores</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0408_consulta_colores.mp4" type="video/mp4" length="41503" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0408_consulta_colores.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:17:00 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0501 enfoque01</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0501_enfoque01.mp4" type="video/mp4" length="41593" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0501_enfoque01.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:19:39 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0502 mascara enfoque</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0502_mascara_enfoque.mp4" type="video/mp4" length="38639" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0502_mascara_enfoque.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:19:39 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0503 enfoque selectivo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0503_enfoque_selectivo.mp4" type="video/mp4" length="35117" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0503_enfoque_selectivo.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:19:39 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0504 mejorar piel</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0504_mejorar_piel.mp4" type="video/mp4" length="36878" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0504_mejorar_piel.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:19:39 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0505 correcciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0505_correcciones.mp4" type="video/mp4" length="35923" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0505_correcciones.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:19:39 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0506 igualar color</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0506_igualar_color.mp4" type="video/mp4" length="39948" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0506_igualar_color.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:19:39 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0507 mascara capa</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0507_mascara_capa.mp4" type="video/mp4" length="32478" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0507_mascara_capa.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:19:39 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0508 mascara capa02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0508_mascara_capa02.mp4" type="video/mp4" length="32463" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0508_mascara_capa02.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:19:39 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0509 igualar mascara capa</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0509_igualar_mascara_capa.mp4" type="video/mp4" length="35598" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0509_igualar_mascara_capa.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:19:39 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0510 capa ajuste</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0510_capa_ajuste.mp4" type="video/mp4" length="35591" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0510_capa_ajuste.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:19:39 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0601 acciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0601_acciones.mp4" type="video/mp4" length="35032" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0601_acciones.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:20:59 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0602 acciones02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0602_acciones02.mp4" type="video/mp4" length="35938" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0602_acciones02.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:20:59 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0603 acciones03</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0603_acciones03.mp4" type="video/mp4" length="39984" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0603_acciones03.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:20:59 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0604 lote</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0604_lote.mp4" type="video/mp4" length="31342" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0604_lote.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:20:59 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0605 droplet</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0605_droplet.mp4" type="video/mp4" length="30025" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0605_droplet.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:20:59 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0606 panoramica</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0606_panoramica.mp4" type="video/mp4" length="31569" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0606_panoramica.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:20:59 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0607 combinar hdr</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0607_combinar_hdr.mp4" type="video/mp4" length="35586" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0607_combinar_hdr.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:20:59 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+	</channel>
+</rss>

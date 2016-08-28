@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_PremiereCS5_08.xml" />
+		<lastBuildDate>Fri, 10 Jun 2011 11:16:14 +0200</lastBuildDate>
+		<title>Novedades</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Adobe Premiere CS5 es la principal aplicación para la edición y montaje de vídeo digital.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Adobe Premiere CS5 es la principal aplicación para la edición y montaje de vídeo digital.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_PremiereCS5_144.jpg</url>
+			<title>Novedades</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_PremiereCS5.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>8.1 Anidar secuencias.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0801_anidarsecuencia-qtfs.mp4" type="video/mp4" length="14727051" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0801_anidarsecuencia-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:15:50 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>8.2 Reemplazar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0802_reemplazar-qtfs.mp4" type="video/mp4" length="10478440" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0802_reemplazar-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:15:22 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>8.3 Ajuste preestablecidos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0803_ajusteprees-qtfs.mp4" type="video/mp4" length="10215617" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0803_ajusteprees-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:14:55 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>8:4 Botonera efecto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0804_botoneraefecto-qtfs.mp4" type="video/mp4" length="17461991" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0804_botoneraefecto-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:14:24 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+	</channel>
+</rss>

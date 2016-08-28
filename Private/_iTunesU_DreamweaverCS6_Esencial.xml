@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://stream.artesvisuales.com/video/_iTunesU_DreamweaverCS6_Esencial.xml" />
+		<lastBuildDate>Wed, 05 Feb 2014 19:23:54 +0100</lastBuildDate>
+		<title>Dreamweaver CS6 Esencial</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com/</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[El objetivo fundamental del curso es conocer las herramientas fundamentales del software para que tras la finalización del curso, los alumnos sepan manejarlas para seguir los pasos en la creación de un microsite.
+
+Del mismo modo, aprenderemos a maquetar elementos estructurales con el uso de estilos CSS y conoceremos el modo en el que el Software ofrece la posibilidad de establecer conexiones FTP con un servidor remoto para la transferencia de ficheros.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>El objetivo fundamental del curso es conocer las herramientas fundamentales del software para que tras la finalización del curso, los alumnos sepan manejarlas para seguir los pasos en la creación de un microsite.
+
+Del mismo modo, aprenderemos a maquetar elementos estructurales con el uso de estilos CSS y conoceremos el modo en el que el Software ofrece la posibilidad de establecer conexiones FTP con un servidor remoto para la transferencia de ficheros.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>itunes@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS6_Esencial_144.jpg</url>
+			<title>Dreamweaver CS6 Esencial</title>
+			<link>http://www.artesvisuales.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS6_Esencial.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>wordpress</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>DWCS6ES 0104 obtener</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0104_obtener.mp4" type="video/mp4" length="60843" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0104_obtener.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:36 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0201 crear</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0201_crear.mp4" type="video/mp4" length="46716" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0201_crear.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:35 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0202 insertar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0202_insertar.mp4" type="video/mp4" length="63891" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0202_insertar.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:35 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0203 aniadir</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0203_aniadir.mp4" type="video/mp4" length="51551" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0203_aniadir.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:35 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0204 aplicar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0204_aplicar.mp4" type="video/mp4" length="56971" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0204_aplicar.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:35 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0301 posicionar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0301_posicionar.mp4" type="video/mp4" length="58052" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0301_posicionar.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:35 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0302 crear</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0302_crear.mp4" type="video/mp4" length="64771" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0302_crear.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:35 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0303 optimizacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0303_optimizacion.mp4" type="video/mp4" length="57396" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0303_optimizacion.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:35 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0304 hacer</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0304_hacer.mp4" type="video/mp4" length="58838" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0304_hacer.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:35 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0305 uso</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0305_uso.mp4" type="video/mp4" length="51249" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0305_uso.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:35 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0306 adaptar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0306_adaptar.mp4" type="video/mp4" length="61087" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0306_adaptar.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:35 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0400 crear</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0400_crear.mp4" type="video/mp4" length="60191" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0400_crear.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:35 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0401 personalizar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0401_personalizar.mp4" type="video/mp4" length="60093" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0401_personalizar.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:35 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0402 seccion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0402_seccion.mp4" type="video/mp4" length="66969" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0402_seccion.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:35 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0403 paginas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0403_paginas.mp4" type="video/mp4" length="69921" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0403_paginas.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:34 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0500 seccion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0500_seccion.mp4" type="video/mp4" length="31601" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0500_seccion.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:34 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0501 editar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0501_editar.mp4" type="video/mp4" length="67800" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0501_editar.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:34 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0502 como</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0502_como.mp4" type="video/mp4" length="66626" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0502_como.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:34 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0600 seccion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0600_seccion.mp4" type="video/mp4" length="71766" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0600_seccion.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:34 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0601 personalizacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0601_personalizacion.mp4" type="video/mp4" length="68265" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0601_personalizacion.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:34 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0602 envio</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0602_envio.mp4" type="video/mp4" length="67511" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0602_envio.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:34 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0700 ultimas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0700_ultimas.mp4" type="video/mp4" length="55640" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0700_ultimas.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:34 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6ES 0800 sincronizacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6ES_0800_sincronizacion.mp4" type="video/mp4" length="46356" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6ES_0800_sincronizacion.mp4</guid>
+			<pubDate>Wed, 05 Feb 2014 19:23:33 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+	</channel>
+</rss>

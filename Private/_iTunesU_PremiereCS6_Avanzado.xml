@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://stream.artesvisuales.com/video/_iTunesU_PremiereCS6_Avanzado.xml" />
+		<lastBuildDate>Thu, 06 Feb 2014 17:22:13 +0100</lastBuildDate>
+		<title>Premiere CS6 Avanzado</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com/</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[El objetivo de este curso es el de subir el segundo peldaño de conocimientos de Premiere. Conocer los efectos que nos ofrece el programa, así como el uso del titulador, transiciones, etc...
+Su aprendizaje será ágil y sencillo. Evitando posiblemente cursos eternos de cualquier programa de esta envergadura. Con la posibilidad de ver la herramienta por niveles (nivel II ). Conocerá las transiciones. Como aplicar títulos a sus proyectos de edición de vídeos, y el uso de títulos de crédito. Saber la diferencia entre efecto fijo y efecto estándar. Copia, pegado y eliminación de efectos. El panel controles de efectos. Efectos de corrección. Efectos de distorsión. Efectos especiales. Uso elemental del sonido.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>El objetivo de este curso es el de subir el segundo peldaño de conocimientos de Premiere. Conocer los efectos que nos ofrece el programa, así como el uso del titulador, transiciones, etc...
+Su aprendizaje será ágil y sencillo. Evitando posiblemente cursos eternos de cualquier programa de esta envergadura. Con la posibilidad de ver la herramienta por niveles (nivel II ). Conocerá las transiciones. Como aplicar títulos a sus proyectos de edición de vídeos, y el uso de títulos de crédito. Saber la diferencia entre efecto fijo y efecto estándar. Copia, pegado y eliminación de efectos. El panel controles de efectos. Efectos de corrección. Efectos de distorsión. Efectos especiales. Uso elemental del sonido.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>itunes@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_PremiereCS6_Avanzado_144.jpg</url>
+			<title>Premiere CS6 Avanzado</title>
+			<link>http://www.artesvisuales.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_PremiereCS6_Avanzado.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>wordpress</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>PRECS6V2 0100 Transiciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0100_transicion.mp4" type="video/mp4" length="70877" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0100_transicion.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:57 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0101 Iris</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0101_iris.mp4" type="video/mp4" length="54770" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0101_iris.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:57 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0102 Transiciones de video</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0102_transicionesdevideo.mp4" type="video/mp4" length="55236" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0102_transicionesdevideo.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:57 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0200 Titulador</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0200_titulador.mp4" type="video/mp4" length="55169" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0200_titulador.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:57 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0201 Crear título</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0201_creartitulo.mp4" type="video/mp4" length="57767" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0201_creartitulo.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:56 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0202 Apertura título</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0202_aperturatitulo.mp4" type="video/mp4" length="61206" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0202_aperturatitulo.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:56 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0203 Exportar título</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0203_exportartitulo.mp4" type="video/mp4" length="66538" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0203_exportartitulo.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:56 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0204 Introducir texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0204_introducirtexto.mp4" type="video/mp4" length="64909" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0204_introducirtexto.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:56 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0205 Formas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0205_formas.mp4" type="video/mp4" length="55978" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0205_formas.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:56 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0206 Pluma</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0206_pluma.mp4" type="video/mp4" length="63545" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0206_pluma.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:56 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0207 Propiedades</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0207_propiedades.mp4" type="video/mp4" length="62871" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0207_propiedades.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:56 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0208 Estilo nuevo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0208_estilonuevo.mp4" type="video/mp4" length="67712" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0208_estilonuevo.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:56 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0209 Crédito</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0209_credito.mp4" type="video/mp4" length="73027" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0209_credito.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:56 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0210 Arrastre</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0210_arastre.mp4" type="video/mp4" length="62985" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0210_arastre.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:56 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0300 Efectos fijos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0300_efectosfijos.mp4" type="video/mp4" length="60518" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0300_efectosfijos.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:56 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0301 Efectos estándar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0301_efectosestandar.mp4" type="video/mp4" length="53867" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0301_efectosestandar.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:55 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0302 Aplicar efectos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0302_aplicarefectos.mp4" type="video/mp4" length="62978" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0302_aplicarefectos.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:55 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0303 Controles efectos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0303_controlesefectos.mp4" type="video/mp4" length="59883" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0303_controlesefectos.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:55 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0304 Animación efecto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0304_animacionefecto.mp4" type="video/mp4" length="63993" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0304_animacionefecto.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:55 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0400 Desenfoque</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0400_desenfoque.mp4" type="video/mp4" length="59491" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0400_desenfoque.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:55 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0401 Canal</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0401_canal.mp4" type="video/mp4" length="57069" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0401_canal.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:55 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0402 Corrección color</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0402_correccioncolor.mp4" type="video/mp4" length="61977" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0402_correccioncolor.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:55 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0403 Blanco y negro</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0403_blancoynegro.mp4" type="video/mp4" length="60001" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0403_blancoynegro.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:55 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0404 Ruido granulado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0404_ruidogranulado.mp4" type="video/mp4" length="54938" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0404_ruidogranulado.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:55 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0405 Cambio color</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0405_cambiocolor.mp4" type="video/mp4" length="60129" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0405_cambiocolor.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:55 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0406 Conservar color</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0406_conservarcolor.mp4" type="video/mp4" length="58797" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0406_conservarcolor.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:55 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0407 Endurecer</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0407_endurecer.mp4" type="video/mp4" length="54989" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0407_endurecer.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0408 Umbral</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0408_umbral.mp4" type="video/mp4" length="52470" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0408_umbral.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0409 Volteado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0409_volteado.mp4" type="video/mp4" length="57648" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0409_volteado.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0410 Luminancia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0410_luminancia.mp4" type="video/mp4" length="61230" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0410_luminancia.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0411 Pista mate</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0411_pistamate.mp4" type="video/mp4" length="56388" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0411_pistamate.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0412 Estabilizador</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0412_estabilizador.mp4" type="video/mp4" length="57202" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0412_estabilizador.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0500 Aumentar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0500_aumentar.mp4" type="video/mp4" length="62348" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0500_aumentar.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0501 Esferizar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0501_esferizar.mp4" type="video/mp4" length="64054" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0501_esferizar.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0502 Espejo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0502_espejo.mp4" type="video/mp4" length="57142" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0502_espejo.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0503 Transformar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0503_transformar.mp4" type="video/mp4" length="59396" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0503_transformar.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0504 Croma</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0504_croma.mp4" type="video/mp4" length="58564" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0504_croma.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0505 Estilizar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0505_estilizar.mp4" type="video/mp4" length="56880" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0505_estilizar.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0506 Pluma borde</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0506_plumaborde.mp4" type="video/mp4" length="57953" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0506_plumaborde.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0507 Recortar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0507_recortar.mp4" type="video/mp4" length="57931" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0507_recortar.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0508 Dieciseis</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0508_dieciseis.mp4" type="video/mp4" length="61432" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0508_dieciseis.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0509 Pista mate</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0509_pistamate.mp4" type="video/mp4" length="53704" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0509_pistamate.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0600 Generación</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0600_generacion.mp4" type="video/mp4" length="67738" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0600_generacion.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0601 Perspectiva</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0601_perspectiva.mp4" type="video/mp4" length="60940" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0601_perspectiva.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0602 Comic</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0602_comic.mp4" type="video/mp4" length="65750" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0602_comic.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0603 Deformación ondas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0603_defornmacionondas.mp4" type="video/mp4" length="66094" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0603_defornmacionondas.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0604 Turbulento</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0604_turbulento.mp4" type="video/mp4" length="63956" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0604_turbulento.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0605 Molinete</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0605_molinete.mp4" type="video/mp4" length="58700" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0605_molinete.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0606 Desplazamiento</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0606_desplazamiento.mp4" type="video/mp4" length="61793" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0606_desplazamiento.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0607 Estroboscopica</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0607_estroboscopica.mp4" type="video/mp4" length="58198" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0607_estroboscopica.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0608 Relieve</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0608_relieve.mp4" type="video/mp4" length="61404" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0608_relieve.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0609 Solarizar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0609_solarizar.mp4" type="video/mp4" length="62330" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0609_solarizar.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0610 Texturizar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0610_texturizar.mp4" type="video/mp4" length="56446" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0610_texturizar.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0611 Elipse</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0611_elipse.mp4" type="video/mp4" length="59372" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0611_elipse.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0612 Posterización</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0612_posterizacion.mp4" type="video/mp4" length="60721" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0612_posterizacion.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0700 Efectos sonido</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0700_efectossonido.mp4" type="video/mp4" length="49472" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0700_efectossonido.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0701 Ajuste nivel</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0701_ajustenivel.mp4" type="video/mp4" length="48173" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0701_ajustenivel.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0702 Mejoras</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0702_mejoras.mp4" type="video/mp4" length="45700" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0702_mejoras.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0703 Reverberación</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0703_reverberacion.mp4" type="video/mp4" length="52426" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0703_reverberacion.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0704 Encadenados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0704_encadenados.mp4" type="video/mp4" length="50901" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0704_encadenados.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0705 Grabación</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0705_grabacion.mp4" type="video/mp4" length="54654" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0705_grabacion.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0706 Solo pista</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0706_solopista.mp4" type="video/mp4" length="59221" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0706_solopista.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>PRECS6V2 0707 Potencia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PRECS6V2_0707_potencia.mp4" type="video/mp4" length="50847" />
+			<guid>http://stream.artesvisuales.com/video/PRECS6V2_0707_potencia.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 17:06:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+	</channel>
+</rss>

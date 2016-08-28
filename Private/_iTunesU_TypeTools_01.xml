@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_TypeTools_01.xml"/>
+		<lastBuildDate>Tue, 31 Jan 2012 11:09:11 +0200</lastBuildDate>
+		<title>Interfaz</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://campus.artesvisuales.com</link>
+		<description/>
+		<itunes:subtitle/>
+		<itunes:summary/>
+		<language>es-es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name/>
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS5_144.jpg</url>
+			<title>Interfaz</title>
+			<link>http://campus.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS5.jpg"/>
+		<category>Training</category>
+		<itunes:category text="Education">
+			<itunes:category text="Training"/>
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design"/>
+		</itunes:category>
+		<itunes:keywords/>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>1.1 Introducción a TypeTools</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0101_intro-iPodWM.m4v" type="vídeo/x-m4v" length="15616358"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0101_intro-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:08:41 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>1.2 Entorno y personalización.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0102_entorno_personalizacion-iPodWM.m4v" type="vídeo/x-m4v" length="14965646"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0102_entorno_personalizacion-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:08:25 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>1.3 Ventanas.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0103_ventanas-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0103_ventanas-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:08:01 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>1.4 Ventanas de Fuente de Typetools</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0104_ventana_fuente-iPodWM.m4v" type="vídeo/x-m4v" length="21338191"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0104_ventana_fuente-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:07:42 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>1.5. La ventana de glifo.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0105_ventana_glifo-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0105_ventana_glifo-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>1.6. La ventana de medidas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0106_ventana_medidas-iPodWM.m4v" type="vídeo/x-m4v" length="14965646"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0106_ventana_medidas-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:24 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>1.7 Panel de preferencias</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0107_paneles_preferencias-iPodWM.m4v" type="vídeo/x-m4v" length="15616358"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0107_paneles_preferencias-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 10:59:18 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>     
+	</channel>
+</rss>

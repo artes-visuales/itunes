@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Podcast/_iTunesUp_INDCS4_maestras.xml" />
+		<lastBuildDate>Mon, 06 Jun 2011 10:06:06 +0200</lastBuildDate>
+		<title>Indesign CS4 - Páginas Maestras</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Una página maestra es similar a un fondo que se puede aplicar con rapidez a muchas páginas.]]></description>
+		<itunes:subtitle>Una página maestra es similar a un fondo que se puede aplicar con rapidez a muchas páginas.</itunes:subtitle>
+		<itunes:summary>Una página maestra es similar a un fondo que se puede aplicar con rapidez a muchas páginas.</itunes:summary>
+		<language>es</language>
+		<copyright>Creative Commons 3.0</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Podcast/_iTunesUp_INDCS4_maestras_144.jpg</url>
+			<title>Indesign CS4 - Páginas Maestras</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Podcast/_iTunesUp_INDCS4_maestras.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Páginas Maestras I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description><![CDATA[Los objetos de una página maestra aparecen en todas las páginas con dicha página maestra aplicada]]></description>
+			<itunes:subtitle>Los objetos de una página maestra aparecen en todas las páginas con dicha página maestra aplicada</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/INDCS4_0215_maestra01-ipod.m4v" type="video/x-m4v" length="19692176" />
+			<guid>http://itunes.artesvisuales.com/Podcast/INDCS4_0215_maestra01-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 10:15:03 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Páginas Maestras II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description><![CDATA[Los objetos de una página maestra aparecen en todas las páginas con dicha página maestra aplicada]]></description>
+			<itunes:subtitle>Los objetos de una página maestra aparecen en todas las páginas con dicha página maestra aplicada</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/INDCS4_0216_maestra02-ipod.m4v" type="video/x-m4v" length="21477593" />
+			<guid>http://itunes.artesvisuales.com/Podcast/INDCS4_0216_maestra02-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 10:14:40 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Páginas Maestras III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description><![CDATA[Los objetos de una página maestra aparecen en todas las páginas con dicha página maestra aplicada]]></description>
+			<itunes:subtitle>Los objetos de una página maestra aparecen en todas las páginas con dicha página maestra aplicada</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/INDCS4_0217_maestra03-ipod.m4v" type="video/x-m4v" length="29739404" />
+			<guid>http://itunes.artesvisuales.com/Podcast/INDCS4_0217_maestra03-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 10:14:13 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Páginas Maestras IV</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description><![CDATA[Los objetos de una página maestra aparecen en todas las páginas con dicha página maestra aplicada.]]></description>
+			<itunes:subtitle>Los objetos de una página maestra aparecen en todas las páginas con dicha página maestra aplicada.</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/INDCS4_0218_maestra04-ipod.m4v" type="video/x-m4v" length="34466225" />
+			<guid>http://itunes.artesvisuales.com/Podcast/INDCS4_0218_maestra04-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 10:13:23 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+	</channel>
+</rss>

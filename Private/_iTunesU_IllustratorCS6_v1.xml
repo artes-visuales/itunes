@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_IllustratorCS6_v1.xml" />
+		<lastBuildDate>Wed, 13 Jun 2012 18:07:24 +0200</lastBuildDate>
+		<title>Illustrator CS6 Esential</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[En el podcast de esta asignatura establecemos los fundamentos del dibujo vectorial con Adobe Illustrator CS6]]></description>
+		<itunes:subtitle />
+		<itunes:summary>En el podcast de esta asignatura establecemos los fundamentos del dibujo vectorial con Adobe Illustrator CS6</itunes:summary>
+		<language>es</language>
+		<copyright>© Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_IllustratorCS6_v1_144.jpg</url>
+			<title>Illustrator CS6 Esential</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_IllustratorCS6_v1.jpg" />
+		<category>Podcasting</category>
+		<itunes:category text="Technology">
+			<itunes:category text="Podcasting" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<category>Training</category>
+		<itunes:category text="Education">
+			<itunes:category text="Training" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>AICS6 0100 nuevo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0100_nuevo.mp4" type="video/x-mp4" length="3951" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0100_nuevo.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:37 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0101 interface</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0101_interface.mp4" type="video/x-mp4" length="5548" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0101_interface.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:37 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0102 brillo e interface</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0102_brillointerface.mp4" type="video/x-mp4" length="5286" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0102_brillointerface.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:37 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0103 valores</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0103_valores.mp4" type="video/x-mp4" length="5796" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0103_valores.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:37 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0104 gestion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0104_gestion.mp4" type="video/x-mp4" length="3783" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0104_gestion.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:36 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0105 visibilidad</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0105_visibilidad.mp4" type="video/x-mp4" length="11610" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0105_visibilidad.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:36 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0106 avanzado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0106_avanzado.mp4" type="video/x-mp4" length="5277" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0106_avanzado.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:36 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0107 generales</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0107_generales.mp4" type="video/x-mp4" length="5446" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0107_generales.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:35 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0200 seleccionar objetos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0200_seleccionarobjetos.mp4" type="video/x-mp4" length="7500" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0200_seleccionarobjetos.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:35 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0201 plumavectorial</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0201_plumavectorial.mp4" type="video/x-mp4" length="5747" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0201_plumavectorial.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:35 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0202 poligonales</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0202_poligonales.mp4" type="video/x-mp4" length="5383" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0202_poligonales.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:34 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0203 modos de dibujo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0203_modosdibujo.mp4" type="video/x-mp4" length="5568" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0203_modosdibujo.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:34 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0204 guias</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0204_guias.mp4" type="video/x-mp4" length="7498" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0204_guias.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:33 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0205 cuadricula</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0205_cuadricula.mp4" type="video/x-mp4" length="5961" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0205_cuadricula.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:33 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0206 lineayarco</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0206_lineayarco.mp4" type="video/x-mp4" length="5943" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0206_lineayarco.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:32 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0207 escalar y reflejar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0207_escalayreflejar.mp4" type="video/x-mp4" length="6348" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0207_escalayreflejar.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:32 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0208 plantilla</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0208_plantilla.mp4" type="video/x-mp4" length="4796" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0208_plantilla.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:31 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0209 capa</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0209_capa.mp4" type="video/x-mp4" length="5631" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0209_capa.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:31 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0300 texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0300_texto.mp4" type="video/x-mp4" length="5474" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0300_texto.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:31 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0301 texto y trazo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0301_textoytrazo.mp4" type="video/x-mp4" length="4780" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0301_textoytrazo.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:30 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0302 caracter</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0302_caracter.mp4" type="video/x-mp4" length="7925" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0302_caracter.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:30 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0303 parrafo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0303_parrafo.mp4" type="video/x-mp4" length="9756" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0303_parrafo.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:29 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0400 modos de forma</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0400_modosdeforma.mp4" type="video/x-mp4" length="4679" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0400_modosdeforma.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:29 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0401 buscatrazos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0401_buscatrazos.mp4" type="video/x-mp4" length="6265" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0401_buscatrazos.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:28 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0402 mascara de recorte</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0402_mascaraderecorte.mp4" type="video/x-mp4" length="7465" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0402_mascaraderecorte.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:28 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0403 rotaciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0403_rotaciones.mp4" type="video/x-mp4" length="6639" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0403_rotaciones.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:27 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0404 reflejar y unir</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0404_reflejarunir.mp4" type="video/x-mp4" length="5405" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0404_reflejarunir.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:27 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0405 escalar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0405_escalar.mp4" type="video/x-mp4" length="6982" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0405_escalar.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:26 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0406 alinear</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0406_alinear.mp4" type="video/x-mp4" length="6067" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0406_alinear.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:26 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0407 agrupamiento</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0407_agrupamiento.mp4" type="video/x-mp4" length="7343" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0407_agrupamiento.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:25 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0500 cuatricromia global</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0500_cuatricromiaglobal.mp4" type="video/x-mp4" length="5872" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0500_cuatricromiaglobal.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:25 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0502 conversion a tinta plana</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0502_conversionatintaplana.mp4" type="video/x-mp4" length="12101" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0502_conversionatintaplana.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:24 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0503 espacio de color</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0503_espaciodecolor.mp4" type="video/x-mp4" length="8696" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0503_espaciodecolor.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:24 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0504 valores</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0504_valores.mp4" type="video/x-mp4" length="6018" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0504_valores.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:23 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0505 colores usados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0505_coloresusados.mp4" type="video/x-mp4" length="10118" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0505_coloresusados.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:23 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0506 reventado manual</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0506_reventadomanual.mp4" type="video/x-mp4" length="9195" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0506_reventadomanual.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:23 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0507 reventar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0507_reventar.mp4" type="video/x-mp4" length="8400" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0507_reventar.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:22 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0508 reventar texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0508_reventartexto.mp4" type="video/x-mp4" length="9129" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0508_reventartexto.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:22 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0509 documentos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0509_documentos.mp4" type="video/x-mp4" length="5469" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0509_documentos.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:21 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0510 archivoPSD</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0510_archivoPSD.mp4" type="video/x-mp4" length="5217" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0510_archivoPSD.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:20 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>AICS6 0511 guardar y exportar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AICS6_0511_guardarexportar.mp4" type="video/x-mp4" length="9277" />
+			<guid>http://stream.artesvisuales.com/video/AICS6_0511_guardarexportar.mp4</guid>
+			<pubDate>Wed, 13 Jun 2012 17:48:19 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+	</channel>
+</rss>

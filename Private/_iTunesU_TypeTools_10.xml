@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_TypeTools_10.xml"/>
+		<lastBuildDate>Tue, 31 Jan 2012 11:09:11 +0200</lastBuildDate>
+		<title>Tema 10 Información cabecera de fuentes.</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://campus.artesvisuales.com</link>
+		<description/>
+		<itunes:subtitle/>
+		<itunes:summary/>
+		<language>es-es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name/>
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_TypeTools_144.jpg</url>
+			<link>http://campus.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_TypeTools.jpg"/>
+		<category>Training</category>
+		<itunes:category text="Education">
+			<itunes:category text="Training"/>
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design"/>
+		</itunes:category>
+		<itunes:keywords/>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>10.1 Cabecera de fuentes I.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_1001_cabecera_fuente_nombres1-iPodWM.m4v" type="vídeo/x-m4v" length="15616358"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_1001_cabecera_fuente_nombres1-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:08:41 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>10.2 Cabecera de fuentes II.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_1002_cabecera_fuente_nombres2-iPodWM.m4v" type="vídeo/x-m4v" length="14965646"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_1002_cabecera_fuente_nombres2-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:08:25 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>10.3 Cabecera de fuentes y copyright.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_1003_cabecera_fuente_copyright-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_1003_cabecera_fuente_copyright-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:08:01 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>10.4 Cabecera de fuentes, diseñador y licencia.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_1004_cabecera_fuente_disenador_licencia-iPodWM.m4v" type="vídeo/x-m4v" length="21338191"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_1004_cabecera_fuente_disenador_licencia-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:07:42 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>10.5 Cabecera de fuente, versión e identificación.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_1005_cabecera_version_identificacion-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_1005_cabecera_version_identificacion-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item> 
+		<item>
+			<title>10.6 Cabecera de fuente, medidas y dimensiones clave.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_1006_medidas_dimensiones_clave-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_1006_medidas_dimensiones_clave-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>10.7 Medidas verticales truetype.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_1007_medidas_verticales_truetype-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_1007_medidas_verticales_truetype-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>  
+		<item>
+			<title>10.8 Codificación unicode.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_1008_codificacion_unicode-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_1008_codificacion_unicode-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+	</channel>
+</rss>

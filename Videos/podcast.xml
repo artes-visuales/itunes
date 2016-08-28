@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>iTunes U artesvisuales.com</title>
+        <link>http://itunes.artesvisuales.com/videos/</link>
+        <description>Podcast artesvisuales</description>
+        <generator>RoadMovie 2.5.2, http://www.bitfield.se/roadmovie/</generator>
+        <language>es</language>
+        <pubDate>Wed, 15 Jun 2005 19:00:00 GMT</pubDate>
+        <copyright>© Todos los derechos reservados</copyright>
+        <itunes:author>Instituto Artes Visuales</itunes:author>
+        <itunes:block>no</itunes:block>
+        <itunes:image href="http://www.bitfield.se/roadmovie/images/podcast-logo.jpg"></itunes:image>
+        <itunes:category text="Arts"><itunes:category text="Arts"></itunes:category>
+        </itunes:category>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/PHCS6_0103_metodos_abreviados.mp4" length="10998" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">E0C102E6-7C43-4341-8ECC-EF006A4708AA</guid>
+            <pubDate>Mon, 14 Jan 2013 07:20:10 +0100</pubDate>
+            <itunes:duration>00:00:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/PHCS6_0103_pincel_mezclador01.mp4" length="13405" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">EF3426A3-D18E-4AAA-AA6B-4B24306FFB38</guid>
+            <pubDate>Mon, 14 Jan 2013 07:20:11 +0100</pubDate>
+            <itunes:duration>00:00:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/PHCS6_0104_organizar.mp4" length="11949" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">E861996B-319F-4084-828E-A9CDF29BA0DE</guid>
+            <pubDate>Mon, 14 Jan 2013 07:22:32 +0100</pubDate>
+            <itunes:duration>00:00:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/PHCS6_0104_pincel_mezclador02.mp4" length="15565" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">08C30447-179B-4A0F-9801-18F799AE587F</guid>
+            <pubDate>Mon, 14 Jan 2013 07:22:33 +0100</pubDate>
+            <itunes:duration>00:00:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0101_pantalla.mp4" length="4154849" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">0E511B85-4D98-4E52-A0EB-CE72320D6F76</guid>
+            <pubDate>Mon, 18 Mar 2013 11:22:55 +0100</pubDate>
+            <itunes:duration>00:02:19</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0102_gestion.mp4" length="1888408" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">BA5D6BF9-FAB1-4D1D-8133-1850A4B884AF</guid>
+            <pubDate>Mon, 18 Mar 2013 11:23:05 +0100</pubDate>
+            <itunes:duration>00:01:12</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0103_organizacion.mp4" length="5229159" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">FBC9480F-FE64-464B-B515-ADB55ABF7A82</guid>
+            <pubDate>Mon, 18 Mar 2013 11:23:30 +0100</pubDate>
+            <itunes:duration>00:02:31</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0104_espacios.mp4" length="5845921" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">99E3905F-313A-4C57-9535-3002229B7FF2</guid>
+            <pubDate>Mon, 18 Mar 2013 11:23:59 +0100</pubDate>
+            <itunes:duration>00:03:01</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0105_barra.mp4" length="4140156" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">4DB8A55E-6A61-4240-8C46-549B77CC7390</guid>
+            <pubDate>Mon, 18 Mar 2013 11:24:19 +0100</pubDate>
+            <itunes:duration>00:02:22</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0201_crear.mp4" length="19968165" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">3E09E8F5-8155-4060-A128-C92E89A6EEE7</guid>
+            <pubDate>Mon, 18 Mar 2013 11:28:06 +0100</pubDate>
+            <itunes:duration>00:05:30</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0202_guardar.mp4" length="4413499" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">8680529B-E8C8-4DD8-9876-704F4D2937FC</guid>
+            <pubDate>Mon, 18 Mar 2013 11:28:32 +0100</pubDate>
+            <itunes:duration>00:02:47</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0203_barra.mp4" length="11146889" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">6B2B45CF-4F88-47D2-B138-F1B52CA18F2A</guid>
+            <pubDate>Mon, 18 Mar 2013 11:29:27 +0100</pubDate>
+            <itunes:duration>00:06:07</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0204_barra.mp4" length="4649025" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">986F36DD-78E2-47CA-861F-6C82C6E75022</guid>
+            <pubDate>Mon, 18 Mar 2013 11:29:52 +0100</pubDate>
+            <itunes:duration>00:03:02</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0205_barra.mp4" length="4393184" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">458BA4E0-AC5B-4235-BE4B-86A6ADEC7B45</guid>
+            <pubDate>Mon, 18 Mar 2013 11:30:13 +0100</pubDate>
+            <itunes:duration>00:02:12</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0206_barra.mp4" length="4610286" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">785AA93B-1423-4FB2-9EBF-E261D6A85D5D</guid>
+            <pubDate>Mon, 18 Mar 2013 11:30:42 +0100</pubDate>
+            <itunes:duration>00:02:01</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0301_como.mp4" length="11648176" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">0D3250AB-B619-496E-B442-FEB183C15A04</guid>
+            <pubDate>Mon, 18 Mar 2013 11:31:33 +0100</pubDate>
+            <itunes:duration>00:05:05</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0302_sincronizar.mp4" length="4762073" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">94C734FF-248E-4278-AF1A-2F129C80ED65</guid>
+            <pubDate>Mon, 18 Mar 2013 11:32:02 +0100</pubDate>
+            <itunes:duration>00:02:37</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0303_administracion.mp4" length="4756622" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">3D5C6B80-E2F1-4B0D-84E3-7D910119D150</guid>
+            <pubDate>Mon, 18 Mar 2013 11:32:26 +0100</pubDate>
+            <itunes:duration>00:02:44</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0401_vista.mp4" length="8992902" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">3B188251-29AB-40B5-9E9C-377B44E64B9A</guid>
+            <pubDate>Mon, 18 Mar 2013 11:33:07 +0100</pubDate>
+            <itunes:duration>00:04:07</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0402_multipantalla.mp4" length="7849908" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">C07F5B44-2EF8-4350-B4FF-410CC2656770</guid>
+            <pubDate>Mon, 18 Mar 2013 11:33:41 +0100</pubDate>
+            <itunes:duration>00:03:19</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0403_vista.mp4" length="5067785" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">320A15E2-9229-4FB4-8928-87C29FFB3053</guid>
+            <pubDate>Mon, 18 Mar 2013 11:34:05 +0100</pubDate>
+            <itunes:duration>00:02:28</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0404_adobe.mp4" length="7234662" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">C65E1D45-0C9A-4F49-88F7-7CE55E53F4F1</guid>
+            <pubDate>Mon, 18 Mar 2013 11:34:46 +0100</pubDate>
+            <itunes:duration>00:04:02</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0501_aplicar.mp4" length="42382788" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">04976DC8-9859-4982-BFDA-D0D0034C7788</guid>
+            <pubDate>Mon, 18 Mar 2013 11:41:23 +0100</pubDate>
+            <itunes:duration>00:06:53</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0502_editor.mp4" length="4736716" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">BC0F52E2-0ADF-46CA-9869-153DFCDAF8CE</guid>
+            <pubDate>Mon, 18 Mar 2013 11:41:48 +0100</pubDate>
+            <itunes:duration>00:02:26</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0601_navegacion.mp4" length="4100205" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">CB07D71A-3FCF-4569-86E7-4BB39F1A7F76</guid>
+            <pubDate>Mon, 18 Mar 2013 11:42:04 +0100</pubDate>
+            <itunes:duration>00:01:29</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0602_contraer.mp4" length="2566951" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">8A07A638-4255-4297-8FA5-7DC383DB5E81</guid>
+            <pubDate>Mon, 18 Mar 2013 11:42:17 +0100</pubDate>
+            <itunes:duration>00:01:25</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0603_selecciones.mp4" length="2463804" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">0A6439B0-8FA0-4E84-A5FE-2A7CBD64CEA7</guid>
+            <pubDate>Mon, 18 Mar 2013 11:42:28 +0100</pubDate>
+            <itunes:duration>00:01:06</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0604_ayudas.mp4" length="3967267" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">5E722C10-A843-4B39-A7ED-1BC1FD9B60C8</guid>
+            <pubDate>Mon, 18 Mar 2013 11:42:43 +0100</pubDate>
+            <itunes:duration>00:01:34</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0605_comentarios.mp4" length="3809072" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">9F76F958-9927-46AE-874D-40B36FF0B328</guid>
+            <pubDate>Mon, 18 Mar 2013 11:42:58 +0100</pubDate>
+            <itunes:duration>00:01:37</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0606_fragmentos.mp4" length="4988749" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">366255B3-CB7A-4C7F-850B-B89E9FAFADB7</guid>
+            <pubDate>Mon, 18 Mar 2013 11:43:21 +0100</pubDate>
+            <itunes:duration>00:02:23</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0607_sugerencias.mp4" length="8449419" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">C706D972-F379-4074-AD73-D71716034EF4</guid>
+            <pubDate>Mon, 18 Mar 2013 11:44:01 +0100</pubDate>
+            <itunes:duration>00:04:25</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0608_formatear.mp4" length="6136692" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">B886C236-0600-4551-A03D-8B9DCDE92B51</guid>
+            <pubDate>Mon, 18 Mar 2013 11:44:27 +0100</pubDate>
+            <itunes:duration>00:02:35</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0701_vinculos.mp4" length="13560018" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">D6D9765D-06BE-4E9D-94A7-028AE6B5100B</guid>
+            <pubDate>Mon, 18 Mar 2013 11:45:19 +0100</pubDate>
+            <itunes:duration>00:05:18</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0702_vinculos.mp4" length="9651138" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">1424B347-2FFD-4361-B1BD-392678F18D87</guid>
+            <pubDate>Mon, 18 Mar 2013 11:45:50 +0100</pubDate>
+            <itunes:duration>00:02:23</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0703_vinculo.mp4" length="4103158" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">C15FCB96-6814-43B3-B701-A7D83D018565</guid>
+            <pubDate>Mon, 18 Mar 2013 11:46:11 +0100</pubDate>
+            <itunes:duration>00:02:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0704_anclaje.mp4" length="12814231" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">4CDDCBB7-ECE1-4559-8C72-8D46E23D0E68</guid>
+            <pubDate>Mon, 18 Mar 2013 11:46:52 +0100</pubDate>
+            <itunes:duration>00:03:55</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0801_panel.mp4" length="10710779" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">06E2456F-B220-47DB-9CD0-769DA0A977E9</guid>
+            <pubDate>Mon, 18 Mar 2013 11:47:48 +0100</pubDate>
+            <itunes:duration>00:05:46</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0802_edicion.mp4" length="7481917" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">F8171089-71A4-403D-8823-ACDEB5A7B70C</guid>
+            <pubDate>Mon, 18 Mar 2013 11:48:21 +0100</pubDate>
+            <itunes:duration>00:03:19</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0803_insertar.mp4" length="5990210" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">A7519C87-BB7A-4892-B086-EAD816323A9D</guid>
+            <pubDate>Mon, 18 Mar 2013 11:48:37 +0100</pubDate>
+            <itunes:duration>00:02:58</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0804_imagenes.mp4" length="12771874" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">E977E63F-996A-4585-8576-B1C0CFBB9A7B</guid>
+            <pubDate>Mon, 18 Mar 2013 11:49:27 +0100</pubDate>
+            <itunes:duration>00:04:59</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0805_marcador.mp4" length="5203621" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">B59B52D8-E2D8-46CC-858B-D32E2DB6F8B9</guid>
+            <pubDate>Mon, 18 Mar 2013 11:49:52 +0100</pubDate>
+            <itunes:duration>00:02:40</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0806_imagen.mp4" length="5526524" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">0BEC7236-97E7-4393-8F54-77261C6AE91A</guid>
+            <pubDate>Mon, 18 Mar 2013 11:50:16 +0100</pubDate>
+            <itunes:duration>00:02:28</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0807_imagen.mp4" length="10514595" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">0ADF1081-BD13-483E-9D27-ECD49D01A620</guid>
+            <pubDate>Mon, 18 Mar 2013 11:51:42 +0100</pubDate>
+            <itunes:duration>00:02:58</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_0901_propiedades.mp4" length="10580229" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">0141ADC9-A015-4E65-8850-C80574EE71B8</guid>
+            <pubDate>Mon, 18 Mar 2013 11:52:42 +0100</pubDate>
+            <itunes:duration>00:06:28</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1001_como.mp4" length="4658344" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">1E05D7AC-1FD7-4368-92A5-4A29A6407D69</guid>
+            <pubDate>Mon, 18 Mar 2013 11:53:12 +0100</pubDate>
+            <itunes:duration>00:02:45</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1002_propiedades.mp4" length="4189459" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">39CFAB64-4877-4EBE-9918-0E27B7AC379F</guid>
+            <pubDate>Mon, 18 Mar 2013 11:53:33 +0100</pubDate>
+            <itunes:duration>00:02:40</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1003_objetos.mp4" length="5208664" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">F236733C-8465-4906-A487-160C5F5BA5CE</guid>
+            <pubDate>Mon, 18 Mar 2013 11:54:02 +0100</pubDate>
+            <itunes:duration>00:03:19</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1004_campo.mp4" length="7861858" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">B202A518-4BFA-482F-BF0E-6EFCB59E0A9B</guid>
+            <pubDate>Mon, 18 Mar 2013 11:54:49 +0100</pubDate>
+            <itunes:duration>00:04:38</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1005_area.mp4" length="4687505" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">E8C9E32A-FEDA-4E21-A6F4-C147841F389F</guid>
+            <pubDate>Mon, 18 Mar 2013 11:55:13 +0100</pubDate>
+            <itunes:duration>00:02:42</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1006_casilla.mp4" length="3653138" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">7ED03872-2A42-415D-9EBA-0EE47F974587</guid>
+            <pubDate>Mon, 18 Mar 2013 11:55:33 +0100</pubDate>
+            <itunes:duration>00:02:03</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1007_grupo.mp4" length="6037343" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">C54B7FA5-C6F7-43A2-8712-E62A6B0D3B6D</guid>
+            <pubDate>Mon, 18 Mar 2013 11:56:05 +0100</pubDate>
+            <itunes:duration>00:03:43</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1008_seleccionar.mp4" length="6005901" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">46AA3A90-C6BE-4528-9D44-4834EFC14FF1</guid>
+            <pubDate>Mon, 18 Mar 2013 11:56:35 +0100</pubDate>
+            <itunes:duration>00:03:21</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1009_campo.mp4" length="3578171" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">B6D41311-E547-4015-951E-959B94FF8C93</guid>
+            <pubDate>Mon, 18 Mar 2013 11:56:52 +0100</pubDate>
+            <itunes:duration>00:01:55</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1010_boton.mp4" length="2833266" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">590DFD82-6FEC-45D8-B453-4DB83DB64295</guid>
+            <pubDate>Mon, 18 Mar 2013 11:57:08 +0100</pubDate>
+            <itunes:duration>00:01:44</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1011_juego.mp4" length="2273350" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">085DF89D-97CE-4FD6-8821-26EC5EE63554</guid>
+            <pubDate>Mon, 18 Mar 2013 11:57:20 +0100</pubDate>
+            <itunes:duration>00:01:16</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1012_campo.mp4" length="9847876" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">A0876AB0-DA09-48C4-976D-1F45CD0459AF</guid>
+            <pubDate>Mon, 18 Mar 2013 11:58:08 +0100</pubDate>
+            <itunes:duration>00:05:44</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1013_area.mp4" length="6440253" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">DE199D2E-2A34-4561-B76F-D268F68B60C7</guid>
+            <pubDate>Mon, 18 Mar 2013 11:59:02 +0100</pubDate>
+            <itunes:duration>00:02:12</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1014_contrasenia.mp4" length="10502868" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">71A4EF50-4169-49A2-AED6-088807596484</guid>
+            <pubDate>Mon, 18 Mar 2013 12:00:53 +0100</pubDate>
+            <itunes:duration>00:02:23</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1101_texto.mp4" length="9527309" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">6A20C075-A719-4F70-86DF-F906C69180F4</guid>
+            <pubDate>Mon, 18 Mar 2013 12:01:33 +0100</pubDate>
+            <itunes:duration>00:03:27</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1102_vinculos.mp4" length="8736221" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">C7C65336-3323-4E55-B29D-E56DD76DD5AF</guid>
+            <pubDate>Mon, 18 Mar 2013 12:02:12 +0100</pubDate>
+            <itunes:duration>00:04:20</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1103_imagenes.mp4" length="12925625" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">448B80DE-D388-4819-8004-03EA1670E3D9</guid>
+            <pubDate>Mon, 18 Mar 2013 12:03:00 +0100</pubDate>
+            <itunes:duration>00:04:24</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1104_tabla.mp4" length="12091410" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">9F7D78EB-78B2-4D76-BB80-2E1F85286A69</guid>
+            <pubDate>Mon, 18 Mar 2013 12:04:28 +0100</pubDate>
+            <itunes:duration>00:02:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1105_formulario.mp4" length="5648457" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">00E695A1-CEBC-4EA9-8E2B-8BBC77164F66</guid>
+            <pubDate>Mon, 18 Mar 2013 12:04:48 +0100</pubDate>
+            <itunes:duration>00:01:37</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/dwcs6_1106_uso.mp4" length="33668671" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">D05BBD4E-11AF-4417-817D-0DADF09A1373</guid>
+            <pubDate>Mon, 18 Mar 2013 12:09:12 +0100</pubDate>
+            <itunes:duration>00:04:58</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1201_insertar.mp4" length="18335228" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">EDBF9BD8-11FB-4DF1-AB00-D6109168DADA</guid>
+            <pubDate>Mon, 18 Mar 2013 12:10:17 +0100</pubDate>
+            <itunes:duration>00:05:35</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1202_dibujar.mp4" length="5083457" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">F0AD2FEC-371A-4329-95BE-C961D874DB38</guid>
+            <pubDate>Mon, 18 Mar 2013 12:10:46 +0100</pubDate>
+            <itunes:duration>00:03:02</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1203_inspector.mp4" length="6166045" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">0AAA3592-9A1D-49A2-942A-A28E210E19D6</guid>
+            <pubDate>Mon, 18 Mar 2013 12:11:21 +0100</pubDate>
+            <itunes:duration>00:03:45</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1204_panel.mp4" length="3027770" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">BAEA0650-8B49-4CF3-842A-AFB2C1F3E1AF</guid>
+            <pubDate>Mon, 18 Mar 2013 12:11:38 +0100</pubDate>
+            <itunes:duration>00:01:59</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1205_crear.mp4" length="6577619" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">47977769-8C10-47E1-943F-BF87123ED10F</guid>
+            <pubDate>Mon, 18 Mar 2013 12:12:56 +0100</pubDate>
+            <itunes:duration>00:02:08</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1206_selecciones.mp4" length="2597669" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">B697455F-A4EE-4510-B165-4811B5430331</guid>
+            <pubDate>Mon, 18 Mar 2013 12:13:11 +0100</pubDate>
+            <itunes:duration>00:01:36</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1207_conversion.mp4" length="11913671" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">69557071-9F2F-40B7-BEBD-DB9A405D5F34</guid>
+            <pubDate>Mon, 18 Mar 2013 12:14:00 +0100</pubDate>
+            <itunes:duration>00:04:16</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1208_ayudas.mp4" length="15707993" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">BCA1A697-4920-4CFC-AA7B-2F5507CCE8D7</guid>
+            <pubDate>Mon, 18 Mar 2013 12:15:02 +0100</pubDate>
+            <itunes:duration>00:05:52</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1209_modo.mp4" length="5092049" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">A3643CA8-E65A-43E2-AAC5-2EBC254E59C8</guid>
+            <pubDate>Mon, 18 Mar 2013 12:15:15 +0100</pubDate>
+            <itunes:duration>00:01:06</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1210_navegador.mp4" length="2250594" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">C752E3CA-7005-4AF2-84C1-7A0E5814B470</guid>
+            <pubDate>Mon, 18 Mar 2013 12:15:27 +0100</pubDate>
+            <itunes:duration>00:01:04</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1301_panel.mp4" length="4311284" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">81D81311-534A-49FC-B767-5ADA39859DDF</guid>
+            <pubDate>Mon, 18 Mar 2013 12:15:51 +0100</pubDate>
+            <itunes:duration>00:02:35</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1302_abrir.mp4" length="12394527" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">614F847E-8299-4621-948A-C8D11D31FC51</guid>
+            <pubDate>Mon, 18 Mar 2013 12:16:40 +0100</pubDate>
+            <itunes:duration>00:04:19</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1303_arrastrar.mp4" length="11486098" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">E71CD156-8201-4171-8790-C5781F2BB471</guid>
+            <pubDate>Mon, 18 Mar 2013 12:17:50 +0100</pubDate>
+            <itunes:duration>00:02:43</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1304_cambiar.mp4" length="4816602" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">C9C39BFA-23F4-40A6-8E32-A7EFFBAA3DC1</guid>
+            <pubDate>Mon, 18 Mar 2013 12:18:12 +0100</pubDate>
+            <itunes:duration>00:02:11</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1305_comprobar.mp4" length="6118590" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">5DB7642D-0407-4E7E-846E-53A7FB822A5D</guid>
+            <pubDate>Mon, 18 Mar 2013 12:18:33 +0100</pubDate>
+            <itunes:duration>00:01:41</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1306_agitar.mp4" length="6238612" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">6E3B8469-36F9-42F0-BC20-947C29DAE283</guid>
+            <pubDate>Mon, 18 Mar 2013 12:18:57 +0100</pubDate>
+            <itunes:duration>00:02:09</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1307_aparecer.mp4" length="5496121" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">327CEE21-C80A-4E09-9A6C-FECDA1901D92</guid>
+            <pubDate>Mon, 18 Mar 2013 12:19:18 +0100</pubDate>
+            <itunes:duration>00:01:54</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1308_arrinconar.mp4" length="4859546" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">5C9F197E-A236-46C3-AD76-E4A48CF4DBAB</guid>
+            <pubDate>Mon, 18 Mar 2013 12:19:33 +0100</pubDate>
+            <itunes:duration>00:01:10</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1309_aumentar.mp4" length="4024426" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">B3689438-28BB-49AA-8A4F-62007A2AF7A5</guid>
+            <pubDate>Mon, 18 Mar 2013 12:19:49 +0100</pubDate>
+            <itunes:duration>00:01:38</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1310_deslizar.mp4" length="5396068" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">2DD7EB3E-D9F9-44C0-8A44-9AC56BFE4065</guid>
+            <pubDate>Mon, 18 Mar 2013 12:20:09 +0100</pubDate>
+            <itunes:duration>00:01:52</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1311_persiana.mp4" length="5251357" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">25946992-E7B9-44CB-9C4B-3344E6475275</guid>
+            <pubDate>Mon, 18 Mar 2013 12:20:28 +0100</pubDate>
+            <itunes:duration>00:01:39</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1312_resaltado.mp4" length="3814990" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">F8263E0C-20FF-494B-84F4-B0306A5D8DA0</guid>
+            <pubDate>Mon, 18 Mar 2013 12:20:45 +0100</pubDate>
+            <itunes:duration>00:01:35</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1313_definir.mp4" length="4604071" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">A622EA07-1543-4831-8BC7-3D3222C51F3B</guid>
+            <pubDate>Mon, 18 Mar 2013 12:21:04 +0100</pubDate>
+            <itunes:duration>00:01:50</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1314_intercambiar.mp4" length="15711887" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">976D3ED4-D8F0-4298-BF70-230EDFBC8933</guid>
+            <pubDate>Mon, 18 Mar 2013 12:23:15 +0100</pubDate>
+            <itunes:duration>00:03:13</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1315_ir.mp4" length="4840223" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">5A8F9108-2E61-4D93-BB62-DA940D51F377</guid>
+            <pubDate>Mon, 18 Mar 2013 12:23:34 +0100</pubDate>
+            <itunes:duration>00:01:46</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1316_mensaje.mp4" length="5048321" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">CE99EA8C-5723-4F6A-81A3-8B604F1FDA18</guid>
+            <pubDate>Mon, 18 Mar 2013 12:23:53 +0100</pubDate>
+            <itunes:duration>00:01:45</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1317_validar.mp4" length="11072153" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">FE15D39A-1788-4E70-88C8-F60AF609AF02</guid>
+            <pubDate>Mon, 18 Mar 2013 12:24:33 +0100</pubDate>
+            <itunes:duration>00:03:43</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1401_barra.mp4" length="23185272" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">7749F009-C660-4312-BA2F-87DDAB2CEC10</guid>
+            <pubDate>Mon, 18 Mar 2013 12:26:34 +0100</pubDate>
+            <itunes:duration>00:10:56</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1402_paneles.mp4" length="39956704" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">4394237A-FA30-447B-8E4A-554244FC6E30</guid>
+            <pubDate>Mon, 18 Mar 2013 12:33:59 +0100</pubDate>
+            <itunes:duration>00:04:22</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1403_acordeon.mp4" length="11088413" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">E933EF94-1400-4410-B5F9-44981B6C1852</guid>
+            <pubDate>Mon, 18 Mar 2013 12:34:47 +0100</pubDate>
+            <itunes:duration>00:03:50</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1404_panel.mp4" length="10512502" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">B0E0A5D4-D97F-4C77-A305-7942CF4FA33D</guid>
+            <pubDate>Mon, 18 Mar 2013 12:35:30 +0100</pubDate>
+            <itunes:duration>00:03:13</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1405_informacion.mp4" length="12970683" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">20C326D6-24BC-4B87-8A33-24F6939F9BE4</guid>
+            <pubDate>Mon, 18 Mar 2013 12:36:29 +0100</pubDate>
+            <itunes:duration>00:05:29</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1501_crear.mp4" length="7769261" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">2909B54E-C90E-484F-9EB8-949C13FFA3AB</guid>
+            <pubDate>Mon, 18 Mar 2013 12:37:07 +0100</pubDate>
+            <itunes:duration>00:03:32</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1502_region.mp4" length="3691567" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">28966916-5307-4B4D-947C-6287F15FD173</guid>
+            <pubDate>Mon, 18 Mar 2013 12:37:26 +0100</pubDate>
+            <itunes:duration>00:01:53</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1503_region.mp4" length="4642831" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">7579B28D-9E9F-42B2-AC76-540C78778447</guid>
+            <pubDate>Mon, 18 Mar 2013 12:37:41 +0100</pubDate>
+            <itunes:duration>00:02:54</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1504_region.mp4" length="5327328" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">B24A87CE-917D-46FB-A52E-0DA31B886A08</guid>
+            <pubDate>Mon, 18 Mar 2013 12:38:06 +0100</pubDate>
+            <itunes:duration>00:02:25</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://itunes.artesvisuales.com/videos/DWCS6_1505_documentos.mp4" length="21548660" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">B0B08456-99DF-40DC-9A00-53925B7196C7</guid>
+            <pubDate>Mon, 18 Mar 2013 12:39:29 +0100</pubDate>
+            <itunes:duration>00:07:17</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+    </channel>
+</rss>

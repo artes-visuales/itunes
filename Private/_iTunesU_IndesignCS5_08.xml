@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_IndesignCS5_08.xml" />
+		<lastBuildDate>Wed, 08 Jun 2011 07:42:51 +0200</lastBuildDate>
+		<title>Impresión e interactividad</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://artesvisuales.groups.adobe.com/</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Adobe Indesign CS5 es la principal aplicación cuya función principal es la autoedición o maquetación digital.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Adobe Indesign CS5 es la principal aplicación cuya función principal es la autoedición o maquetación digital.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_Indesign_144.jpg</url>
+			<title>Impresión e interactividad</title>
+			<link>http://artesvisuales.groups.adobe.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_Indesign.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>8.1 Separaciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0801_separaciones-ipod.m4v" type="video/x-m4v" length="23524060" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0801_separaciones-ipod.m4v</guid>
+			<pubDate>Wed, 08 Jun 2011 07:40:03 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>8.2 Comprobación preliminar I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0802_compreliminar01-ipod.m4v" type="video/x-m4v" length="20232157" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0802_compreliminar01-ipod.m4v</guid>
+			<pubDate>Wed, 08 Jun 2011 07:39:28 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>8.3 Comprobación preliminar II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0803_compreliminar02-ipod.m4v" type="video/x-m4v" length="14764177" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0803_compreliminar02-ipod.m4v</guid>
+			<pubDate>Wed, 08 Jun 2011 07:37:18 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>8.4 Marcas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0804_marcas-ipod.m4v" type="video/x-m4v" length="28282958" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0804_marcas-ipod.m4v</guid>
+			<pubDate>Wed, 08 Jun 2011 07:37:02 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>8.5 Montaje</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0805_montaje-ipod.m4v" type="video/x-m4v" length="28786047" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0805_montaje-ipod.m4v</guid>
+			<pubDate>Wed, 08 Jun 2011 07:36:43 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>8.7 Empaquetar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0807_empaquetar-ipod.m4v" type="video/x-m4v" length="20132229" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0807_empaquetar-ipod.m4v</guid>
+			<pubDate>Wed, 08 Jun 2011 07:36:21 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>8.8 Imprimir</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0808_imprimir-ipod.m4v" type="video/x-m4v" length="25844041" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0808_imprimir-ipod.m4v</guid>
+			<pubDate>Wed, 08 Jun 2011 07:35:57 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>8.9 Imprimir folleto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0809_imprimirfolleto-ipod.m4v" type="video/x-m4v" length="30889633" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0809_imprimirfolleto-ipod.m4v</guid>
+			<pubDate>Wed, 08 Jun 2011 07:35:31 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>8.10 Transiciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0810_transiciones-ipod.m4v" type="video/x-m4v" length="17094194" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0810_transiciones-ipod.m4v</guid>
+			<pubDate>Wed, 08 Jun 2011 07:34:26 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>8.11 Botones II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0811_botones-ipod.m4v" type="video/x-m4v" length="4294967295" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0811_botones-qtfs.m4v</guid>
+			<pubDate>Wed, 08 Jun 2011 07:33:36 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+	</channel>
+</rss>

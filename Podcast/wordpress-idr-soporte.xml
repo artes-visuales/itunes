@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>Soporte idrconsulting</title>
+		<language>es</language>
+		<description>Documentación de soporte.</description>
+		<item>
+			<title>Explicaciones escritas.</title>
+			<link>http://www.idrconsulting.com/wp-content/themes/Foxy-idr/_soporte/trabajando</link>
+   			<description>Principales cuestiones a tener en cuenta en la personalización del sitio.</description>
+		</item>
+		<item>
+			<title>---------------</title>
+			<link/>
+			<description/>
+		</item>
+		<item>
+			<title>Canal en Youtube.</title>
+			<link>http://www.youtube.com/playlist?list=PLB1qtvyfmbBDmM6NyXtL7AuYK6ynkMSXL</link>
+			<description>Explicaciones en vídeo.</description>
+		</item>
+	</channel>
+</rss>

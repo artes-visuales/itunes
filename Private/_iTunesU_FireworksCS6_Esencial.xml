@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://stream.artesvisuales.com/video/_iTunesU_FireworksCS6_Esencial.xml" />
+		<lastBuildDate>Mon, 03 Feb 2014 13:35:29 +0100</lastBuildDate>
+		<title>Fireworks CS6 Esencial</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com/</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[El objetivo de este curso es el de subir un primer peldaño de conocimientos de Fireworks. Sentar las bases esenciales del programa.
+
+Conocerá los paneles, la paleta de herramientas, el panel historia, comportamiento entre programas, uso de plantillas, vista previa, aplicar color, uso de las guias, guias inteligentes, transformar objetos, alineaciones, unir texto a trazado, máscaras, el panel estados, aplicar rollovers, estados de botón, las capas de Web, insertar zona interactiva, crear símbolo, nueve divisiones de escala, convertir símbolo a botón, propiedades de símbolo, biblioteca común, biblioteca de documentos, imagen-sprite, recortar lienzo, crear skins personalizados, etc...]]></description>
+		<itunes:subtitle />
+		<itunes:summary>El objetivo de este curso es el de subir un primer peldaño de conocimientos de Fireworks. Sentar las bases esenciales del programa.
+
+Conocerá los paneles, la paleta de herramientas, el panel historia, comportamiento entre programas, uso de plantillas, vista previa, aplicar color, uso de las guias, guias inteligentes, transformar objetos, alineaciones, unir texto a trazado, máscaras, el panel estados, aplicar rollovers, estados de botón, las capas de Web, insertar zona interactiva, crear símbolo, nueve divisiones de escala, convertir símbolo a botón, propiedades de símbolo, biblioteca común, biblioteca de documentos, imagen-sprite, recortar lienzo, crear skins personalizados, etc...</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>itunes@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://stream.artesvisuales.com/video/_iTunesU_FireworksCS6_Esencial_144.jpg</url>
+			<title>Fireworks CS6 Esencial</title>
+			<link>http://www.artesvisuales.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://stream.artesvisuales.com/video/_iTunesU_FireworksCS6_Esencial.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>wordpress</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>FWCS6 0000 introduccion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0000_introduccion.mp4" type="video/mp4" length="45652" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0000_introduccion.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0100 interface</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0100_interface.mp4" type="video/mp4" length="44564" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0100_interface.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0101 funciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0101_funciones.mp4" type="video/mp4" length="37769" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0101_funciones.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0102 expandido</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0102_expandido.mp4" type="video/mp4" length="37288" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0102_expandido.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0103 seleccion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0103_seleccion.mp4" type="video/mp4" length="43841" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0103_seleccion.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0104 pincel</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0104_pincel.mp4" type="video/mp4" length="42964" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0104_pincel.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0105 sello</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0105_sello.mp4" type="video/mp4" length="50413" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0105_sello.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0106 reemplazar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0106_reemplazar.mp4" type="video/mp4" length="53124" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0106_reemplazar.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0107 linea</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0107_linea.mp4" type="video/mp4" length="43774" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0107_linea.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0108 poligono</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0108_poligono.mp4" type="video/mp4" length="49197" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0108_poligono.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0109 estilolibre</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0109_estilolibre.mp4" type="video/mp4" length="41488" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0109_estilolibre.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0110 interactiva</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0110_interactiva.mp4" type="video/mp4" length="45333" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0110_interactiva.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0111 interpolig</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0111_interpolig.mp4" type="video/mp4" length="52052" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0111_interpolig.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0112 division</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0112_division.mp4" type="video/mp4" length="61356" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0112_division.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0113 divisionenlace</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0113_divisionenlace.mp4" type="video/mp4" length="59850" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0113_divisionenlace.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0114 alternativo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0114_alternativo.mp4" type="video/mp4" length="42462" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0114_alternativo.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0115 propiedades</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0115_propiedades.mp4" type="video/mp4" length="61660" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0115_propiedades.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0116 historia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0116_historia.mp4" type="video/mp4" length="44219" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0116_historia.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0117 pestanas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0117_pestanas.mp4" type="video/mp4" length="46368" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0117_pestanas.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0118 duplicar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0118_duplicar.mp4" type="video/mp4" length="47015" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0118_duplicar.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0201 entreprogramas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0201_entreprogramas.mp4" type="video/mp4" length="44984" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0201_entreprogramas.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0201 plantilla</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0201_plantilla.mp4" type="video/mp4" length="57959" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0201_plantilla.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0202 exportar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0202_exportar.mp4" type="video/mp4" length="61305" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0202_exportar.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0203 formatos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0203_formatos.mp4" type="video/mp4" length="61463" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0203_formatos.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0204 vistaprevia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0204_vistaprevia.mp4" type="video/mp4" length="43874" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0204_vistaprevia.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0301 figuras</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0301_figuras.mp4" type="video/mp4" length="46018" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0301_figuras.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0302 seleccion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0302_seleccion.mp4" type="video/mp4" length="45404" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0302_seleccion.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0303 relleno</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0303_relleno.mp4" type="video/mp4" length="41776" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0303_relleno.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0304 estilos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0304_estilos.mp4" type="video/mp4" length="48972" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0304_estilos.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0305 guias</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0305_guias.mp4" type="video/mp4" length="42596" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0305_guias.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0306 inteligentes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0306_inteligentes.mp4" type="video/mp4" length="46374" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0306_inteligentes.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0307 panelestilos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0307_panelestilos.mp4" type="video/mp4" length="47228" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0307_panelestilos.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0308 patrones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0308_patrones.mp4" type="video/mp4" length="51012" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0308_patrones.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0309 retoque</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0309_retoque.mp4" type="video/mp4" length="55082" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0309_retoque.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0310 transformar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0310_transformar.mp4" type="video/mp4" length="42752" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0310_transformar.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0311 duplicar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0311_duplicar.mp4" type="video/mp4" length="42583" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0311_duplicar.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0312 alinear</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0312_alinear.mp4" type="video/mp4" length="46894" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0312_alinear.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0313 texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0313_texto.mp4" type="video/mp4" length="44856" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0313_texto.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0314 parrafo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0314_parrafo.mp4" type="video/mp4" length="58258" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0314_parrafo.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0315 recuadro</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0315_recuadro.mp4" type="video/mp4" length="45774" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0315_recuadro.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0316 filtro</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0316_filtro.mp4" type="video/mp4" length="54181" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0316_filtro.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0317 mascara</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0317_mascara.mp4" type="video/mp4" length="53992" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0317_mascara.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0401 estados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0401_estados.mp4" type="video/mp4" length="43465" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0401_estados.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0402 rollover</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0402_rollover.mp4" type="video/mp4" length="43466" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0402_rollover.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0403 capas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0403_capas.mp4" type="video/mp4" length="53964" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0403_capas.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0403 paginas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0403_paginas.mp4" type="video/mp4" length="54968" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0403_paginas.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0404 capasweb</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0404_capasweb.mp4" type="video/mp4" length="55339" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0404_capasweb.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:45 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0405 division</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0405_division.mp4" type="video/mp4" length="47150" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0405_division.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:45 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0406 simbolos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0406_simbolos.mp4" type="video/mp4" length="40041" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0406_simbolos.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:45 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0407 escalado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0407_escalado.mp4" type="video/mp4" length="45044" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0407_escalado.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:45 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0408 simboloboton</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0408_simboloboton.mp4" type="video/mp4" length="48150" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0408_simboloboton.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:45 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0409 bibliotecacomun</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0409_bibliotecacomun.mp4" type="video/mp4" length="59022" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0409_bibliotecacomun.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:45 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0501 imagensprite</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0501_imagensprite.mp4" type="video/mp4" length="53543" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0501_imagensprite.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:45 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0502 imagensprite</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0502_imagensprite.mp4" type="video/mp4" length="53152" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0502_imagensprite.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:45 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0503 imagensprite</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0503_imagensprite.mp4" type="video/mp4" length="47534" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0503_imagensprite.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:45 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0504 cuentagotas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0504_cuentagotas.mp4" type="video/mp4" length="40874" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0504_cuentagotas.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:45 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0505 cuentagotas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0505_cuentagotas.mp4" type="video/mp4" length="39952" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0505_cuentagotas.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:45 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0506 propiedadescss</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0506_propiedadescss.mp4" type="video/mp4" length="44888" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0506_propiedadescss.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:44 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0507 skins</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0507_skins.mp4" type="video/mp4" length="36908" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0507_skins.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:44 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>FWCS6 0508 skins</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/FWCS6_0508_skins.mp4" type="video/mp4" length="50023" />
+			<guid>http://stream.artesvisuales.com/video/FWCS6_0508_skins.mp4</guid>
+			<pubDate>Mon, 03 Feb 2014 13:34:44 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+	</channel>
+</rss>

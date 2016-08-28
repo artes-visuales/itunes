@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Podcast/_iTunesUp_PHCS4_bridge.xml" />
+		<lastBuildDate>Thu, 26 May 2011 09:38:43 +0200</lastBuildDate>
+		<title>Bridge CS4</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://linkd.in/lifelong-learning</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[En este módulo de formación estudiamos las herramientas de estilos de carácter y párrafos, junto con las notas al pie.]]></description>
+		<itunes:subtitle>En este módulo de formación estudiamos las herramientas de estilos de carácter y párrafos, junto con las notas al pie.</itunes:subtitle>
+		<itunes:summary>En este módulo de formación estudiamos las herramientas de estilos de carácter y párrafos, junto con las notas al pie.</itunes:summary>
+		<language>es</language>
+		<copyright>Creative Commons 3.0</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Podcast/_iTunesUp_BRCS4_144.jpg</url>
+			<title>Bridge CS4</title>
+			<link>http://linkd.in/lifelong-learning</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Podcast/_iTunesUp_BRCS4.jpg" />
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Bridge I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>   
+			<itunesu:category itunesu:code="102105" />    
+			<description><![CDATA[Centro de control que le proporciona acceso centralizado a sus archivos, aplicaciones y configuraciones. ]]></description>
+			<itunes:subtitle>Centro de control que le proporciona acceso centralizado a sus archivos, aplicaciones y configuraciones. </itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PHCS4_0202_bridge01-ipod.m4v" type="video/x-m4v" length="30747908" />
+			<guid>http://itunes.artesvisuales.com/Podcast/PHCS4_0202_bridge01-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 09:37:19 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Bridge II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>   
+			<itunesu:category itunesu:code="102105" />    
+			<description><![CDATA[Centro de control que le proporciona acceso centralizado a sus archivos, aplicaciones y configuraciones. ]]></description>
+			<itunes:subtitle>Centro de control que le proporciona acceso centralizado a sus archivos, aplicaciones y configuraciones. </itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PHCS4_0203_bridge02-ipod.m4v" type="video/x-m4v" length="29260885" />
+			<guid>http://itunes.artesvisuales.com/Podcast/PHCS4_0203_bridge02-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 09:36:58 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Bridge III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>  
+			<itunesu:category itunesu:code="102105" />    			
+			<description><![CDATA[Centro de control que le proporciona acceso centralizado a sus archivos, aplicaciones y configuraciones. ]]></description>
+			<itunes:subtitle>Centro de control que le proporciona acceso centralizado a sus archivos, aplicaciones y configuraciones. </itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PHCS4_0204_bridge03-ipod.m4v" type="video/x-m4v" length="26136254" />
+			<guid>http://itunes.artesvisuales.com/Podcast/PHCS4_0204_bridge03-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 09:36:09 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+	</channel>
+</rss>

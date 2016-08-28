@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_TypeTools_09.xml"/>
+		<lastBuildDate>Tue, 31 Jan 2012 11:09:11 +0200</lastBuildDate>
+		<title>Tema 9 Ventana de medidas.</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://campus.artesvisuales.com</link>
+		<description/>
+		<itunes:subtitle/>
+		<itunes:summary/>
+		<language>es-es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name/>
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_TypeTools_144.jpg</url>
+			<link>http://campus.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_TypeTools.jpg"/>
+		<category>Training</category>
+		<itunes:category text="Education">
+			<itunes:category text="Training"/>
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design"/>
+		</itunes:category>
+		<itunes:keywords/>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>9.1 Introducción ventana medidas.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0901_Introduccion_ventana_medidas-iPodWM.m4v" type="vídeo/x-m4v" length="15616358"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0901_Introduccion_ventana_medidas-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:08:41 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>9.2 Modos de edición.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0902_modos_edicion-iPodWM.m4v" type="vídeo/x-m4v" length="14965646"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0902_modos_edicion-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:08:25 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>9.3 Descomponer componente.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0903_reglas_medicion_panel-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0903_reglas_medicion_panel-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:08:01 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>9.4 Menú contextual y barra de herramientas.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0904_menu_contextual_herramientas-iPodWM.m4v" type="vídeo/x-m4v" length="21338191"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0904_menu_contextual_herramientas-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:07:42 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>9.5 Introducir caracteres, tamaño.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0905_introducir_texto_tamano-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0905_introducir_texto_tamano-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item> 
+		<item>
+			<title>9.6 Opciones de edición y vista previa.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0906_opciones_edicion_vistaprevia-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0906_opciones_edicion_vistaprevia-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>9.7 Preferencias de vista previa.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0907_vistaprevia_preferencias_tachado_subrallado-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0907_vistaprevia_preferencias_tachado_subrallado-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>  
+		<item>
+			<title>9.8 Edición manual de las medidas horizontales.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0908_edicion_manual_medidas_horizontales-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0908_edicion_manual_medidas_horizontales-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>9.9 Edición automática de las medidas horizontales.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0909_edicion_automatica_medidas_horizontales-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0909_edicion_automatica_medidas_horizontales-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>9.10 Edición manual del interletraje.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0910_edicion_manual_interletraje-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0910_edicion_manual_interletraje-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>9.11 Edición automática del interletraje.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0911_edicion_automatica_interletraje-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0911_edicion_automatica_interletraje-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item> 
+		<item>
+			<title>9.12 Restablecer interletraje.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0912_restablecer_interletraje-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0912_restablecer_interletraje-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item> 
+		<item>   
+			<title>9.13 Importar medidas.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0913_importar_medidas-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0913_importar_medidas-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item> 
+		<item>    
+			<title>9.14 Guardar y exportar medidas.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0914_guardar_exportar_medidas-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0914_guardar_exportar_medidas-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+	</channel>
+</rss>

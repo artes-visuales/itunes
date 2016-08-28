@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_AdWords.xml" />
+		<lastBuildDate>Thu, 02 Jun 2011 11:24:13 +0200</lastBuildDate>
+		<title>AdWords</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://campus.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[AdWords es la herramienta de publicidad online más versáti y rentable del mercado de la publicidad online.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>AdWords es la herramienta de publicidad online más versáti y rentable del mercado de la publicidad online.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_AdWords_144.jpg</url>
+			<title>AdWords</title>
+			<link>http://campus.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_AdWords.jpg" />
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<category>Management &amp; Marketing</category>
+		<itunes:category text="Business">
+			<itunes:category text="Management &amp; Marketing" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adwords</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Intro. Ventajas de AdWords</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_00_01_ventajas.pdf" type="application/pdf" length="132154" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_00_01_ventajas.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:12:27 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>Intro. Tipos de anuncios</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_00_02_tipos_anuncios.pdf" type="application/pdf" length="1346533" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_00_02_tipos_anuncios.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:10:59 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>Intro. Clik no válidos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_00_04_clik_novalidos.pdf" type="application/pdf" length="74662" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_00_04_clik_novalidos.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:10:30 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>Intro. Optimización</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_00_05_Optimizacion.pdf" type="application/pdf" length="390897" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_00_05_Optimizacion.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:10:07 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>Intro. Incremento conversiones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_00_06_incremento_conversiones.pdf" type="application/pdf" length="104928" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_00_06_incremento_conversiones.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:09:48 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>Intro. Términos de optimización</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_00_07_terminos_optimizacion.pdf" type="application/pdf" length="92193" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_00_07_terminos_optimizacion.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:09:19 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>1.1 Conociendo AdWords</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_01_01_intro.pdf" type="application/pdf" length="339353" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_01_01_intro.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:08:56 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>1.2 Publicidad online</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_01_02_publicidad_online.pdf" type="application/pdf" length="231442" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_01_02_publicidad_online.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:07:48 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>1.3 Crear una cuenta</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_01_03_crear_cuenta.pdf" type="application/pdf" length="413769" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_01_03_crear_cuenta.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:07:20 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>1.4 Página principal</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_01_04_pagina_principal.pdf" type="application/pdf" length="288240" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_01_04_pagina_principal.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:06:58 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>1.5 Campañas publicitarias</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_01_05_camp_publicitarias.pdf" type="application/pdf" length="288525" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_01_05_camp_publicitarias.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:06:36 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>1.6 Oportunidades</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_01_06_oportunidades.pdf" type="application/pdf" length="568513" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_01_06_oportunidades.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:06:20 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>1.7 Facturación</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_01_07_facturacion.pdf" type="application/pdf" length="171437" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_01_07_facturacion.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:05:58 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>2.1 Clasificación</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_02_01_clasificacion.pdf" type="application/pdf" length="532378" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_02_01_clasificacion.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:04:33 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>2.2 Orientación de campañas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_02_02_orientacion.pdf" type="application/pdf" length="6457868" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_02_02_orientacion.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:04:09 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>2.3 Anuncio de textos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_02_03_anuncio_textos.pdf" type="application/pdf" length="0" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_02_03_anuncio_textos.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:03:45 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>2.4 Palabras claves</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_02_04_palabras_claves.pdf" type="application/pdf" length="225717" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_02_04_palabras_claves.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:03:25 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>2.5 CPC</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_02_05_CPC.pdf" type="application/pdf" length="181039" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_02_05_CPC.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:03:08 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>2.6 Nivel de calidad</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_02_06_nivel_calidad.pdf" type="application/pdf" length="183547" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_02_06_nivel_calidad.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:02:50 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>2.7 Anuncios</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_02_07_anuncios.pdf" type="application/pdf" length="953635" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_02_07_anuncios.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:02:32 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.1 Informes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_03_01_informes.pdf" type="application/pdf" length="365152" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_03_01_informes.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:02:07 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.2 Analytics</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_03_02_analytics.pdf" type="application/pdf" length="420549" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_03_02_analytics.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:01:50 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.3 Seguimiento conversiones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_03_03_seguimiento_conversiones.pdf" type="application/pdf" length="391021" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_03_03_seguimiento_conversiones.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:01:32 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.4 Seguimiento conversiones anexo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_03_04_seguimiento_conversiones_anexo.pdf" type="application/pdf" length="297734" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_03_04_seguimiento_conversiones_anexo.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:01:10 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.4 Seguimiento del presupuesto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_03_04_seguimiento_presupuesto.pdf" type="application/pdf" length="218237" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_03_04_seguimiento_presupuesto.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:00:47 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.1 Incremento del tráfico</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_04_01_incremento_trafico.pdf" type="application/pdf" length="424732" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_04_01_incremento_trafico.pdf</guid>
+			<pubDate>Thu, 02 Jun 2011 11:00:23 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.2 Incremento de conversiones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_04_02_incremento_conversiones.pdf" type="application/pdf" length="4294967295" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_04_02_incremento_conversiones.pdf</guid>
+			<pubDate>Wed, 01 Jun 2011 16:13:49 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, adwords</itunes:keywords>
+		</item>
+		<item>
+			<title>4.3 Oportunidades</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/pdf/AW_04_03_oportunidades.pdf" type="application/pdf" length="1346533" />
+			<guid>http://stream.artesvisuales.com/pdf/AW_04_03_oportunidades.pdf</guid>
+			<pubDate>Wed, 01 Jun 2011 16:13:45 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+	</channel>
+</rss>

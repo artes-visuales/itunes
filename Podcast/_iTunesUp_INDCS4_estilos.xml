@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Podcast/_iTunesUp_INDCS4_estilos.xml" />
+		<lastBuildDate>Thu, 26 May 2011 08:13:03 +0200</lastBuildDate>
+		<title>Indesign CS4 - Estilos</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://linkd.in/lifelong-learning</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[En este módulo de formación estudiamos las herramientas de estilos de carácter y párrafos, junto con las notas al pie.]]></description>
+		<itunes:subtitle>En este módulo de formación estudiamos las herramientas de estilos de carácter y párrafos, junto con las notas al pie.</itunes:subtitle>
+		<itunes:summary>En este módulo de formación estudiamos las herramientas de estilos de carácter y párrafos, junto con las notas al pie.</itunes:summary>
+		<language>es</language>
+		<copyright>Creative Commons 3.0</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Podcast/_iTunesUp_INDCS4_estilos_144.jpg</url>
+			<title>Indesign CS4 - Estilos</title>
+			<link>http://linkd.in/lifelong-learning</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Podcast/_iTunesUp_INDCS4_estilos.jpg" />
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Notas al pie I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>  
+			<itunesu:category itunesu:code="102105" />    
+			<description><![CDATA[Una nota al pie de página se compone de dos partes vinculadas: el número de referencia de la nota al pie de página que aparece en el texto y el texto de la nota al pie de página que aparece en la parte inferior de la columna]]></description>
+			<itunes:subtitle>Una nota al pie de página se compone de dos partes vinculadas: el número de referencia de la nota al pie de página que aparece en el texto y el texto de la nota al pie de página que aparece en la parte inferior de la columna</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/INDCS4_0306_notaspie01-ipod.m4v" type="video/x-m4v" length="33370025" />
+			<guid>http://itunes.artesvisuales.com/Podcast/INDCS4_0306_notaspie01-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 08:11:32 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Notas al pie II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author> 
+			<itunesu:category itunesu:code="102105" />    
+			<description><![CDATA[Una nota al pie de página se compone de dos partes vinculadas: el número de referencia de la nota al pie de página que aparece en el texto y el texto de la nota al pie de página que aparece en la parte inferior de la columna.]]></description>
+			<itunes:subtitle>Una nota al pie de página se compone de dos partes vinculadas: el número de referencia de la nota al pie de página que aparece en el texto y el texto de la nota al pie de página que aparece en la parte inferior de la columna.</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/INDCS4_0307_notaspie02-ipod.m4v" type="video/x-m4v" length="18579389" />
+			<guid>http://itunes.artesvisuales.com/Podcast/INDCS4_0307_notaspie02-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 08:10:01 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Estilos de carácter</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>   
+			<itunesu:category itunesu:code="102105" />    
+			<description><![CDATA[Un estilo es un conjunto de atributos de formato que se pueden aplicar los caracteres.]]></description>
+			<itunes:subtitle>Un estilo es un conjunto de atributos de formato que se pueden aplicar los caracteres.</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/INDCS4_0308_estiloscaracter-ipod.m4v" type="video/x-m4v" length="9597579" />
+			<guid>http://itunes.artesvisuales.com/Podcast/INDCS4_0308_estiloscaracter-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 08:07:40 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Estilos de párrafo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>      
+			<itunesu:category itunesu:code="102105" />    
+			<description><![CDATA[Estilos de párrafo]]></description>
+			<itunes:subtitle>Estilos de párrafo</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/INDCS4_0309_estilosparrafo-ipod.m4v" type="video/x-m4v" length="38447120" />
+			<guid>http://itunes.artesvisuales.com/Podcast/INDCS4_0309_estilosparrafo-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 08:07:16 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+	</channel>
+</rss>

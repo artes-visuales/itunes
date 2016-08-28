@@ -1,0 +1,2932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<atom:link rel="self" href="http://stream.artesvisuales.com/podcast/PodcastPhotoshopCS5.xml" type="application/rss+xml" />
+		<lastBuildDate>Thu, 30 Sep 2010 16:28:46 +0200</lastBuildDate>
+		<title>artesvisuales: Photoshop CS4</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description />
+		<itunes:subtitle />
+		<itunes:summary />
+		<language>es-es</language>
+		<copyright>(c) Todos los derechos reservados.</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://stream.artesvisuales.com/podcast/cur_dgd_m_144.jpg</url>
+			<title>Podcast Photoshop CS4</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>80</height>
+		</image>
+		<itunes:image href="http://stream.artesvisuales.com/podcast/cur_dgd_m.jpg" />
+		<category>Podcasting</category>
+		<itunes:category text="Technology">
+			<itunes:category text="Podcasting" />
+		</itunes:category>
+		<itunes:keywords />
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>PHCS5 0101 intro-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0101_intro-ipod.m4v" length="23427115" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0101_intro-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:29 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:14</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0102 espaciotrabajo-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0102_espaciotrabajo-ipod.m4v" length="24389871" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0102_espaciotrabajo-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:28 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:48</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0102 precisionbordes01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0102_precisionbordes01-ipod.m4v" length="32587464" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0102_precisionbordes01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:27 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:51</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0103 precisionbordes02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0103_precisionbordes02-ipod.m4v" length="26372653" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0103_precisionbordes02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:26 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:13</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0104 seguncontenido-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0104_seguncontenido-ipod.m4v" length="33856994" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0104_seguncontenido-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:25 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:58</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0105 pincelpuntual-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0105_pincelpuntual-ipod.m4v" length="32063239" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0105_pincelpuntual-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:24 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:40</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0106 puntadecerda-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0106_puntadecerda-ipod.m4v" length="26077251" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0106_puntadecerda-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:23 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:28</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0107 pincelmezclador-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0107_pincelmezclador-ipod.m4v" length="26570324" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0107_pincelmezclador-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:22 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:29</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0108 posicionlibre-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0108_posicionlibre-ipod.m4v" length="41018390" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0108_posicionlibre-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:21 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:13:24</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0109 HDRpro01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0109_HDRpro01-ipod.m4v" length="20386353" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0109_HDRpro01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:20 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:23</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0110 HDRpro02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0110_HDRpro02-ipod.m4v" length="26546714" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0110_HDRpro02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:19 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:36</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0111 tonosHDR-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0111_tonosHDR-ipod.m4v" length="17904358" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0111_tonosHDR-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:17 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:05</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0112 correccionlente01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0112_correccionlente01-ipod.m4v" length="39000919" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0112_correccionlente01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:15 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:43</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0113 correccionlente02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0113_correccionlente02-ipod.m4v" length="36309505" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0113_correccionlente02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:15 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:41</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0114 enderezaryzoom-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0114_enderezaryzoom-ipod.m4v" length="17310605" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0114_enderezaryzoom-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:11 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:05:36</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0115 mascarascapas-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0115_mascarascapas-ipod.m4v" length="14345608" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0115_mascarascapas-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:09 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:42</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0116 enfocar-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0116_enfocar-ipod.m4v" length="26073390" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0116_enfocar-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:08 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:38</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0117 densidadneutra-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0117_densidadneutra-ipod.m4v" length="24779388" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0117_densidadneutra-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:06 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:21</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0118 origenclonacion-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0118_origenclonacion-ipod.m4v" length="17751208" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0118_origenclonacion-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:05 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:38</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0119 recortar-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0119_recortar-ipod.m4v" length="18242651" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0119_recortar-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:05:01 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:38</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0120 valoresestilo-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0120_valoresestilo-ipod.m4v" length="23402609" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0120_valoresestilo-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:59 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:11</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0121 pegadoespecial-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0121_pegadoespecial-ipod.m4v" length="25110180" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0121_pegadoespecial-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:59 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:13</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0122 memoriayrendimiento-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0122_memoriayrendimiento-ipod.m4v" length="9312691" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0122_memoriayrendimiento-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:58 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:05:38</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0123 ajustesraw01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0123_ajustesraw01-ipod.m4v" length="31695887" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0123_ajustesraw01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:58 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:01</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0124 ajustesraw02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0124_ajustesraw02-ipod.m4v" length="28351120" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0124_ajustesraw02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:57 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:36</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0125 ajustesraw03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0125_ajustesraw03-ipod.m4v" length="19165123" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0125_ajustesraw03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:57 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:24</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0126 ajustesraw04-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0126_ajustesraw04-ipod.m4v" length="21331748" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0126_ajustesraw04-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:57 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:12</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0127 minibridge01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0127_minibridge01-ipod.m4v" length="24472543" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0127_minibridge01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:56 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:44</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0128 minibridge02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0128_minibridge02-ipod.m4v" length="20813990" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0128_minibridge02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:56 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:48</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0129 recursos-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0129_recursos-ipod.m4v" length="36845213" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0129_recursos-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:54 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:13:07</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0130 3D01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0130_3D01-ipod.m4v" length="18776428" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0130_3D01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:54 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:44</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0131 3D02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0131_3D02-ipod.m4v" length="15177118" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0131_3D02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:53 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:54</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0132 3D03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0132_3D03-ipod.m4v" length="33574728" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0132_3D03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:52 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:40</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0133 3D04-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0133_3D04-ipod.m4v" length="27470124" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0133_3D04-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:51 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:02</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0134 3D05-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0134_3D05-ipod.m4v" length="30502574" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0134_3D05-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:49 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:12</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0135 3D06-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0135_3D06-ipod.m4v" length="19832006" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0135_3D06-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:48 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:48</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0136 animacion3D-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0136_animacion3D-ipod.m4v" length="24517430" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0136_animacion3D-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:47 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:50</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0137 CSReview-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0137_CSReview-ipod.m4v" length="12151053" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0137_CSReview-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:46 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:40</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0201 empezar-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0201_empezar-ipod.m4v" length="35893555" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0201_empezar-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:46 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:35</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0202 atajosteclado-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0202_atajosteclado-ipod.m4v" length="24395911" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0202_atajosteclado-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:45 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:08</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0203 areatrabajo01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0203_areatrabajo01-ipod.m4v" length="28967064" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0203_areatrabajo01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:45 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:15</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0204 areatrabajo02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0204_areatrabajo02-ipod.m4v" length="31651332" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0204_areatrabajo02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:44 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:16</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0205 calibracion-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0205_calibracion-ipod.m4v" length="9668241" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0205_calibracion-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:44 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:38</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0206 nuevodocumento-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0206_nuevodocumento-ipod.m4v" length="20870729" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0206_nuevodocumento-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:44 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:20</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0207 infodocumento-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0207_infodocumento-ipod.m4v" length="14391241" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0207_infodocumento-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:43 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:57</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0208 vistas-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0208_vistas-ipod.m4v" length="84903821" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0208_vistas-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:43 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:49</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0209 seleccionesbasicas01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0209_seleccionesbasicas01-ipod.m4v" length="42875234" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0209_seleccionesbasicas01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:43 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:01</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0210 seleccionesbasicas02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0210_seleccionesbasicas02-ipod.m4v" length="45571260" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0210_seleccionesbasicas02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:42 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:44</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0211 lazos01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0211_lazos01-ipod.m4v" length="30930436" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0211_lazos01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:42 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:29</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0212 lazos02.mov-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0212_lazos02.mov-ipod.m4v" length="43809256" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0212_lazos02.mov-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:41 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:59</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0213 varitamagica-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0213_varitamagica-ipod.m4v" length="53418046" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0213_varitamagica-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:41 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:31</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0214 seleccionrapida-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0214_seleccionrapida-ipod.m4v" length="52953076" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0214_seleccionrapida-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:39 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:50</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0301 bridge01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0301_bridge01-ipod.m4v" length="20614511" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0301_bridge01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:37 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:39</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0302 bridge02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0302_bridge02-ipod.m4v" length="44921499" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0302_bridge02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:36 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:33</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0303 bridge03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0303_bridge03-ipod.m4v" length="19588174" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0303_bridge03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:34 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:44</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0304 bridge04-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0304_bridge04-ipod.m4v" length="20479233" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0304_bridge04-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:34 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:25</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0304 bridge05-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0304_bridge05-ipod.m4v" length="20160626" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0304_bridge05-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:33 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:29</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0305 bridge06-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0305_bridge06-ipod.m4v" length="22054136" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0305_bridge06-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:33 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:16</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0306 mover-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0306_mover-ipod.m4v" length="30454118" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0306_mover-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:33 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:05</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0307 transformarbasico-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0307_transformarbasico-ipod.m4v" length="19450099" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0307_transformarbasico-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:33 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:32</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0308 borradores01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0308_borradores01-ipod.m4v" length="23813543" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0308_borradores01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:33 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:48</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0309 borradores02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0309_borradores02-ipod.m4v" length="51449643" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0309_borradores02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:32 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:13:19</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0310 borradores03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0310_borradores03-ipod.m4v" length="44972488" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0310_borradores03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:32 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:52</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0311 reglas-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0311_reglas-ipod.m4v" length="29641373" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0311_reglas-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:32 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:16</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0401 pinceles01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0401_pinceles01-ipod.m4v" length="25177097" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0401_pinceles01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:31 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:16</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0402 pinceles02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0402_pinceles02-ipod.m4v" length="26114938" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0402_pinceles02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:31 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:06</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0403 pinceles03-ipod-1</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0403_pinceles03-ipod-1.m4v" length="26342425" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0403_pinceles03-ipod-1.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:30 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:38</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0403 pinceles03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0403_pinceles03-ipod.m4v" length="26342425" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0403_pinceles03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:30 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:38</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0404 pinceles04-ipod-1</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0404_pinceles04-ipod-1.m4v" length="18367750" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0404_pinceles04-ipod-1.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:28 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:06</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0404 pinceles04-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0404_pinceles04-ipod.m4v" length="18367750" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0404_pinceles04-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:27 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:06</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0405 pinceles05-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0405_pinceles05-ipod.m4v" length="15592486" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0405_pinceles05-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:26 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:43</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0406 pinceles06-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0406_pinceles06-ipod.m4v" length="24386255" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0406_pinceles06-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:26 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:24</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0407 pinceles07-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0407_pinceles07-ipod.m4v" length="19792208" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0407_pinceles07-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:26 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:14</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0408 pinceles08-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0408_pinceles08-ipod.m4v" length="14234331" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0408_pinceles08-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:25 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:10</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0409 definirpinceles-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0409_definirpinceles-ipod.m4v" length="47260632" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0409_definirpinceles-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:24 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:54</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0410 pincelmezclador-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0410_pincelmezclador-ipod.m4v" length="38096441" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0410_pincelmezclador-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:24 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:47</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0411 historia-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0411_historia-ipod.m4v" length="43596817" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0411_historia-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:23 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:48</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0412 pincelhistoria-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0412_pincelhistoria-ipod.m4v" length="68619563" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0412_pincelhistoria-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:23 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:14:18</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0413 rotarlienzos-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0413_rotarlienzos-ipod.m4v" length="19934900" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0413_rotarlienzos-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:23 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:50</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0414 distorsiones01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0414_distorsiones01-ipod.m4v" length="22715148" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0414_distorsiones01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:23 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:38</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0415 distorsiones02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0415_distorsiones02-ipod.m4v" length="45262620" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0415_distorsiones02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:23 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:14:48</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0416 capas01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0416_capas01-ipod.m4v" length="22406273" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0416_capas01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:23 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:43</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0417 capas02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0417_capas02-ipod.m4v" length="41289021" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0417_capas02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:23 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:13:09</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0418 capas03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0418_capas03-ipod.m4v" length="30142025" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0418_capas03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:22 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:31</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0419 capas04-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0419_capas04-ipod.m4v" length="26804655" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0419_capas04-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:22 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:04</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0420 capas05-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0420_capas05-ipod.m4v" length="34988676" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0420_capas05-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:22 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:14:23</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0421 capas06-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0421_capas06-ipod.m4v" length="25166330" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0421_capas06-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:22 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:28</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0422 capas07-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0422_capas07-ipod.m4v" length="24194579" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0422_capas07-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:22 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:15</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0501 modoscapa01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0501_modoscapa01-ipod.m4v" length="25267837" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0501_modoscapa01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:22 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:18</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0502 modoscapa02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0502_modoscapa02-ipod.m4v" length="37469969" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0502_modoscapa02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:22 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:15:05</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0503 mascararapida-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0503_mascararapida-ipod.m4v" length="33526935" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0503_mascararapida-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:22 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:12</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0504 deformar-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0504_deformar-ipod.m4v" length="28198015" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0504_deformar-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:21 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0505 escalaseguncontenido-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0505_escalaseguncontenido-ipod.m4v" length="38796785" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0505_escalaseguncontenido-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:21 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:02</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0506 desenfoques01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0506_desenfoques01-ipod.m4v" length="27430446" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0506_desenfoques01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:21 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:16</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0507 desenfoques02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0507_desenfoques02-ipod.m4v" length="22747921" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0507_desenfoques02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:21 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:58</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0508 desenfoques03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0508_desenfoques03-ipod.m4v" length="28047422" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0508_desenfoques03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:21 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:33</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0509 desenfoques04-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0509_desenfoques04-ipod.m4v" length="29405523" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0509_desenfoques04-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:21 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:02</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0510 desenfoques05-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0510_desenfoques05-ipod.m4v" length="19594661" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0510_desenfoques05-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:21 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:39</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0511 desenfoques06-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0511_desenfoques06-ipod.m4v" length="23209515" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0511_desenfoques06-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:21 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:46</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0512 desenfoques07-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0512_desenfoques07-ipod.m4v" length="21727143" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0512_desenfoques07-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:20 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:06</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0513 pequenosretoques-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0513_pequenosretoques-ipod.m4v" length="36370522" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0513_pequenosretoques-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:20 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:40</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0601 seleccionar-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0601_seleccionar-ipod.m4v" length="57859047" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0601_seleccionar-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:20 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:07</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0602 operarseleccion-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0602_operarseleccion-ipod.m4v" length="40133633" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0602_operarseleccion-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:20 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0603 blancoynegro-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0603_blancoynegro-ipod.m4v" length="15951065" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0603_blancoynegro-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:20 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:01</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0604 colorearimagen01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0604_colorearimagen01-ipod.m4v" length="39127801" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0604_colorearimagen01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:20 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:01</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0605 colorearimagen02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0605_colorearimagen02-ipod.m4v" length="34224821" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0605_colorearimagen02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:20 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:02</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0606 colorearimagen03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0606_colorearimagen03-ipod.m4v" length="38873859" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0606_colorearimagen03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:20 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:14:30</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0607 degradado01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0607_degradado01-ipod.m4v" length="17264226" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0607_degradado01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:19 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:52</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0608 degradado02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0608_degradado02-ipod.m4v" length="28730539" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0608_degradado02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:19 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:39</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0609 degradado03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0609_degradado03-ipod.m4v" length="34459760" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0609_degradado03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:19 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:14:01</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0610 filtrofotografia-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0610_filtrofotografia-ipod.m4v" length="21825148" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0610_filtrofotografia-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:19 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:24</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0611 filtrosartisticos-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0611_filtrosartisticos-ipod.m4v" length="44119463" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0611_filtrosartisticos-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:19 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:13:45</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0701 tamponclonar01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0701_tamponclonar01-ipod.m4v" length="27508815" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0701_tamponclonar01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:19 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:39</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0702 tamponclonar02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0702_tamponclonar02-ipod.m4v" length="55673786" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0702_tamponclonar02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:19 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:13:58</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0703 pincelescorrectores01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0703_pincelescorrectores01-ipod.m4v" length="24550729" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0703_pincelescorrectores01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:19 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:17</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0704 pincelescorrectores02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0704_pincelescorrectores02-ipod.m4v" length="29305284" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0704_pincelescorrectores02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:18 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:27</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0705 herramientaparche-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0705_herramientaparche-ipod.m4v" length="25240324" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0705_herramientaparche-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:18 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:15</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0706 seleccionescomplejas01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0706_seleccionescomplejas01-ipod.m4v" length="34451723" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0706_seleccionescomplejas01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:18 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:56</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0707 seleccionescomplejas02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0707_seleccionescomplejas02-ipod.m4v" length="72155163" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0707_seleccionescomplejas02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:18 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:28</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0708 plumas01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0708_plumas01-ipod.m4v" length="26928925" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0708_plumas01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:18 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:19</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0709 plumas02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0709_plumas02-ipod.m4v" length="39649110" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0709_plumas02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:18 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:29</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0710 plumas03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0710_plumas03-ipod.m4v" length="29348546" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0710_plumas03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:18 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:07</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0711 trazadoderecorte-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0711_trazadoderecorte-ipod.m4v" length="30951910" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0711_trazadoderecorte-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:18 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:33</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0712 texto01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0712_texto01-ipod.m4v" length="22283839" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0712_texto01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:18 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:12</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0713 texto02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0713_texto02-ipod.m4v" length="14852509" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0713_texto02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:17 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:08</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0714 texto03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0714_texto03-ipod.m4v" length="29812883" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0714_texto03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:17 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:11</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0715 texto04-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0715_texto04-ipod.m4v" length="27765364" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0715_texto04-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:17 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:17</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0716 efectoscapa01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0716_efectoscapa01-ipod.m4v" length="23022343" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0716_efectoscapa01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:17 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:46</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0717 efectoscapa02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0717_efectoscapa02-ipod.m4v" length="28036927" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0717_efectoscapa02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:17 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:14</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0718 efectoscapa03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0718_efectoscapa03-ipod.m4v" length="19621597" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0718_efectoscapa03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:17 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:06</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0719 mascarascapa01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0719_mascarascapa01-ipod.m4v" length="27904019" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0719_mascarascapa01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:17 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:01</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0720 mascarascapa02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0720_mascarascapa02-ipod.m4v" length="33242421" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0720_mascarascapa02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:17 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:43</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0721 mascarascapa03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0721_mascarascapa03-ipod.m4v" length="32039550" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0721_mascarascapa03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:16 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:39</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0722 fusionescapas-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0722_fusionescapas-ipod.m4v" length="34472411" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0722_fusionescapas-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:16 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:51</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0723 capadeajuste01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0723_capadeajuste01-ipod.m4v" length="27140064" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0723_capadeajuste01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:16 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:05</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0724 capadeajuste02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0724_capadeajuste02-ipod.m4v" length="20374757" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0724_capadeajuste02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:16 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:32</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0801 gamadecolores01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0801_gamadecolores01-ipod.m4v" length="30963546" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0801_gamadecolores01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:16 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:04</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0802 gamadecolores02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0802_gamadecolores02-ipod.m4v" length="22398515" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0802_gamadecolores02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:16 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:11</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0803 agruparcapas-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0803_agruparcapas-ipod.m4v" length="26181701" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0803_agruparcapas-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:16 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:39</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0804 capadeforma01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0804_capadeforma01-ipod.m4v" length="16603079" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0804_capadeforma01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:16 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:57</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0805 capadeforma02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0805_capadeforma02-ipod.m4v" length="19942708" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0805_capadeforma02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:16 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:19</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0806 mascaravectorial-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0806_mascaravectorial-ipod.m4v" length="18550811" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0806_mascaravectorial-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:15 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:59</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0807 licuar01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0807_licuar01-ipod.m4v" length="28966921" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0807_licuar01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:15 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:27</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0808 licuar02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0808_licuar02-ipod.m4v" length="38731051" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0808_licuar02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:15 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:49</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0809 licuar03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0809_licuar03-ipod.m4v" length="21755603" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0809_licuar03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:15 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:05:12</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0810 bosquejar01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0810_bosquejar01-ipod.m4v" length="71411694" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0810_bosquejar01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:15 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0811 bosquejar02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0811_bosquejar02-ipod.m4v" length="96115897" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0811_bosquejar02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:15 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:14:51</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0901 modoscolor01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0901_modoscolor01-ipod.m4v" length="18247495" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0901_modoscolor01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:15 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:53</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0902 modoscolor02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0902_modoscolor02-ipod.m4v" length="20326176" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0902_modoscolor02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:15 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:25</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0903 daltonismo-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0903_daltonismo-ipod.m4v" length="16068381" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0903_daltonismo-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:14 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:30</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0904 escalagrises-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0904_escalagrises-ipod.m4v" length="28695903" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0904_escalagrises-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:14 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:53</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0905 mapadebit-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0905_mapadebit-ipod.m4v" length="42549174" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0905_mapadebit-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:14 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:35</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0906 canales01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0906_canales01-ipod.m4v" length="35301078" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0906_canales01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:14 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:24</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0907 canales02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0907_canales02-ipod.m4v" length="40072907" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0907_canales02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:14 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:43</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0908 canaltintaplana-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0908_canaltintaplana-ipod.m4v" length="12149204" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0908_canaltintaplana-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:14 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:41</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0909 profundidadbits-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0909_profundidadbits-ipod.m4v" length="27287216" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0909_profundidadbits-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:14 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:30</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0910 multicanal01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0910_multicanal01-ipod.m4v" length="21595056" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0910_multicanal01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:14 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:25</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0911 multicanal02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0911_multicanal02-ipod.m4v" length="34678033" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0911_multicanal02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:14 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:39</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0912 mapadesplazamiento01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0912_mapadesplazamiento01-ipod.m4v" length="25798467" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0912_mapadesplazamiento01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:13 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:46</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0913 mapadesplazamiento02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0913_mapadesplazamiento02-ipod.m4v" length="28094458" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0913_mapadesplazamiento02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:13 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:27</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0914 interpolacion01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0914_interpolacion01-ipod.m4v" length="24444817" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0914_interpolacion01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:13 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:52</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0915 interpolacion02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0915_interpolacion02-ipod.m4v" length="21505057" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0915_interpolacion02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:13 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:48</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0916 interpolacion03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0916_interpolacion03-ipod.m4v" length="11572050" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0916_interpolacion03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:13 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:59</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0917 lineatura-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0917_lineatura-ipod.m4v" length="13740358" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0917_lineatura-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:13 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:32</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0918 duotonos-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0918_duotonos-ipod.m4v" length="39460349" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0918_duotonos-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:13 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:14:30</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 0919 trazospincel-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_0919_trazospincel-ipod.m4v" length="37376591" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_0919_trazospincel-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:13 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:12</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1001 correccionimage01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1001_correccionimage01-ipod.m4v" length="27631823" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1001_correccionimage01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:13 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:43</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1002 correccionimage02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1002_correccionimage02-ipod.m4v" length="38277356" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1002_correccionimage02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:12 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:22</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1003 correccionimage03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1003_correccionimage03-ipod.m4v" length="23239935" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1003_correccionimage03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:12 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:42</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1004 ajustelucesysombras-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1004_ajustelucesysombras-ipod.m4v" length="23129008" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1004_ajustelucesysombras-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:12 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:33</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1005 metodosajustes-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1005_metodosajustes-ipod.m4v" length="29059609" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1005_metodosajustes-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:12 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:35</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1006 correccioncolor01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1006_correccioncolor01-ipod.m4v" length="19569785" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1006_correccioncolor01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:12 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:26</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1007 correccioncolor02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1007_correccioncolor02-ipod.m4v" length="25101580" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1007_correccioncolor02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:12 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:15</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1008 correccioncolor03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1008_correccioncolor03-ipod.m4v" length="37119307" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1008_correccioncolor03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:12 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:14:33</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1009 ajusteselectivo01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1009_ajusteselectivo01-ipod.m4v" length="32082971" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1009_ajusteselectivo01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:12 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:31</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1010 ajusteselectivo02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1010_ajusteselectivo02-ipod.m4v" length="25726218" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1010_ajusteselectivo02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:12 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:54</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1011 enfocar01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1011_enfocar01-ipod.m4v" length="32006370" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1011_enfocar01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:11 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:40</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1012 enfocar02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1012_enfocar02-ipod.m4v" length="26692512" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1012_enfocar02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:11 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:46</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1013 enfocar03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1013_enfocar03-ipod.m4v" length="33355096" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1013_enfocar03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:11 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:25</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1101 otrosmodos-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1101_otrosmodos-ipod.m4v" length="32953708" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1101_otrosmodos-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:11 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:53</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1102 acciones01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1102_acciones01-ipod.m4v" length="15865224" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1102_acciones01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:11 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:03</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1103 acciones02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1103_acciones02-ipod.m4v" length="28931541" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1103_acciones02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:11 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1104 droplets-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1104_droplets-ipod.m4v" length="16606719" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1104_droplets-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:11 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:18</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1105 raw01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1105_raw01-ipod.m4v" length="11596305" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1105_raw01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:11 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:06</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1106 raw02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1106_raw02-ipod.m4v" length="20790717" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1106_raw02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:11 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:47</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1107 raw03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1107_raw03-ipod.m4v" length="18403310" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1107_raw03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:10 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:38</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1108 raw04-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1108_raw04-ipod.m4v" length="24871464" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1108_raw04-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:10 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:54</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1109 raw05-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1109_raw05-ipod.m4v" length="34276255" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1109_raw05-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:10 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:30</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1110 raw06-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1110_raw06-ipod.m4v" length="26648458" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1110_raw06-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:10 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:13</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1111 raw07-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1111_raw07-ipod.m4v" length="16667842" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1111_raw07-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:10 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:13</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1201 optimizar-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1201_optimizar-ipod.m4v" length="48157583" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1201_optimizar-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:10 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:13:24</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1202 optimizar02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1202_optimizar02-ipod.m4v" length="21714321" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1202_optimizar02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:10 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:51</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1203 optimizar03-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1203_optimizar03-ipod.m4v" length="61024627" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1203_optimizar03-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:10 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:17:21</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1204 optimizar04-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1204_optimizar04-ipod.m4v" length="41969059" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1204_optimizar04-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:10 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:47</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1205 sectores01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1205_sectores01-ipod.m4v" length="18342043" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1205_sectores01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:09 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:40</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1206 sectores02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1206_sectores02-ipod.m4v" length="39742568" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1206_sectores02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:09 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:13:03</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1207 devicecentral-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1207_devicecentral-ipod.m4v" length="20501604" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1207_devicecentral-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:09 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:47</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1208 zoomify-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1208_zoomify-ipod.m4v" length="14792232" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1208_zoomify-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:09 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:04:42</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1301 lote-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1301_lote-ipod.m4v" length="21025077" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1301_lote-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:09 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:34</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1302 enderezar-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1302_enderezar-ipod.m4v" length="27273140" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1302_enderezar-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:09 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:13:21</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1303 fusionautomatica-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1303_fusionautomatica-ipod.m4v" length="24125795" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1303_fusionautomatica-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:09 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:49</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1304 gestioncolor-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1304_gestioncolor-ipod.m4v" length="27522795" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1304_gestioncolor-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:09 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:16:18</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1305 photomerge01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1305_photomerge01-ipod.m4v" length="37681711" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1305_photomerge01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:09 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:46</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1306 photomerge02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1306_photomerge02-ipod.m4v" length="26641270" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1306_photomerge02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:09 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:45</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1307 imprimir-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1307_imprimir-ipod.m4v" length="15702327" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1307_imprimir-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:08 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:36</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1308 puntofuga01-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1308_puntofuga01-ipod.m4v" length="31292550" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1308_puntofuga01-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:08 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:01</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>PHCS5 1309 puntofuga02-ipod</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/x-m4v" url="http://stream.artesvisuales.com/podcast/PHCS5_1309_puntofuga02-ipod.m4v" length="53733039" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS5_1309_puntofuga02-ipod.m4v</guid>
+			<pubDate>Thu, 30 Sep 2010 16:04:08 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:49</itunes:duration>
+			<itunes:keywords />
+		</item>
+	</channel>
+</rss>

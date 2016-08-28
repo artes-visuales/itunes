@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://stream.artesvisuales.com/video/_iTunesU_AfterEffectsCS6_Esencial.xml" />
+		<lastBuildDate>Fri, 07 Feb 2014 07:32:04 +0100</lastBuildDate>
+		<title>After Effects CS6 Esencial</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com/</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[El objetivo de este curso es el de subir el primer peldaño de conocimientos de After Effects. Conocer lo esencial del programa, antes de subir un segundo peldaño en el conocimiento del mismo. Su aprendizaje será ágil y sencillo. Evitando posiblemente cursos eternos de cualquier programa de esta envergadura. Con la posibilidad de ver la herramienta por niveles (nivel I ). Conocerá el espacio de trabajo de After Effects. El panel proyecto. Como importar material, o la ventana de línea de tiempo, y todas las posibilidades con este panel. Como se genera una nueva composición y sus ajustes. Anidar composiciones. Mostrar, ocultar, bloquear y desbloquear capas. Aplicar máscara sobre clip. Ajustar el ancho de calado de una máscara. Dividir clip. Crear texto con canal alfa. Separar dimensiones de posición de las propiedades de transformación de capa. Capa de ajuste. Capa cámara. Capa sólida. Dividir capa. Como guardar un proyecto, y exportar una composición como película quicktime.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>El objetivo de este curso es el de subir el primer peldaño de conocimientos de After Effects. Conocer lo esencial del programa, antes de subir un segundo peldaño en el conocimiento del mismo. Su aprendizaje será ágil y sencillo. Evitando posiblemente cursos eternos de cualquier programa de esta envergadura. Con la posibilidad de ver la herramienta por niveles (nivel I ). Conocerá el espacio de trabajo de After Effects. El panel proyecto. Como importar material, o la ventana de línea de tiempo, y todas las posibilidades con este panel. Como se genera una nueva composición y sus ajustes. Anidar composiciones. Mostrar, ocultar, bloquear y desbloquear capas. Aplicar máscara sobre clip. Ajustar el ancho de calado de una máscara. Dividir clip. Crear texto con canal alfa. Separar dimensiones de posición de las propiedades de transformación de capa. Capa de ajuste. Capa cámara. Capa sólida. Dividir capa. Como guardar un proyecto, y exportar una composición como película quicktime.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>itunes@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS6_Esencial_144.jpg</url>
+			<title>After Effects CS6 Esencial</title>
+			<link>http://www.artesvisuales.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS6_Esencial.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>wordpress</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>AEFCS6V1 0100 Introducción</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0100_introduccion.mp4" type="video/mp4" length="46895" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0100_introduccion.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:55 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0101 Caché de disco</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0101_cachededisco.mp4" type="video/mp4" length="38764" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0101_cachededisco.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:55 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0102 Proyecto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0102_proyecto.mp4" type="video/mp4" length="52687" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0102_proyecto.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:55 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0103 Comenzar proyecto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0103_comenzarproyecto.mp4" type="video/mp4" length="58484" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0103_comenzarproyecto.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:55 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0104 Configuración</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0104_configuracion.mp4" type="video/mp4" length="57759" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0104_configuracion.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:55 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0105 Ajuste</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0105_ajuste.mp4" type="video/mp4" length="47120" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0105_ajuste.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:55 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0106 Espacio de trabajo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0106_espaciotrabajo.mp4" type="video/mp4" length="49040" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0106_espaciotrabajo.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:55 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0107 Edición básica</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0107_edicionbasica.mp4" type="video/mp4" length="46708" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0107_edicionbasica.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0108 Edición básica II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0108_edicionbasica02.mp4" type="video/mp4" length="59228" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0108_edicionbasica02.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0109 Color de fondo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0109_colorfondo.mp4" type="video/mp4" length="52358" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0109_colorfondo.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0110 Timeline</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0110_timeline.mp4" type="video/mp4" length="43869" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0110_timeline.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0200 Varias composiciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0200_variascompos.mp4" type="video/mp4" length="46844" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0200_variascompos.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0201 Area segura</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0201_areaseguras.mp4" type="video/mp4" length="49549" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0201_areaseguras.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0202 Siempre vista</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0202_siemprevista.mp4" type="video/mp4" length="59158" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0202_siemprevista.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0203 Ocultar capa</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0203_ocultarcapa.mp4" type="video/mp4" length="54668" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0203_ocultarcapa.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0204 Alinear</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0204_alinear.mp4" type="video/mp4" length="58028" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0204_alinear.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0300 Imagen fija</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0300_imagenfija.mp4" type="video/mp4" length="40478" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0300_imagenfija.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0301 Editar original</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0301_editaroriginal.mp4" type="video/mp4" length="56469" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0301_editaroriginal.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:54 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0302 Duración imagen</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0302_duracionimagen.mp4" type="video/mp4" length="58797" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0302_duracionimagen.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0303 Texto editable</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0303_textoeditable.mp4" type="video/mp4" length="65314" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0303_textoeditable.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0304 Resolución</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0304_resolucion.mp4" type="video/mp4" length="62370" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0304_resolucion.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0400 Máscara</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0400_mascara.mp4" type="video/mp4" length="64087" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0400_mascara.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0401 Animar máscara</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0401_animarmascara.mp4" type="video/mp4" length="56494" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0401_animarmascara.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0402 Varias máscaras</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0402_variasmascaras.mp4" type="video/mp4" length="64168" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0402_variasmascaras.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0403 Obturación</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0403_obturacion.mp4" type="video/mp4" length="53006" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0403_obturacion.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0404 Calado de máscara</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0404_caladodemascara.mp4" type="video/mp4" length="55686" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0404_caladodemascara.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0405 Texto canal alfa</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0405_textocanaalfa.mp4" type="video/mp4" length="51977" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0405_textocanaalfa.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0500 Previsualización</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0500_previsualizacion.mp4" type="video/mp4" length="58096" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0500_previsualizacion.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:53 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0501 Anidar composición I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0501_anidarcomposicion01.mp4" type="video/mp4" length="51696" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0501_anidarcomposicion01.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0502 Anidar composición II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0502_anidarcomposicion02.mp4" type="video/mp4" length="51072" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0502_anidarcomposicion02.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0503 Separación I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0503_separacion.mp4" type="video/mp4" length="51021" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0503_separacion.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0504 Separación II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0504_separacion02.mp4" type="video/mp4" length="55934" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0504_separacion02.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0600 Capa de ajuste I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0600_capaajuste.mp4" type="video/mp4" length="51422" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0600_capaajuste.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0601 Capa de ajuste II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0601_capaajuste.mp4" type="video/mp4" length="57519" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0601_capaajuste.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0602 Capa de cámara I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0602_capacamara.mp4" type="video/mp4" length="44263" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0602_capacamara.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0603 Capa de cámara II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0603_capacamara.mp4" type="video/mp4" length="61261" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0603_capacamara.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0604 Capa de cámara III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0604_capacamara.mp4" type="video/mp4" length="57138" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0604_capacamara.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0605 Capa sólida I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0605_capasolida.mp4" type="video/mp4" length="55679" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0605_capasolida.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0606 Capa sólida II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0606_capasolida.mp4" type="video/mp4" length="63418" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0606_capasolida.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0607 Dividir capa I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0607_dividircapa.mp4" type="video/mp4" length="56308" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0607_dividircapa.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0608 Dividir capa II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0608_dividircapa.mp4" type="video/mp4" length="56707" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0608_dividircapa.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0610 Dividir capa III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0610_dividircapa.mp4" type="video/mp4" length="59472" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0610_dividircapa.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0611 Dividir capa IV</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0611_dividircapa.mp4" type="video/mp4" length="58010" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0611_dividircapa.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0612 Dividir capa V</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0612_dividircapa.mp4" type="video/mp4" length="61657" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0612_dividircapa.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0613 Dividir capa VI</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0613_dividircapa.mp4" type="video/mp4" length="62068" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0613_dividircapa.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0614 Dividir capa VII</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0614_dividircapa.mp4" type="video/mp4" length="66578" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0614_dividircapa.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>AEFCS6V1 0615 Dividir capa VIII</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/AEFCS6V1_0615_dividircapa.mp4" type="video/mp4" length="57802" />
+			<guid>http://stream.artesvisuales.com/video/AEFCS6V1_0615_dividircapa.mp4</guid>
+			<pubDate>Fri, 07 Feb 2014 06:53:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+	</channel>
+</rss>

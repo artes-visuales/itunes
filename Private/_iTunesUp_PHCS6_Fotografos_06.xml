@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesUp_PHCS6_Fotografos_06.xml" />
+		<lastBuildDate>Tue, 29 Jan 2013 08:21:06 +0100</lastBuildDate>
+		<title>Photoshop CS6 Fotógrafos 6. Secuencia de comandos y automatismos</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[6.2 Acciones 01  
+6.3 Acciones 02  
+6.4 Lote  
+6.5 Droplet  
+6.6 Panorámica  
+6.7 Combinar HDR  ]]></description>
+		<itunes:subtitle />
+		<itunes:summary>6.2 Acciones 01  
+6.3 Acciones 02  
+6.4 Lote  
+6.5 Droplet  
+6.6 Panorámica  
+6.7 Combinar HDR  </itunes:summary>
+		<language>es</language>
+		<copyright>Creative Commons 3.0</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_PHCS6F_144.jpg</url>
+			<title>Photoshop CS6 Fotógrafos 6. Secuencia de comandos y automatismos</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_PHCS6F.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>PHCS6FOT 0601 acciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0601_acciones.mp4" type="video/mp4" length="35032" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0601_acciones.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:20:59 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0602 acciones02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0602_acciones02.mp4" type="video/mp4" length="35938" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0602_acciones02.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:20:59 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0603 acciones03</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0603_acciones03.mp4" type="video/mp4" length="39984" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0603_acciones03.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:20:59 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0604 lote</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0604_lote.mp4" type="video/mp4" length="31342" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0604_lote.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:20:59 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0605 droplet</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0605_droplet.mp4" type="video/mp4" length="30025" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0605_droplet.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:20:59 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0606 panoramica</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0606_panoramica.mp4" type="video/mp4" length="31569" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0606_panoramica.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:20:59 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0607 combinar hdr</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0607_combinar_hdr.mp4" type="video/mp4" length="35586" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0607_combinar_hdr.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:20:59 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+	</channel>
+</rss>

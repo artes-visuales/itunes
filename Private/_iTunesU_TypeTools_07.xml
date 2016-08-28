@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_TypeTools_07.xml"/>
+		<lastBuildDate>Tue, 31 Jan 2012 11:09:11 +0200</lastBuildDate>
+		<title>Tema 7 Capas de cuadrícula.</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://campus.artesvisuales.com</link>
+		<description/>
+		<itunes:subtitle/>
+		<itunes:summary/>
+		<language>es-es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name/>
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_TypeTools_144.jpg</url>
+			<link>http://campus.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_TypeTools.jpg"/>
+		<category>Training</category>
+		<itunes:category text="Education">
+			<itunes:category text="Training"/>
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design"/>
+		</itunes:category>
+		<itunes:keywords/>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>7.1 Capa y cuadrícula.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0701_capa_cuadricula-iPodWM.m4v" type="vídeo/x-m4v" length="15616358"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0701_capa_cuadricula-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:08:41 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>7.2 Líneas de ajuste y guías.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0702_linea_ajuste_guias-iPodWM.m4v" type="vídeo/x-m4v" length="14965646"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0702_linea_ajuste_guias-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:08:25 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>7.3 Modo medidor.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0703_modo_medidor-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0703_modo_medidor-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:08:01 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>7.4 Medidor líneas de ajuste.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0704_medidor_lineas_ajuste-iPodWM.m4v" type="vídeo/x-m4v" length="21338191"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0704_medidor_lineas_ajuste-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:07:42 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>7.5 Crear capa de fondo.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0705_crear_capa_fondo-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0705_crear_capa_fondo-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item> 
+		<item>
+			<title>7.6 Preferencias posicionamiento y capa de fondo.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0706_preferencias_posicionamiento_capa_fondo-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0706_preferencias_posicionamiento_capa_fondo-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>7.7 Medidas.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0707_medidas-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0707_medidas-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>  
+		<item>
+			<title>7.8 Edición de medidas y propiedades.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0708_edicion_medidas_ppropiedades_linea_base-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0708_edicion_medidas_ppropiedades_linea_base-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>7.9 Propiedades y medidas del ancho del glifo.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0709_propiedades_medidas_ancho_glifo-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0709_propiedades_medidas_ancho_glifo-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>7.10 Capa de máscara.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0710_capa_mascara-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0710_capa_mascara-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>7.11 Medidas verticales.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0711_medidas_verticales-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0711_medidas_verticales-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item> 
+		<item>
+			<title>7.12 Capas de retoque.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0712_capa_retoques-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0712_capa_retoques-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+	</channel>
+</rss>

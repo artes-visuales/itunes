@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS5_05.xml" />
+		<lastBuildDate>Mon, 13 Jun 2011 09:44:33 +0200</lastBuildDate>
+		<title>Ajustes</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://artesvisuales.groups.adobe.com/</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[After Effects CS5 es la principal aplicación para la postproducción digital de vídeo.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>After Effects CS5 es la principal aplicación para la postproducción digital de vídeo.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS5_144.jpg</url>
+			<title>Ajustes</title>
+			<link>http://artesvisuales.groups.adobe.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS5.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>5.1 Ajustes preestablecidos I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0501_ajustespreest-ipod.m4v" type="video/x-m4v" length="10469946" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0501_ajustespreest-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:43:44 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>5.2 Ajustes preestablecidos II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0502_ajustespreest-ipod.m4v" type="video/x-m4v" length="15801315" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0502_ajustespreest-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:43:16 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>5.3 Barrido tarjetas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0503_barridotarjetas-ipod.m4v" type="video/x-m4v" length="13425400" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0503_barridotarjetas-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:42:57 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>5.4 Animate in</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0504_animatein-ipod.m4v" type="video/x-m4v" length="11765139" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0504_animatein-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:42:39 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>5.5 Trazos pintura </title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0505_trazospintura-ipod.m4v" type="video/x-m4v" length="19373759" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0505_trazospintura-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:42:11 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>5.6 Humo ascendente I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0506_humoascendente-ipod.m4v" type="video/x-m4v" length="11125844" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0506_humoascendente-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:41:49 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>5.7 Humo ascendente II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0507_humoascendente-ipod.m4v" type="video/x-m4v" length="8220144" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0507_humoascendente-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:41:27 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://stream.artesvisuales.com/video/_iTunesU_WordPress_Seguridad.xml" />
+		<lastBuildDate>Thu, 30 Jan 2014 10:24:27 +0100</lastBuildDate>
+		<title>WordPress Seguridad</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com/</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[El Curso WordPress Seguridad está pensado para todos los administradores de websites diseñados con wordpress, para que aprendan las técnicas que eviten los accesos indeseados al mismo.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>El Curso WordPress Seguridad está pensado para todos los administradores de websites diseñados con wordpress, para que aprendan las técnicas que eviten los accesos indeseados al mismo.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>itunes@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://stream.artesvisuales.com/video/_iTunesU_WordPress_Seguridad_144.jpg</url>
+			<title>WordPress Seguridad</title>
+			<link>http://www.artesvisuales.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://stream.artesvisuales.com/video/_iTunesU_WordPress_Seguridad.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>wordpress</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>WPSEG 0101 sitioactualizado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0101_sitioactualizado.mp4" type="video/mp4" length="170228" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0101_sitioactualizado.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:29 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0102 copiaseguridad</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0102_copiaseguridad.mp4" type="video/mp4" length="152448" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0102_copiaseguridad.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:29 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0103 restaurarsitio</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0103_restaurarsitio.mp4" type="video/mp4" length="74537" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0103_restaurarsitio.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:29 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0104 limpieza</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0104_limpieza.mp4" type="video/mp4" length="179336" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0104_limpieza.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:29 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0105 modificarcontrasenia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0105_modificarcontrasenia.mp4" type="video/mp4" length="68921" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0105_modificarcontrasenia.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:29 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0201 usuariosroles</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0201_usuariosroles.mp4" type="video/mp4" length="140456" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0201_usuariosroles.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:29 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0202 usuarioadmin</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0202_usuarioadmin.mp4" type="video/mp4" length="120517" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0202_usuarioadmin.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:29 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0203 contraseniasfuertes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0203_contraseniasfuertes.mp4" type="video/mp4" length="124549" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0203_contraseniasfuertes.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:29 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0204 eliminarversion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0204_eliminarversion.mp4" type="video/mp4" length="179297" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0204_eliminarversion.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:29 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0205 plugintemasseguros</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0205_plugintemasseguros.mp4" type="video/mp4" length="161393" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0205_plugintemasseguros.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:29 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0301 prefijotablas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0301_prefijotablas.mp4" type="video/mp4" length="141322" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0301_prefijotablas.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:29 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0302 claves</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0302_claves.mp4" type="video/mp4" length="64522" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0302_claves.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0303 cortafuegos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0303_cortafuegos.mp4" type="video/mp4" length="161610" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0303_cortafuegos.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0304 bloqueoaccesos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0304_bloqueoaccesos.mp4" type="video/mp4" length="135140" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0304_bloqueoaccesos.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0401 proteccioninstalacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0401_proteccioninstalacion.mp4" type="video/mp4" length="108308" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0401_proteccioninstalacion.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0402 proteccionconfiguracion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0402_proteccionconfiguracion.mp4" type="video/mp4" length="106714" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0402_proteccionconfiguracion.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0403 proteccionadministracion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0403_proteccionadministracion.mp4" type="video/mp4" length="155807" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0403_proteccionadministracion.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0404 proteccioninicio</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0404_proteccioninicio.mp4" type="video/mp4" length="47610" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0404_proteccioninicio.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0405 protecciondirectorios</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0405_protecciondirectorios.mp4" type="video/mp4" length="104466" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0405_protecciondirectorios.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0501 hotlinking</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0501_hotlinking.mp4" type="video/mp4" length="153448" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0501_hotlinking.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0502 spamauto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0502_spamauto.mp4" type="video/mp4" length="134466" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0502_spamauto.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0503 spamcomentario</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0503_spamcomentario.mp4" type="video/mp4" length="147423" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0503_spamcomentario.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0504 hacks</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0504_hacks.mp4" type="video/mp4" length="151985" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0504_hacks.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:27 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0505 robots</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0505_robots.mp4" type="video/mp4" length="91619" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0505_robots.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:27 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0506 modifarchivos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0506_modifarchivos.mp4" type="video/mp4" length="128715" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0506_modifarchivos.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:27 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPSEG 0600 examen</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPSEG_0600_examen.mp4" type="video/mp4" length="180012" />
+			<guid>http://stream.artesvisuales.com/video/WPSEG_0600_examen.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 10:22:27 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+	</channel>
+</rss>

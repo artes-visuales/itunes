@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://stream.artesvisuales.com/video/_iTunesU_Acrobat_X_multimedia.xml" />
+		<lastBuildDate>Tue, 28 Jan 2014 09:10:37 +0100</lastBuildDate>
+		<title>Acrobat X Multimedia</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com/</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Este curso nos introduce en la creación de PDF mediante Acrobat X, trataremos de aprender el potencial que nos ofrece dicho programa a la hora de crear documentos multimedia.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Este curso nos introduce en la creación de PDF mediante Acrobat X, trataremos de aprender el potencial que nos ofrece dicho programa a la hora de crear documentos multimedia.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_Acrobat_X_144_Mutimedia.jpg</url>
+			<title>Acrobat X Multimedia</title>
+			<link>http://www.artesvisuales.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_Acrobat_X_Multimedia.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>ACRXM 0101 acrobat</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0101_acrobat.mov" type="video/quicktime" length="35273" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0101_acrobat.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:52 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0102 materiales</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0102_materiales.mov" type="video/quicktime" length="28671" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0102_materiales.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0103 osx</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0103_osx.mov" type="video/quicktime" length="29864" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0103_osx.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0201 versiones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0201_versiones.mov" type="video/quicktime" length="26822" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0201_versiones.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0202 versionesx</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0202_versionesx.mov" type="video/quicktime" length="22160" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0202_versionesx.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0203 reader</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0203_reader.mov" type="video/quicktime" length="23780" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0203_reader.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0204 formato</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0204_formato.mov" type="video/quicktime" length="21720" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0204_formato.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0205 adaptacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0205_adaptacion.mov" type="video/quicktime" length="24767" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0205_adaptacion.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0301 publico</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0301_publico.mov" type="video/quicktime" length="30651" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0301_publico.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0302 metodo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0302_metodo.mov" type="video/quicktime" length="17690" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0302_metodo.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0401 general</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0401_general.mov" type="video/quicktime" length="19137" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0401_general.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0402 confianza</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0402_confianza.mov" type="video/quicktime" length="27652" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0402_confianza.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0403 propiedades</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0403_propiedades.mov" type="video/quicktime" length="28163" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0403_propiedades.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0501 vin</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0501_vin.mov" type="video/quicktime" length="27293" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0501_vin.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0521 vin pagina</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0521_vin_pagina.mov" type="video/quicktime" length="34198" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0521_vin_pagina.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0522 vin archivo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0522_vin_archivo.mov" type="video/quicktime" length="33374" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0522_vin_archivo.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0523 vin web</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0523_vin_web.mov" type="video/quicktime" length="33741" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0523_vin_web.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0524 vin personal</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0524_vin_personal.mov" type="video/quicktime" length="32266" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0524_vin_personal.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0601 botonera</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0601_botonera.mov" type="video/quicktime" length="31915" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0601_botonera.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0602 rollovers</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0602_rollovers.mov" type="video/quicktime" length="30598" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0602_rollovers.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0603 duplicando</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0603_duplicando.mov" type="video/quicktime" length="33225" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0603_duplicando.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0604 trabajando</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0604_trabajando.mov" type="video/quicktime" length="33017" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0604_trabajando.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0701 acciones p</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0701_acciones_p.mov" type="video/quicktime" length="30551" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0701_acciones_p.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0801 transiciones p</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0801_transiciones_p.mov" type="video/quicktime" length="32077" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0801_transiciones_p.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0901 p completa</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0901_p_completa.mov" type="video/quicktime" length="17054" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0901_p_completa.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0911 p completa</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0911_p_completa.mov" type="video/quicktime" length="27958" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0911_p_completa.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0912 p completa prop</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0912_p_completa_prop.mov" type="video/quicktime" length="35087" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0912_p_completa_prop.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0913 p completa a</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0913_p_completa_a.mov" type="video/quicktime" length="29326" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0913_p_completa_a.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0914 p completa b</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0914_p_completa_b.mov" type="video/quicktime" length="28565" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0914_p_completa_b.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 0915 p completa java</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_0915_p_completa_java.mov" type="video/quicktime" length="20851" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_0915_p_completa_java.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1001 flash</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1001_flash.mov" type="video/quicktime" length="27180" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1001_flash.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1002 flash configurar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1002_flash_configurar.mov" type="video/quicktime" length="31124" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1002_flash_configurar.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1003 flash componentes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1003_flash_componentes.mov" type="video/quicktime" length="29110" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1003_flash_componentes.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1004 flash comentarios</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1004_flash_comentarios.mov" type="video/quicktime" length="32321" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1004_flash_comentarios.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1101 v capitulos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1101_v_capitulos.mov" type="video/quicktime" length="30999" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1101_v_capitulos.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1102 am encoder</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1102_am_encoder.mov" type="video/quicktime" length="26047" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1102_am_encoder.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1103 video acciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1103_video_acciones.mov" type="video/quicktime" length="27887" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1103_video_acciones.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1104 video representaciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1104_video_representaciones.mov" type="video/quicktime" length="29082" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1104_video_representaciones.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1105 video botonera</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1105_video_botonera.mov" type="video/quicktime" length="30313" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1105_video_botonera.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1201 sonido</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1201_sonido.mov" type="video/quicktime" length="33028" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1201_sonido.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1202 sonido h</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1202_sonido_h.mov" type="video/quicktime" length="31825" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1202_sonido_h.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1203 anotaciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1203_anotaciones.mov" type="video/quicktime" length="26490" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1203_anotaciones.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1301 capas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1301_capas.mov" type="video/quicktime" length="28081" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1301_capas.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1302 capas indesign</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1302_capas_indesign.mov" type="video/quicktime" length="30852" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1302_capas_indesign.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1303 capas propiedades</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1303_capas_propiedades.mov" type="video/quicktime" length="28626" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1303_capas_propiedades.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1304 capas boton</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1304_capas_boton.mov" type="video/quicktime" length="32998" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1304_capas_boton.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1305 capas marcadores</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1305_capas_marcadores.mov" type="video/quicktime" length="30530" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1305_capas_marcadores.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1401 javascript</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1401_javascript.mov" type="video/quicktime" length="26217" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1401_javascript.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1402 java menu</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1402_java_menu.mov" type="video/quicktime" length="38051" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1402_java_menu.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1404 java version</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1404_java_version.mov" type="video/quicktime" length="27528" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1404_java_version.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1431 java capas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1431_java_capas.mov" type="video/quicktime" length="20066" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1431_java_capas.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>ACRXM 1432 java campos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRXM_1432_java_campos.mov" type="video/quicktime" length="39155" />
+			<guid>http://stream.artesvisuales.com/video/ACRXM_1432_java_campos.mov</guid>
+			<pubDate>Tue, 28 Jan 2014 09:09:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+	</channel>
+</rss>

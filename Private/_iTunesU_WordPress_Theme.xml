@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://stream.artesvisuales.com/video/_iTunesU_WordPress_Theme.xml" />
+		<lastBuildDate>Thu, 30 Jan 2014 09:21:43 +0100</lastBuildDate>
+		<title>WordPress Themes</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com/</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[El Curso WordPress Themes, está pensado en aquel usuario que deseen desarrollar o personalizar sus plantillas para wordpress.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>El Curso WordPress Themes, está pensado en aquel usuario que deseen desarrollar o personalizar sus plantillas para wordpress.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>itunes@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://stream.artesvisuales.com/video/_iTunesU_WordPress_Theme_144.jpg</url>
+			<title>WordPress Themes</title>
+			<link>http://www.artesvisuales.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://stream.artesvisuales.com/video/_iTunesU_WordPress_Theme.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>wordpress</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>WP TH 01 instalacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WP_TH_01_instalacion.mp4" type="video/mp4" length="231311" />
+			<guid>http://stream.artesvisuales.com/video/WP_TH_01_instalacion.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 09:18:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WP TH 02 temas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WP_TH_02_temas.mp4" type="video/mp4" length="130664" />
+			<guid>http://stream.artesvisuales.com/video/WP_TH_02_temas.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 09:18:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WP TH 03 activacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WP_TH_03_activacion.mp4" type="video/mp4" length="117063" />
+			<guid>http://stream.artesvisuales.com/video/WP_TH_03_activacion.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 09:18:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WP TH 04 datosbasicos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WP_TH_04_datosbasicos.mp4" type="video/mp4" length="137277" />
+			<guid>http://stream.artesvisuales.com/video/WP_TH_04_datosbasicos.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 09:18:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WP TH 05 contenido</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WP_TH_05_contenido.mp4" type="video/mp4" length="146002" />
+			<guid>http://stream.artesvisuales.com/video/WP_TH_05_contenido.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 09:18:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WP TH 06 menu</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WP_TH_06_menu.mp4" type="video/mp4" length="187823" />
+			<guid>http://stream.artesvisuales.com/video/WP_TH_06_menu.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 09:18:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WP TH 07 cabecera</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WP_TH_07_cabecera.mp4" type="video/mp4" length="188222" />
+			<guid>http://stream.artesvisuales.com/video/WP_TH_07_cabecera.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 09:18:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WP TH 08 pie</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WP_TH_08_pie.mp4" type="video/mp4" length="194160" />
+			<guid>http://stream.artesvisuales.com/video/WP_TH_08_pie.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 09:18:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WP TH 09 sidebar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WP_TH_09_sidebar.mp4" type="video/mp4" length="194695" />
+			<guid>http://stream.artesvisuales.com/video/WP_TH_09_sidebar.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 09:18:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WP TH 10 index</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WP_TH_10_index.mp4" type="video/mp4" length="174218" />
+			<guid>http://stream.artesvisuales.com/video/WP_TH_10_index.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 09:18:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WP TH 11 page</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WP_TH_11_page.mp4" type="video/mp4" length="115752" />
+			<guid>http://stream.artesvisuales.com/video/WP_TH_11_page.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 09:18:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WP TH 12 single</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WP_TH_12_single.mp4" type="video/mp4" length="115640" />
+			<guid>http://stream.artesvisuales.com/video/WP_TH_12_single.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 09:18:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WP TH 13 archive</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WP_TH_13_archive.mp4" type="video/mp4" length="114963" />
+			<guid>http://stream.artesvisuales.com/video/WP_TH_13_archive.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 09:18:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WP TH 14 comments</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WP_TH_14_comments.mp4" type="video/mp4" length="154211" />
+			<guid>http://stream.artesvisuales.com/video/WP_TH_14_comments.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 09:18:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WP TH 15 search</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WP_TH_15_search.mp4" type="video/mp4" length="117404" />
+			<guid>http://stream.artesvisuales.com/video/WP_TH_15_search.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 09:18:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WP TH 16 404</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WP_TH_16_404.mp4" type="video/mp4" length="117092" />
+			<guid>http://stream.artesvisuales.com/video/WP_TH_16_404.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 09:18:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+	</channel>
+</rss>
