@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_PhotoshopCS5_13.xml" />
+		<lastBuildDate>Fri, 03 Jun 2011 07:12:54 +0200</lastBuildDate>
+		<title>Lote</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://artesvisuales.groups.adobe.com/</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Adobe Photoshop CS5 es la principal aplicación cuya función principal es el control sobre la imagen. La función principal de esta asignatura es formar al alumno para que éste sea capaz de conocerla en profundidad.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Adobe Photoshop CS5 es la principal aplicación cuya función principal es el control sobre la imagen. La función principal de esta asignatura es formar al alumno para que éste sea capaz de conocerla en profundidad.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_PhotoshopCS5_144.jpg</url>
+			<title>Lote</title>
+			<link>http://artesvisuales.groups.adobe.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_PhotoshopCS5.jpg" />
+		<category>Design</category>
+		<itunes:category text="Education">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>13.1 Lote</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_1301_lote-ipod.m4v" type="video/x-m4v" length="21025077" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_1301_lote-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 06:57:59 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>13.2 Enderezar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_1302_enderezar-ipod.m4v" type="video/x-m4v" length="27273140" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_1302_enderezar-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 06:57:33 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>13.3 Fusión automatica</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_1303_fusionautomatica-ipod.m4v" type="video/x-m4v" length="24125795" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_1303_fusionautomatica-ipod.m4v</guid>
+			<pubDate>Sat, 28 May 2011 09:46:55 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>13.4 Gestión del color</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_1304_gestioncolor-ipod.m4v" type="video/x-m4v" length="27522795" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_1304_gestioncolor-ipod.m4v</guid>
+			<pubDate>Sat, 28 May 2011 09:46:21 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>13.5 Photomerge I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_1305_photomerge01-ipod.m4v" type="video/x-m4v" length="37681711" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_1305_photomerge01-ipod.m4v</guid>
+			<pubDate>Sat, 28 May 2011 09:45:54 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>13.6 Photomerge II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_1306_photomerge02-ipod.m4v" type="video/x-m4v" length="26641270" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_1306_photomerge02-ipod.m4v</guid>
+			<pubDate>Sat, 28 May 2011 09:45:22 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>13.7 Imprimir</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_1307_imprimir-ipod.m4v" type="video/x-m4v" length="15702327" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_1307_imprimir-ipod.m4v</guid>
+			<pubDate>Sat, 28 May 2011 09:44:52 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>13.8 Punto de fuga I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_1308_puntofuga01-ipod.m4v" type="video/x-m4v" length="31292550" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_1308_puntofuga01-ipod.m4v</guid>
+			<pubDate>Sat, 28 May 2011 09:44:15 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>13.9 Punto de fuga II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_1309_puntofuga02-ipod.m4v" type="video/x-m4v" length="53733039" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_1309_puntofuga02-ipod.m4v</guid>
+			<pubDate>Sat, 28 May 2011 09:43:27 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+	</channel>
+</rss>

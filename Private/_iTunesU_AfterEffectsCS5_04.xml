@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS5_04.xml" />
+		<lastBuildDate>Mon, 13 Jun 2011 09:40:40 +0200</lastBuildDate>
+		<title>Capas 3D</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://artesvisuales.groups.adobe.com/</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[After Effects CS5 es la principal aplicación para la postproducción digital de vídeo.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>After Effects CS5 es la principal aplicación para la postproducción digital de vídeo.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS5_144.jpg</url>
+			<title>Capas 3D</title>
+			<link>http://artesvisuales.groups.adobe.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS5.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>4.1 Capa 3D I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0401_capa3d-ipod.m4v" type="video/x-m4v" length="20362239" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0401_capa3d-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:40:21 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>4.2 Capa 3D II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0402_capa3d-ipod.m4v" type="video/x-m4v" length="15264588" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0402_capa3d-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:40:00 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>4.3 Capa 3D III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0403_capa3d-ipod.m4v" type="video/x-m4v" length="19941717" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0403_capa3d-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:39:36 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>4.4 Capa 3D IV</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0404_capa3d2-ipod.m4v" type="video/x-m4v" length="14214398" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0404_capa3d2-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:39:12 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>4.5 Capa 3D V</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0405_capa3d2-ipod.m4v" type="video/x-m4v" length="15041195" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0405_capa3d2-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:38:52 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>4.6 Capa 3D VI</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0406_capa3d2-ipod.m4v" type="video/x-m4v" length="6623493" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0406_capa3d2-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:38:28 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>4.7 Capas 3D VII</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0407_capa3d2-ipod.m4v" type="video/x-m4v" length="9294209" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0313_dividircapa-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:31:35 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+	</channel>
+</rss>

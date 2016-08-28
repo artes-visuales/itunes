@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<atom:link rel="self" href="http://stream.artesvisuales.com/podcast/_PodcastFireworksCS4.xml" type="application/rss+xml" />
+		<lastBuildDate>Thu, 30 Sep 2010 16:43:01 +0200</lastBuildDate>
+		<title>Podcast Fireworks CS4</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[		]]></description>
+		<itunes:subtitle />
+		<itunes:summary>		</itunes:summary>
+		<language>es-es</language>
+		<copyright>(c) Instituto Artes Visuales</copyright>
+		<image>
+			<url>http://stream.artesvisuales.com/podcast/cur_dvd_m_144.jpg</url>
+			<title>artesvisuales: Fireworks CS4</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>80</height>
+		</image>
+		<itunes:image href="http://stream.artesvisuales.com/podcast/cur_dvd_m.jpg" />
+		<category>Podcasting</category>
+		<itunes:category text="Technology">
+			<itunes:category text="Podcasting" />
+		</itunes:category>
+		<itunes:keywords />
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>FWCS4 0100 entorno trabajo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0100_entorno_trabajo.mp4" length="25254353" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0100_entorno_trabajo.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:34 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:30</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0101 conceptos basicos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0101_conceptos_basicos.mp4" length="9804796" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0101_conceptos_basicos.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:34 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:05:04</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0102 bitmapvsvector</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0102_bitmapvsvector.mp4" length="10513051" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0102_bitmapvsvector.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:34 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:04:07</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0103 nuevo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0103_nuevo.mp4" length="25232184" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0103_nuevo.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:33 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:52</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0104 espacio</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0104_espacio.mp4" length="35476315" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0104_espacio.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:33 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:14:09</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0105 ventanas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0105_ventanas.mp4" length="18219398" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0105_ventanas.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:33 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:09</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0106 guias y reglas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0106_guias_y_reglas.mp4" length="18211939" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0106_guias_y_reglas.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:33 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:44</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0107 paginas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0107_paginas.mp4" length="10976116" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0107_paginas.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:33 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:04:09</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0108 capas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0108_capas.mp4" length="19514699" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0108_capas.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:33 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:22</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0109 preferencias</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0109_preferencias.mp4" length="13905072" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0109_preferencias.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:33 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:45</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0201 Bridge</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0201_Bridge.mp4" length="10490760" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0201_Bridge.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:33 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:04:55</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0204 optimizar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0204_optimizar.mp4" length="18007353" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0204_optimizar.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:33 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:16</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0205 optimizar y exportar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0205_optimizar%20y%20exportar.mp4" length="13983705" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0205_optimizar%20y%20exportar.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:32 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:29</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0205 vista previa</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0205_vista%20previa.mp4" length="17183433" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0205_vista%20previa.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:32 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:49</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0206 asistente exportación</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0206_asistente%20exportacio%CC%81n.mp4" length="15928409" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0206_asistente%20exportacio%CC%81n.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:32 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:26</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0301 herramientas bitmap</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0301_herramientas_bitmap.mp4" length="13952817" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0301_herramientas_bitmap.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:32 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:53</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0303 seleccion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0303_seleccion.mp4" length="17472938" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0303_seleccion.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:32 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:09</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0304 pintura</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0304_pintura.mp4" length="9034165" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0304_pintura.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:32 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:05:07</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0305 desenfocar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0305_desenfocar.mp4" length="13374107" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0305_desenfocar.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:32 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:35</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0306 máscara bitmap</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0306_ma%CC%81scara%20bitmap.mp4" length="7948258" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0306_ma%CC%81scara%20bitmap.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:32 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:03:22</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0307 mascara seleccion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0307_mascara%20seleccion.mp4" length="9276637" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0307_mascara%20seleccion.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:32 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:04:35</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0401 niveles y curvas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0401_niveles%20y%20curvas.mp4" length="16506031" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0401_niveles%20y%20curvas.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:32 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:03</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0402 brillo y matiz</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0402_brillo%20y%20matiz.mp4" length="5581346" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0402_brillo%20y%20matiz.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:31 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:03:27</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0501 herramientas vectoriales</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0501_herramientas_vectoriales.mp4" length="20019994" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0501_herramientas_vectoriales.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:31 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:38</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0502 pluma</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0502_pluma.mp4" length="16864874" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0502_pluma.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:31 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:44</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0503 estilo libre</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0503_estilo_libre.mp4" length="9664589" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0503_estilo_libre.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:31 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:05:39</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0504 formas e imagenes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0504_formas_e_imagenes.mp4" length="20935170" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0504_formas_e_imagenes.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:31 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:46</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0505 formas e imagenes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0505_formas_e_imagenes.mp4" length="21428466" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0505_formas_e_imagenes.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:31 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:13</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0506 formas e imagenes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0506_formas_e_imagenes.mp4" length="16697862" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0506_formas_e_imagenes.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:31 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:41</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0601 texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0601_texto.mp4" length="17547068" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0601_texto.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:31 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:09:27</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0602 texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0602_texto.mp4" length="25781223" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0602_texto.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:31 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:12:09</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0603 texto trazados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0603_texto_trazados.mp4" length="12822774" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0603_texto_trazados.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:30 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:53</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0701 simbolos I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0701_simbolos_I.mp4" length="2448107" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0701_simbolos_I.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:30 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:01:25</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0701 simbolos II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0701_simbolos_II.mp4" length="10670230" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0701_simbolos_II.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:30 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:05:58</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0703 animacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0703_animacion.mp4" length="5188186" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0703_animacion.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:30 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:02:46</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0704 gif animado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0704_gif_animado.mp4" length="3892750" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0704_gif_animado.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:30 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:01:59</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0705 retorcer fundir</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0705_retorcer_fundir.mp4" length="5600090" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0705_retorcer_fundir.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:30 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:03:18</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0706 entre instancias</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0706_entre_instancias.mp4" length="5713174" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0706_entre_instancias.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:30 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:02:15</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0707 bibliotecas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0707_bibliotecas.mp4" length="10944314" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0707_bibliotecas.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:30 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:05:33</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0801 zonas interactivas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0801_zonas%20interactivas.mp4" length="12369867" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0801_zonas%20interactivas.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:30 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:46</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0802 divisiones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0802_divisiones.mp4" length="10573583" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0802_divisiones.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:30 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:06</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0802 divisiones optimizar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0802_divisiones_optimizar.mp4" length="10667278" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0802_divisiones_optimizar.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:30 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:04:42</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0803 comportamientos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0803_comportamientos.mp4" length="23457032" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0803_comportamientos.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:29 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:11:21</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0804 menu emergente</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0804_menu_emergente.mp4" length="19557550" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0804_menu_emergente.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:29 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:10:09</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0805 exportacion html</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0805_exportacion_html.mp4" length="13217720" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0805_exportacion_html.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:29 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:07:06</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0901 prototipos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0901_prototipos.mp4" length="12160145" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0901_prototipos.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:29 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:39</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0902 paginas maestras</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0902_paginas_maestras.mp4" length="4038662" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0902_paginas_maestras.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:29 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:02:09</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0903 símbolos html</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0903_si%CC%81mbolos%20html.mp4" length="11750349" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0903_si%CC%81mbolos%20html.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:29 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:05:54</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0904 crear pdf</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0904_crear_pdf.mp4" length="9175426" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0904_crear_pdf.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:29 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:04:49</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0905 mostrar prototipo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0905_mostrar%20prototipo.mp4" length="3495656" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0905_mostrar%20prototipo.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:29 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:01:56</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0906 previsualizar prototipo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0906_previsualizar%20prototipo.mp4" length="3903505" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0906_previsualizar%20prototipo.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:29 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:01:50</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0907 compartir divisiones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0907_compartir%20divisiones.mp4" length="12597672" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0907_compartir%20divisiones.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:29 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:19</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 0908 prototipo air</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_0908_prototipo_air.mp4" length="21890262" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_0908_prototipo_air.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:28 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:08:35</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 1001 adobe xmp</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_1001_adobe_xmp.mp4" length="6749824" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_1001_adobe_xmp.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:28 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:03:08</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 1002 bridge</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_1002_bridge.mp4" length="10407074" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_1002_bridge.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:28 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:05:52</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 1003 flash</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_1003_flash.mp4" length="8613918" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_1003_flash.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:28 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:04:13</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 1004 dreamweaver</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_1004_dreamweaver.mp4" length="14285068" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_1004_dreamweaver.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:28 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:06:30</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>FWCS4 1005 copiar y pegar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure type="video/mp4" url="http://stream.artesvisuales.com/podcast/FWCS4_1005_copiar%20y%20pegar.mp4" length="9074959" />
+			<guid>http://stream.artesvisuales.com/podcast/FWCS4_1005_copiar%20y%20pegar.mp4</guid>
+			<pubDate>Thu, 30 Sep 2010 16:40:28 +0200</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:03:35</itunes:duration>
+			<itunes:keywords />
+		</item>
+	</channel>
+</rss>

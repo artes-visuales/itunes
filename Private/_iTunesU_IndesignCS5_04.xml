@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_IndesignCS5_04.xml" />
+		<lastBuildDate>Mon, 06 Jun 2011 10:22:53 +0200</lastBuildDate>
+		<title>Trabajar con texto.</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://artesvisuales.groups.adobe.com/</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Adobe Indesign CS5 es la principal aplicación cuya función principal es la autoedición o maquetación digital.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Adobe Indesign CS5 es la principal aplicación cuya función principal es la autoedición o maquetación digital.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_Indesign_144.jpg</url>
+			<title>Trabajar con texto.</title>
+			<link>http://artesvisuales.groups.adobe.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_Indesign.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>4.1 Numeración I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0401_numeracion01-ipod.m4v" type="video/x-m4v" length="65219615" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0401_numeracion01-ipod.m4v</guid>
+			<pubDate>Mon, 06 Jun 2011 07:58:02 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.2 Numeración II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0402_numeracion02-ipod.m4v" type="video/x-m4v" length="36914765" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0402_numeracion02-ipod.m4v</guid>
+			<pubDate>Mon, 06 Jun 2011 07:57:41 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.3 Ocultos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0403_ocultos-ipod.m4v" type="video/x-m4v" length="33652480" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0403_ocultos-ipod.m4v</guid>
+			<pubDate>Mon, 06 Jun 2011 07:57:20 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.4 Notas pie de página I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0404_notaspiepagina01-ipod.m4v" type="video/x-m4v" length="19387455" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0404_notaspiepagina01-ipod.m4v</guid>
+			<pubDate>Mon, 06 Jun 2011 07:56:55 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.5 Notas pie de página II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0405_notaspiepagina02-ipod.m4v" type="video/x-m4v" length="19762360" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0405_notaspiepagina02-ipod.m4v</guid>
+			<pubDate>Mon, 06 Jun 2011 07:47:16 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.6 Estilos I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0406_estilos01-ipod.m4v" type="video/x-m4v" length="19734627" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0406_estilos01-ipod.m4v</guid>
+			<pubDate>Mon, 06 Jun 2011 07:46:52 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.7 Estilos II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0407_estilos02-ipod.m4v" type="video/x-m4v" length="55094179" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0407_estilos02-ipod.m4v</guid>
+			<pubDate>Mon, 06 Jun 2011 07:46:18 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.8 Elementos anidados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0408_anidados-ipod.m4v" type="video/x-m4v" length="30571745" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0408_anidados-ipod.m4v</guid>
+			<pubDate>Mon, 06 Jun 2011 07:45:46 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.9 Tabuladores</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0409_tabuladores-ipod.m4v" type="video/x-m4v" length="25386142" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0409_tabuladores-ipod.m4v</guid>
+			<pubDate>Mon, 06 Jun 2011 07:45:23 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.10 Elementos anclados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0410_anclados-ipod.m4v" type="video/x-m4v" length="19734627" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0410_anclados-ipod.m4v</guid>
+			<pubDate>Mon, 06 Jun 2011 07:40:48 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.11 Ortografía</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0411_ortografia-ipod.m4v" type="video/x-m4v" length="19762360" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0411_ortografia-ipod.m4v</guid>
+			<pubDate>Mon, 06 Jun 2011 07:40:31 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+	</channel>
+</rss>

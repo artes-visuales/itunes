@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS5_08.xml" />
+		<lastBuildDate>Mon, 13 Jun 2011 09:55:45 +0200</lastBuildDate>
+		<title>Capas de forma</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://artesvisuales.groups.adobe.com/</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[After Effects CS5 es la principal aplicación para la postproducción digital de vídeo.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>After Effects CS5 es la principal aplicación para la postproducción digital de vídeo.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS5_144.jpg</url>
+			<title>Capas de forma</title>
+			<link>http://artesvisuales.groups.adobe.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS5.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>8.1 Capa de forma</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0801_capaforma-ipod.m4v" type="video/x-m4v" length="17418313" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0801_capaforma-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:55:25 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>8.2 Desinflar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0802_desinflar-ipod.m4v" type="video/x-m4v" length="15701705" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0802_desinflar-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:55:06 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>8.3 Repetidor</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0803_repetidor-ipod.m4v" type="video/x-m4v" length="14710433" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0803_repetidor-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:54:50 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>8.4 Trazados ondulados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0804_trazadosondulados-ipod.m4v" type="video/x-m4v" length="21140966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0804_trazadosondulados-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:54:29 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>8.5 Capa 3D</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0805_capa3d-ipod.m4v" type="video/x-m4v" length="25951840" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0805_capa3d-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:54:12 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>8.6 Títere</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0806_titere-ipod.m4v" type="video/x-m4v" length="15530156" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0806_titere-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:53:53 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>8.7 Exportar mp4</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0807_exportamp4-ipod.m4v" type="video/x-m4v" length="4911495" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0807_exportamp4-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:53:33 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>8.8 Alinear</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0808_alinear-ipod.m4v" type="video/x-m4v" length="8371836" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0808_alinear-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:53:15 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>8.9 Alineación</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0809_alineacion-ipod.m4v" type="video/x-m4v" length="4974625" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0809_alineacion-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:52:56 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>8.10 Distribuir</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0810_distribuir-ipod.m4v" type="video/x-m4v" length="9058802" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0810_distribuir-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:52:38 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>8.11 Distribución</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0811_distribucion-ipod.m4v" type="video/x-m4v" length="10981721" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0811_distribucion-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:52:17 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>8.12 Texto alfa</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0812_textoalfa-ipod.m4v" type="video/x-m4v" length="5697677" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0812_textoalfa-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:51:55 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+	</channel>
+</rss>

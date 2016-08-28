@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_IllustratorCS5_04.xml" />
+		<lastBuildDate>Thu, 02 Jun 2011 16:10:23 +0200</lastBuildDate>
+		<title>Degradados, Fusiones, y Símbolos</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://campus.artesvisuales.com/</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Adobe Illustrator CS5 es la principal aplicación de dibujo vectorial. El objetivo de esta asignatura es formar al alumno para que éste sea capaz de conocerla en profundidad.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Adobe Illustrator CS5 es la principal aplicación de dibujo vectorial. El objetivo de esta asignatura es formar al alumno para que éste sea capaz de conocerla en profundidad.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_AICS5_144.jpg</url>
+			<title>Degradados, Fusiones, y Símbolos</title>
+			<link>http://artesvisuales.groups.adobe.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_AICS5.jpg" />
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<category>Visual Arts</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Visual Arts" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>4. Degradado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0400_degradado-ipod.m4v" type="video/x-m4v" length="11311291" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0400_degradado-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:58:00 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>4.1 Fusión</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0401_fusion-ipod.m4v" type="video/x-m4v" length="15698452" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0401_fusion-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:57:39 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>5. Copiar apariencia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0500_copiarapariencia-ipod.m4v" type="video/x-m4v" length="5438430" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0500_copiarapariencia-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:57:19 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>5.1 Estilo gráfico</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0501_estilografico-ipod.m4v" type="video/x-m4v" length="18567893" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0501_estilografico-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:57:00 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>6. Símbolos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0600_simbolos-ipod.m4v" type="video/x-m4v" length="15842670" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0600_simbolos-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:56:40 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>6.1 Cambiar símbolo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0601_cambiarsimbolo-ipod.m4v" type="video/x-m4v" length="14132817" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0601_cambiarsimbolo-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:56:16 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>6.2 Operaciones con símbolos I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0602_operacionessimbolos-ipod.m4v" type="video/x-m4v" length="13065884" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0602_operacionessimbolos-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:55:42 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>6.3 Operaciones con símbolos II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0603_operacionessimbolos-ipod.m4v" type="video/x-m4v" length="9482775" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0603_operacionessimbolos-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:55:12 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>6.4 Operaciones con símbolos III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0604_operacionessimbolos-ipod.m4v" type="video/x-m4v" length="9422904" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0604_operacionessimbolos-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:54:32 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>6.5 Reemplazar símbolo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0605_reemplazarsimbolo-ipod.m4v" type="video/x-m4v" length="8447553" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0605_reemplazarsimbolo-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:54:08 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+	</channel>
+</rss>

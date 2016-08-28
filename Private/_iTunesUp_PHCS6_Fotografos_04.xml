@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesUp_PHCS6_Fotografos_04.xml" />
+		<lastBuildDate>Tue, 29 Jan 2013 08:18:38 +0100</lastBuildDate>
+		<title>Photoshop CS6 Fotógrafos 4. Correcciones del color</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[4.2 Curvas 01  
+4.3 Curvas 02  
+4.4 Equilibrio del color  
+4.5 Filtros de fotografía  
+4.6 HDR 01  
+4.7 HDR 02  
+4.8 Consultar colores  ]]></description>
+		<itunes:subtitle />
+		<itunes:summary>4.2 Curvas 01  
+4.3 Curvas 02  
+4.4 Equilibrio del color  
+4.5 Filtros de fotografía  
+4.6 HDR 01  
+4.7 HDR 02  
+4.8 Consultar colores  </itunes:summary>
+		<language>es</language>
+		<copyright>Creative Commons 3.0</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_PHCS6F_144.jpg</url>
+			<title>Photoshop CS6 Fotógrafos 4. Correcciones del color</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_PHCS6F.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>PHCS6FOT 0401 cambio modo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0401_cambio_modo.mp4" type="video/mp4" length="38324" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0401_cambio_modo.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:17:01 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0402 curvas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0402_curvas.mp4" type="video/mp4" length="36195" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0402_curvas.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:17:01 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0403 curvas02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0403_curvas02.mp4" type="video/mp4" length="39117" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0403_curvas02.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:17:01 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0404 equilibrio color</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0404_equilibrio_color.mp4" type="video/mp4" length="40877" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0404_equilibrio_color.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:17:00 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0405 filtro fotografia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0405_filtro_fotografia.mp4" type="video/mp4" length="35792" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0405_filtro_fotografia.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:17:00 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0406 HDR01</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0406_HDR01.mp4" type="video/mp4" length="43942" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0406_HDR01.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:17:00 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0407 HDR02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0407_HDR02.mp4" type="video/mp4" length="45710" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0407_HDR02.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:17:00 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0408 consulta colores</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0408_consulta_colores.mp4" type="video/mp4" length="41503" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0408_consulta_colores.mp4</guid>
+			<pubDate>Tue, 29 Jan 2013 08:17:00 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+	</channel>
+</rss>

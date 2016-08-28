@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Podcast/_iTunesUp_PHCS4_capas.xml" />
+		<lastBuildDate>Wed, 25 May 2011 12:02:22 +0200</lastBuildDate>
+		<title>Photoshop CS4 Capas</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://linkd.in/lifelong-learning</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Un repaso a los aspectos más significativos de las capas.]]></description>
+		<itunes:subtitle>En esta serie de vídeos explicamos los fundamentos de las capas en Adobe Photoshop.</itunes:subtitle>
+		<itunes:summary>Un repaso a los aspectos más significativos de las capas.</itunes:summary>
+		<language>es-es</language>
+		<copyright>Creative Commons 3.0</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Podcast/_iTunesUp_PHCS4_Capas_144.jpg</url>
+			<title>Photoshop CS4 Capas</title>
+			<link>http://linkd.in/lifelong-learning</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Podcast/_iTunesUp_PHCS4_Capas.jpg" />
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Capas I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author> 
+			<itunesu:category itunesu:code="102105" />    
+			<description><![CDATA[Explicación de capas I]]></description>
+			<itunes:subtitle>Explicación de capas I</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PHCS4_0310_capas01-ipod.m4v" type="video/x-m4v" length="16660064" />
+			<guid>http://itunes.artesvisuales.com/Podcast/PHCS4_0310_capas01-ipod.m4v</guid>
+			<pubDate>Wed, 25 May 2011 10:15:03 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>Capas II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>   
+			<itunesu:category itunesu:code="102105" />    
+			<description><![CDATA[Explicación de capas II]]></description>
+			<itunes:subtitle>Explicación de capas II</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PHCS4_0311_capas02-ipod.m4v" type="video/x-m4v" length="21939071" />
+			<guid>http://itunes.artesvisuales.com/Podcast/PHCS4_0311_capas02-ipod.m4v</guid>
+			<pubDate>Wed, 25 May 2011 10:14:41 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>Capas III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>   
+			<itunesu:category itunesu:code="102105" />    
+			<description><![CDATA[Explicación de capas III]]></description>
+			<itunes:subtitle>Explicación de capas III</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PHCS4_0312_capas03-ipod.m4v" type="video/x-m4v" length="19235186" />
+			<guid>http://itunes.artesvisuales.com/Podcast/PHCS4_0312_capas03-ipod.m4v</guid>
+			<pubDate>Wed, 25 May 2011 10:14:14 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>Capas IV</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author> 
+			<itunesu:category itunesu:code="102105" />    
+			<description><![CDATA[Explicación de capas IV]]></description>
+			<itunes:subtitle>Explicación de capas IV</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PHCS4_0313_capas04-ipod.m4v" type="video/x-m4v" length="18530586" />
+			<guid>http://itunes.artesvisuales.com/Podcast/PHCS4_0313_capas04-ipod.m4v</guid>
+			<pubDate>Wed, 25 May 2011 10:13:49 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>Enlazar capas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>   
+			<itunesu:category itunesu:code="102105" />    
+			<description><![CDATA[Enlazar las capas.]]></description>
+			<itunes:subtitle>Enlazar las capas.</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PHCS4_0314_enlazarcapas-ipod.m4v" type="video/x-m4v" length="18450187" />
+			<guid>http://itunes.artesvisuales.com/Podcast/PHCS4_0314_enlazarcapas-ipod.m4v</guid>
+			<pubDate>Wed, 25 May 2011 10:13:15 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>Conjuntos de capas.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>  
+			<itunesu:category itunesu:code="102105" />    
+			<description><![CDATA[Que son los conjuntos de capas.]]></description>
+			<itunes:subtitle>Que son los conjuntos de capas.</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PHCS4_0315_conjuntocapas-ipod.m4v" type="video/x-m4v" length="27449750" />
+			<guid>http://itunes.artesvisuales.com/Podcast/PHCS4_0315_conjuntocapas-ipod.m4v</guid>
+			<pubDate>Wed, 25 May 2011 10:12:32 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>Modos de capas I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>  
+			<itunesu:category itunesu:code="102105" />    
+			<description><![CDATA[Trabajo con modos de capas I]]></description>
+			<itunes:subtitle>Trabajo con modos de capas I</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PHCS4_0401_Modoscapa-ipod.m4v" type="video/x-m4v" length="17819204" />
+			<guid>http://itunes.artesvisuales.com/Podcast/PHCS4_0401_Modoscapa-ipod.m4v</guid>
+			<pubDate>Wed, 25 May 2011 10:12:00 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>Modos de capas II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>  
+			<itunesu:category itunesu:code="102105" />    
+			<description><![CDATA[Trabajo con modos de capas II]]></description>
+			<itunes:subtitle>Trabajo con modos de capas II</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PHCS4_0402_modos02-ipod.m4v" type="video/x-m4v" length="21939071" />
+			<guid>http://itunes.artesvisuales.com/Podcast/PHCS4_0402_modos02-ipod.m4v</guid>
+			<pubDate>Wed, 25 May 2011 10:07:58 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>Ejemplos de modos de capa.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>   
+			<itunesu:category itunesu:code="102105" />    
+			<description><![CDATA[Ejemplos de modos de capas.]]></description>
+			<itunes:subtitle>Ejemplos de modos de capas.</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PHCS4_0403_ejmodos-ipod.m4v" type="video/x-m4v" length="16660064" />
+			<guid>http://itunes.artesvisuales.com/Podcast/PHCS4_0403_ejmodos-ipod.m4v</guid>
+			<pubDate>Wed, 25 May 2011 10:06:59 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+	</channel>
+</rss>

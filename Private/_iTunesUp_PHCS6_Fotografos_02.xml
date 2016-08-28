@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesUp_PHCS6_Fotografos_02.xml" />
+		<lastBuildDate>Wed, 23 Jan 2013 08:27:34 +0100</lastBuildDate>
+		<title>Photoshop CS6 Fotógrafos - 2. Deformaciones y Escalas</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[2.2 Recortar  
+2.3 Deformación libre  
+2.4 Deformación libre 02  
+2.5 Escalar según contenido  
+2.6 Licuar 01  
+2.7 Licuar 02  
+2.8 Angulo de ancho adaptable  ]]></description>
+		<itunes:subtitle />
+		<itunes:summary>2.2 Recortar  
+2.3 Deformación libre  
+2.4 Deformación libre 02  
+2.5 Escalar según contenido  
+2.6 Licuar 01  
+2.7 Licuar 02  
+2.8 Angulo de ancho adaptable  </itunes:summary>
+		<language>es</language>
+		<copyright>Creative Commons 3.0</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_PHCS6F_144.jpg</url>
+			<title>Photoshop CS6 Fotógrafos - 2. Deformaciones y Escalas</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_PHCS6F.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>PHCS6FOT 0201 correcionlente</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0201_correcionlente.mp4" type="video/mp4" length="35931" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0201_correcionlente.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:26:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0202 recortar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0202_recortar.mp4" type="video/mp4" length="33780" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0202_recortar.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:26:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0203 deformacion libre</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0203_deformacion_libre.mp4" type="video/mp4" length="37873" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0203_deformacion_libre.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:26:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0204 deformacion libre02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0204_deformacion_libre02.mp4" type="video/mp4" length="40104" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0204_deformacion_libre02.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:26:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0205 escalar sgcontenido</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0205_escalar_sgcontenido.mp4" type="video/mp4" length="35753" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0205_escalar_sgcontenido.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:26:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0206 licuar01</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0206_licuar01.mp4" type="video/mp4" length="34064" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0206_licuar01.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:26:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0207 licuar02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0207_licuar02.mp4" type="video/mp4" length="34379" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0207_licuar02.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:26:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0208 angulo ancho adaptable</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0208_angulo_ancho_adaptable.mp4" type="video/mp4" length="33022" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0208_angulo_ancho_adaptable.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:26:12 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+	</channel>
+</rss>

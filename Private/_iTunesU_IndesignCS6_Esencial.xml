@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://stream.artesvisuales.com/video/_iTunesU_IndesignCS6_Esencial.xml" />
+		<lastBuildDate>Fri, 24 Jan 2014 10:31:41 +0100</lastBuildDate>
+		<title>Indesign CS6 Esencial</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Adobe InDesign es la aplicación de publicación estándar del mercado para maquetar publicaciones impresas, documentos PDF interactivos, revistas digitales y documentos EPUB.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Adobe InDesign es la aplicación de publicación estándar del mercado para maquetar publicaciones impresas, documentos PDF interactivos, revistas digitales y documentos EPUB.</itunes:summary>
+		<language>es</language>
+		<copyright>© Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://stream.artesvisuales.com/video/_iTunesU_IndesignCS6_Esencial_144.jpg</url>
+			<title>Indesign CS6 Esencial</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://stream.artesvisuales.com/video/_iTunesU_IndesignCS6_Esencial.jpg" />
+		<category>Podcasting</category>
+		<itunes:category text="Technology">
+			<itunes:category text="Podcasting" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<category>Training</category>
+		<itunes:category text="Education">
+			<itunes:category text="Training" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>INDCS6 0101 intro</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0101_intro.mp4" type="video/mp4" length="73561" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0101_intro.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:46 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0102 materiales</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0102_materiales.mp4" type="video/mp4" length="26303" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0102_materiales.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:46 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0103 novedades</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0103_novedades.mp4" type="video/mp4" length="62103" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0103_novedades.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:46 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0201 interfaz</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0201_interfaz.mp4" type="video/mp4" length="44364" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0201_interfaz.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:46 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0202 paneles</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0202_paneles.mp4" type="video/mp4" length="45158" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0202_paneles.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:46 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0203 espacio</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0203_espacio.mp4" type="video/mp4" length="37792" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0203_espacio.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:46 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0204 navegacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0204_navegacion.mp4" type="video/mp4" length="38477" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0204_navegacion.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:46 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0205 ajustes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0205_ajustes.mp4" type="video/mp4" length="69261" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0205_ajustes.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:46 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0301 doc nuevo 2</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0301_doc_nuevo%202.mp4" type="video/mp4" length="38822" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0301_doc_nuevo%202.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:46 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0301 doc nuevo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0301_doc_nuevo.mp4" type="video/mp4" length="38822" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0301_doc_nuevo.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:45 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0302 grabar 2</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0302_grabar%202.mp4" type="video/mp4" length="72401" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0302_grabar%202.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:45 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0302 grabar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0302_grabar.mp4" type="video/mp4" length="72401" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0302_grabar.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:45 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0303 reglas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0303_reglas.mp4" type="video/mp4" length="67938" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0303_reglas.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:45 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0304 guias</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0304_guias.mp4" type="video/mp4" length="71528" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0304_guias.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:45 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0305 sangrado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0305_sangrado.mp4" type="video/mp4" length="66144" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0305_sangrado.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:45 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0401 paginas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0401_paginas.mp4" type="video/mp4" length="60553" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0401_paginas.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:45 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0402 mod paginas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0402_mod_paginas.mp4" type="video/mp4" length="54472" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0402_mod_paginas.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:45 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0403 paginas maestras</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0403_paginas_maestras.mp4" type="video/mp4" length="69367" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0403_paginas_maestras.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:45 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0404 num paginas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0404_num_paginas.mp4" type="video/mp4" length="48138" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0404_num_paginas.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:45 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0501 texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0501_texto.mp4" type="video/mp4" length="43119" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0501_texto.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:33 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0502 caracteres</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0502_caracteres.mp4" type="video/mp4" length="60706" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0502_caracteres.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:33 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0503 texto enlazado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0503_texto_enlazado.mp4" type="video/mp4" length="58965" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0503_texto_enlazado.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:33 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0504 columnas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0504_columnas.mp4" type="video/mp4" length="88378" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0504_columnas.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:33 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0505 encaje</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0505_encaje.mp4" type="video/mp4" length="83966" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0505_encaje.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:33 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0506 texto trazado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0506_texto_trazado.mp4" type="video/mp4" length="54955" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0506_texto_trazado.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:33 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0507 articulos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0507_articulos.mp4" type="video/mp4" length="67230" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0507_articulos.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:33 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0508 ortografia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0508_ortografia.mp4" type="video/mp4" length="88768" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0508_ortografia.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:33 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0509 importar texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0509_importar_texto.mp4" type="video/mp4" length="53967" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0509_importar_texto.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:33 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0510 buscar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0510_buscar.mp4" type="video/mp4" length="74252" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0510_buscar.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:33 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0601 colocar imagen</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0601_colocar_imagen.mp4" type="video/mp4" length="62788" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0601_colocar_imagen.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:33 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0602 seleccion imagen</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0602_seleccion_imagen.mp4" type="video/mp4" length="76599" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0602_seleccion_imagen.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:32 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0603 trazo y relleno</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0603_trazo_y_relleno.mp4" type="video/mp4" length="52260" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0603_trazo_y_relleno.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:32 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0604 encajar imagen</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0604_encajar_imagen.mp4" type="video/mp4" length="63940" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0604_encajar_imagen.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:32 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0605 trazado imagen</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0605_trazado_imagen.mp4" type="video/mp4" length="71609" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0605_trazado_imagen.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:32 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0606 vinculos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0606_vinculos.mp4" type="video/mp4" length="56613" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0606_vinculos.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:32 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0607 coloracion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0607_coloracion.mp4" type="video/mp4" length="66561" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0607_coloracion.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:32 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0608 efectos1</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0608_efectos1.mp4" type="video/mp4" length="71034" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0608_efectos1.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:32 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0609 efectos2</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0609_efectos2.mp4" type="video/mp4" length="73974" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0609_efectos2.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:32 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0610 buscar cambiar img</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0610_buscar_cambiar_img.mp4" type="video/mp4" length="71299" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0610_buscar_cambiar_img.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:32 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0701 muestras color</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0701_muestras_color.mp4" type="video/mp4" length="53550" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0701_muestras_color.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:18 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0702 color</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0702_color.mp4" type="video/mp4" length="71098" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0702_color.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:17 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0703 degradados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0703_degradados.mp4" type="video/mp4" length="49407" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0703_degradados.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:17 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0801 trazados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0801_trazados.mp4" type="video/mp4" length="44995" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0801_trazados.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:17 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0802 poligonos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0802_poligonos.mp4" type="video/mp4" length="50171" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0802_poligonos.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:17 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0803 vertices</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0803_vertices.mp4" type="video/mp4" length="52633" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0803_vertices.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:17 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0804 contornos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0804_contornos.mp4" type="video/mp4" length="59094" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0804_contornos.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:17 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0805 Herramientas Huecos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0805_Herramientas%20Huecos.mp4" type="video/mp4" length="56165" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0805_Herramientas%20Huecos.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:17 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0806 capas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0806_capas.mp4" type="video/mp4" length="76401" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0806_capas.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:17 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0807 alinear</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0807_alinear.mp4" type="video/mp4" length="54717" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0807_alinear.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:17 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0808 ceñir  texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0808_cen%CC%83ir_%20texto.mp4" type="video/mp4" length="76686" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0808_cen%CC%83ir_%20texto.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:17 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0809 anclar obj</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0809_anclar_obj.mp4" type="video/mp4" length="97721" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0809_anclar_obj.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:17 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0901 duplicar obj</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0901_duplicar_obj.mp4" type="video/mp4" length="50140" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0901_duplicar_obj.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:16 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0903 rotar obj</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0903_rotar_obj.mp4" type="video/mp4" length="52252" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0903_rotar_obj.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:16 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0904 escalar obj</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0904_escalar_obj.mp4" type="video/mp4" length="52394" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0904_escalar_obj.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:16 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0905 distorsionar obj</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0905_distorsionar_obj.mp4" type="video/mp4" length="53855" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0905_distorsionar_obj.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:16 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 0906 transformar obj</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_0906_transformar_obj.mp4" type="video/mp4" length="50768" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_0906_transformar_obj.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:16 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1001 caracter</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1001_caracter.mp4" type="video/mp4" length="45640" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1001_caracter.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:04 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1002 caracter avanzado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1002_caracter_avanzado.mp4" type="video/mp4" length="46043" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1002_caracter_avanzado.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:04 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1003 buscar caracter</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1003_buscar_caracter.mp4" type="video/mp4" length="87352" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1003_buscar_caracter.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:04 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1004 buscar fuente</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1004_buscar_fuente.mp4" type="video/mp4" length="86978" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1004_buscar_fuente.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:04 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1101 parrafo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1101_parrafo.mp4" type="video/mp4" length="57467" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1101_parrafo.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:04 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1102 exp columnas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1102_exp_columnas.mp4" type="video/mp4" length="82911" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1102_exp_columnas.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:04 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1103 letras capitales</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1103_letras_capitales.mp4" type="video/mp4" length="90309" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1103_letras_capitales.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:04 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1104 tabulaciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1104_tabulaciones.mp4" type="video/mp4" length="67572" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1104_tabulaciones.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:04 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1105 filetes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1105_filetes.mp4" type="video/mp4" length="52594" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1105_filetes.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:03 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1202 estilo caracter</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1202_estilo_caracter.mp4" type="video/mp4" length="65223" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1202_estilo_caracter.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:03 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1203 estilos objeto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1203_estilos_objeto.mp4" type="video/mp4" length="67277" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1203_estilos_objeto.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:03 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1204 redefinir estilo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1204_redefinir_estilo.mp4" type="video/mp4" length="78798" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1204_redefinir_estilo.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:03 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1205 estilos rapidos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1205_estilos_rapidos.mp4" type="video/mp4" length="83057" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1205_estilos_rapidos.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:28:03 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1301 tabla</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1301_tabla.mp4" type="video/mp4" length="47599" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1301_tabla.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:27:52 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1302 tabla fil col</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1302_tabla_fil_col.mp4" type="video/mp4" length="65668" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1302_tabla_fil_col.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:27:52 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1303 tabla fil col2</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1303_tabla_fil_col2.mp4" type="video/mp4" length="60590" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1303_tabla_fil_col2.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:27:51 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1304 formato tabla</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1304_formato_tabla.mp4" type="video/mp4" length="65101" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1304_formato_tabla.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:27:51 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1305 formato celda</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1305_formato_celda.mp4" type="video/mp4" length="72619" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1305_formato_celda.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:27:51 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1306 estilos tablas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1306_estilos_tablas.mp4" type="video/mp4" length="65169" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1306_estilos_tablas.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:27:51 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1307 importar tablas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1307_importar_tablas.mp4" type="video/mp4" length="52762" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1307_importar_tablas.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:27:51 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1401 libro</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1401_libro.mp4" type="video/mp4" length="43289" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1401_libro.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:27:51 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1402 tabla contenido</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1402_tabla_contenido.mp4" type="video/mp4" length="50913" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1402_tabla_contenido.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:27:51 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1501 imprimir</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1501_imprimir.mp4" type="video/mp4" length="58280" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1501_imprimir.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:27:39 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1502 exp pdf</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1502_exp_pdf.mp4" type="video/mp4" length="58167" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1502_exp_pdf.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:27:39 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1503 comprobacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1503_comprobacion.mp4" type="video/mp4" length="70876" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1503_comprobacion.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:27:39 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1504 empaquetar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1504_empaquetar.mp4" type="video/mp4" length="62610" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1504_empaquetar.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:27:39 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1505 epubs</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1505_epubs.mp4" type="video/mp4" length="64239" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1505_epubs.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:27:39 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1506 pdf interactivo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1506_pdf_interactivo.mp4" type="video/mp4" length="70856" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1506_pdf_interactivo.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:27:39 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>INDCS6 1507 swf</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/INDCS6_1507_swf.mp4" type="video/mp4" length="57465" />
+			<guid>http://stream.artesvisuales.com/video/INDCS6_1507_swf.mp4</guid>
+			<pubDate>Fri, 24 Jan 2014 10:27:39 +0100</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_PhotoshopCS5_06.xml" />
+		<lastBuildDate>Fri, 03 Jun 2011 07:03:29 +0200</lastBuildDate>
+		<title>Selecciones y filtros</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://artesvisuales.groups.adobe.com/</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Adobe Photoshop CS5 es la principal aplicación cuya función principal es el control sobre la imagen. La función principal de esta asignatura es formar al alumno para que éste sea capaz de conocerla en profundidad.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Adobe Photoshop CS5 es la principal aplicación cuya función principal es el control sobre la imagen. La función principal de esta asignatura es formar al alumno para que éste sea capaz de conocerla en profundidad.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_PhotoshopCS5_144.jpg</url>
+			<title>Selecciones y filtros</title>
+			<link>http://artesvisuales.groups.adobe.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_PhotoshopCS5.jpg" />
+		<category>Design</category>
+		<itunes:category text="Education">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>6.1 Seleccionar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0601_seleccionar-ipod.m4v" type="video/x-m4v" length="57859047" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0601_seleccionar-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:01:55 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>6.2 Operar con selecciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0602_operarseleccion-ipod.m4v" type="video/x-m4v" length="40133633" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0602_operarseleccion-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:01:31 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>6.3 Blanco y negro</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0603_blancoynegro-ipod.m4v" type="video/x-m4v" length="15951065" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0603_blancoynegro-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:01:05 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>6.4 Colorear imagen I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0604_colorearimagen01-ipod.m4v" type="video/x-m4v" length="39127801" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0604_colorearimagen01-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:00:40 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>6.5 Colorear imagen</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0605_colorearimagen02-ipod.m4v" type="video/x-m4v" length="34224821" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0605_colorearimagen02-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 07:59:06 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>6.6 Colorear imagen III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0606_colorearimagen03-ipod.m4v" type="video/x-m4v" length="38873859" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0606_colorearimagen03-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 07:58:39 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>6.7 Degradado I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0607_degradado01-ipod.m4v" type="video/x-m4v" length="17264226" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0607_degradado01-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 07:58:16 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>6.8 Degradado II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0608_degradado02-ipod.m4v" type="video/x-m4v" length="28730539" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0608_degradado02-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 07:57:52 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>6.9 Degradado III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0609_degradado03-ipod.m4v" type="video/x-m4v" length="34459760" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0609_degradado03-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 07:57:14 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>6.10 Filtro fotografia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0610_filtrofotografia-ipod.m4v" type="video/x-m4v" length="21825148" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0610_filtrofotografia-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 07:56:54 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>6.11 Filtros artisticos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0611_filtrosartisticos-ipod.m4v" type="video/x-m4v" length="44119463" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0611_filtrosartisticos-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 07:56:30 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+	</channel>
+</rss>

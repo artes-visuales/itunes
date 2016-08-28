@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_TypeTools_08.xml"/>
+		<lastBuildDate>Tue, 31 Jan 2012 11:09:11 +0200</lastBuildDate>
+		<title>Tema 8 Generación de Fuentes Opentype.</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://campus.artesvisuales.com</link>
+		<description/>
+		<itunes:subtitle/>
+		<itunes:summary/>
+		<language>es-es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name/>
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_TypeTools_144.jpg</url>
+			<link>http://campus.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_TypeTools.jpg"/>
+		<category>Training</category>
+		<itunes:category text="Education">
+			<itunes:category text="Training"/>
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design"/>
+		</itunes:category>
+		<itunes:keywords/>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>8.1 Generar fuentes Opentype.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0801_generar_fuentes_opentype-iPodWM.m4v" type="vídeo/x-m4v" length="15616358"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0801_generar_fuentes_opentype-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:08:41 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>8.2 Trabajar con glifos compuestos. Componentes.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0802_componente_agregar_componente-iPodWM.m4v" type="vídeo/x-m4v" length="14965646"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0802_componente_agregar_componente-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:08:25 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>8.3 Descomponer componente.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0803_descomponer_componente-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0803_descomponer_componente-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:08:01 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>8.4 Posicionamiento y edición de componente.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0804_posicionamiento_edicion_componente-iPodWM.m4v" type="vídeo/x-m4v" length="21338191"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0804_posicionamiento_edicion_componente-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:07:42 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>8.5 Exportación de glifos.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0805_exportacion_glifos-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0805_exportacion_glifos-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item> 
+		<item>
+			<title>8.6 Preparar las preferencias de Illustrator.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0806_preparar_illustrator_preferencias-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0806_preparar_illustrator_preferencias-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>8.7 Definición del documento de Illustrator I.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0807_definicion_documento_illustrator-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0807_definicion_documento_illustrator-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>  
+		<item>
+			<title>8.8 Definición del documento de Illustrator II.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0808_definicion_documento_illustrator2-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0808_definicion_documento_illustrator2-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>8.9 Importar eps de Illustrator.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0809_importar_eps_illustrator-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0809_importar_eps_illustrator-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>8.10 Cambio de escala.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0810_cambio_escala_manuales_automaticos-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0810_cambio_escala_manuales_automaticos-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>8.11 Impresión de tabla de fuentes.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0811_impresion_tabla_fuente-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0811_impresion_tabla_fuente-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item> 
+		<item>
+			<title>8.12 Impresión de la muestra de fuentes.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0812_impresion_muestra_fuente-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0812_impresion_muestra_fuente-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>   
+		<item>   
+			<title>8.13 Impresión de glifos, informes de fuente.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description/>
+			<itunes:subtitle/>
+			<itunes:summary/>
+			<enclosure url="http://itunes.artesvisuales.com/Private/Tt_0813_impresion_glifo_informe_fuente-iPodWM.m4v" type="vídeo/x-m4v" length="15412574"/>
+			<guid>http://itunes.artesvisuales.com/Private/Tt_0813_impresion_glifo_informe_fuente-iPodWM.m4v</guid>
+			<pubDate>Tue, 31 Jan 2012 11:05:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords/>
+		</item>
+	</channel>
+</rss>

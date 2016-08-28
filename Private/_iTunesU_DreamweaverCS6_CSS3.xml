@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://stream.artesvisuales.com/video/_iTunesU_DreamweaverCS6_CSS3.xml" />
+		<lastBuildDate>Thu, 06 Feb 2014 08:28:51 +0100</lastBuildDate>
+		<title>Dreamweaver CS6 CSS3</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com/</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[En este curso aprenderemos a aplicar las reglas de estilos CSS3 más importantes, con el fin de mejorar la apariencia de nuestras páginas web.
+Así mismo, conoceremos las mejores técnicas para crear y gestionar estructuras layout con la ayuda de lenguaje de estilos CSS, con las que entenderemos el proceso de maquetación de marcas HTML.
+El alumno que finalice este ciclo formativo, será capaz de crear cualquier estructura de página web y aplicar a sus elementos propiedades de estilos avanzadas, con las que conseguir trabajos profesionales que permitan ampliar su campo de actuación en el mercado laboral.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>En este curso aprenderemos a aplicar las reglas de estilos CSS3 más importantes, con el fin de mejorar la apariencia de nuestras páginas web.
+Así mismo, conoceremos las mejores técnicas para crear y gestionar estructuras layout con la ayuda de lenguaje de estilos CSS, con las que entenderemos el proceso de maquetación de marcas HTML.
+El alumno que finalice este ciclo formativo, será capaz de crear cualquier estructura de página web y aplicar a sus elementos propiedades de estilos avanzadas, con las que conseguir trabajos profesionales que permitan ampliar su campo de actuación en el mercado laboral.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>itunes@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS6_CSS3_144.jpg</url>
+			<title>Dreamweaver CS6 CSS3</title>
+			<link>http://www.artesvisuales.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS6_CSS3.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>wordpress</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>DWCS6CSS3 0200 Aplicar estilos I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0200_aplicar_I.mp4" type="video/mp4" length="38145" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0200_aplicar_I.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:51 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0200 Aplicar estilos I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0200_aplicar_II.mp4" type="video/mp4" length="47950" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0200_aplicar_II.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0201 Panel estilos CSS</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0201_panel.mp4" type="video/mp4" length="54249" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0201_panel.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0202 Barra de herramientas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0202_barra.mp4" type="video/mp4" length="49882" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0202_barra.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0203 Adobe Browserlab</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0203_adobe.mp4" type="video/mp4" length="50637" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0203_adobe.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0300 Mejorando el diseño con CSS3</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0300_mejorando.mp4" type="video/mp4" length="43791" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0300_mejorando.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0301 Bordes redondeados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0301_bordes.mp4" type="video/mp4" length="32241" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0301_bordes.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0302 Borde de imagen</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0302_borde.mp4" type="video/mp4" length="30523" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0302_borde.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0303 Sombras</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0303_sombras.mp4" type="video/mp4" length="45589" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0303_sombras.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0304 Transparencias</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0304_transparencias.mp4" type="video/mp4" length="52369" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0304_transparencias.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0305 Degradados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0305_degradados.mp4" type="video/mp4" length="45564" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0305_degradados.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0306 Propiedades del fondo I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0306_propiedades_I.mp4" type="video/mp4" length="43283" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0306_propiedades_I.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:50 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0306 Propiedades del fondo II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0306_propiedades_II.mp4" type="video/mp4" length="41674" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0306_propiedades_II.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0306 Propiedades del fondo III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0306_propiedades_III.mp4" type="video/mp4" length="37112" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0306_propiedades_III.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0307 Tipografías</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0307_tipografias.mp4" type="video/mp4" length="47903" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0307_tipografias.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0400 CSS3 dinámico, transformación</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0400_css3.mp4" type="video/mp4" length="36182" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0400_css3.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0401 Panel transiciones CSS</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0401_panel.mp4" type="video/mp4" length="34603" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0401_panel.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0402 Animaciones I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0402_animaciones_I.mp4" type="video/mp4" length="41831" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0402_animaciones_I.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0402 Animaciones II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0402_animaciones_II.mp4" type="video/mp4" length="46087" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0402_animaciones_II.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0502 Layout: Columna centrada</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0502_layout.mp4" type="video/mp4" length="32611" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0502_layout.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0503 Layout I: Columna centrada</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0503_layout_I.mp4" type="video/mp4" length="47119" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0503_layout_I.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0503 Layout II: Columna centrada</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0503_layout_II.mp4" type="video/mp4" length="46003" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0503_layout_II.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0504 Layout columna fija</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0504_layout.mp4" type="video/mp4" length="43096" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0504_layout.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:49 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0505 Layout Columnas, cabecera y pie</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0505_layout.mp4" type="video/mp4" length="54582" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0505_layout.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0506 Layout Columnas, cabecera y pie flexibles</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0506_layout.mp4" type="video/mp4" length="55486" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0506_layout.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0507 Diseño de Layout</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0507_layout.mp4" type="video/mp4" length="48323" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0507_layout.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0601 Optimización del diseño I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0601_optimizacion_I.mp4" type="video/mp4" length="38809" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0601_optimizacion_I.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0601 Optimización del diseño II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0601_optimizacion_II.mp4" type="video/mp4" length="50040" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0601_optimizacion_II.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0601 Optimización del diseño III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0601_optimizacion_III.mp4" type="video/mp4" length="43600" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0601_optimizacion_III.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0601 Optimización del diseño IV</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0601_optimizacion_IV.mp4" type="video/mp4" length="43528" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0601_optimizacion_IV.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0701 Ajustes del texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0701_ajustes.mp4" type="video/mp4" length="37495" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0701_ajustes.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0702 Ajustes de caja</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0702_ajustes.mp4" type="video/mp4" length="36906" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0702_ajustes.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0703 Desbordamientos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0703_desbordamientos.mp4" type="video/mp4" length="31342" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0703_desbordamientos.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>DWCS6CSS3 0704 Columnas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0704_columnas.mp4" type="video/mp4" length="31683" />
+			<guid>http://stream.artesvisuales.com/video/DWCS6CSS3_0704_columnas.mp4</guid>
+			<pubDate>Thu, 06 Feb 2014 08:20:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://stream.artesvisuales.com/video/_iTunesU_WordPress_Esencial.xml" />
+		<lastBuildDate>Wed, 29 Jan 2014 08:15:19 +0100</lastBuildDate>
+		<title>WordPress Esencial</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com/</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[El Curso WordPress Esencial, está pensado en aquel usuario que desee adentrarse en el mundo del desarrollo de sitios web mediante el CMS más utilizado del mundo.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>El Curso WordPress Esencial, está pensado en aquel usuario que desee adentrarse en el mundo del desarrollo de sitios web mediante el CMS más utilizado del mundo.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>itunes@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_WordPress_Esencial_144.jpg</url>
+			<title>WordPress Esencial</title>
+			<link>http://www.artesvisuales.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_WordPress_Esencial.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>wordpress</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>WPES 0100 que</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0100_que.mp4" type="video/mp4" length="157730" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0100_que.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:22 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0101 obtener</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0101_obtener.mp4" type="video/mp4" length="92644" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0101_obtener.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:22 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0102 descarga</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0102_descarga.mp4" type="video/mp4" length="155618" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0102_descarga.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:21 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0103 instalacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0103_instalacion.mp4" type="video/mp4" length="116648" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0103_instalacion.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:21 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0104 manual</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0104_manual.mp4" type="video/mp4" length="77548" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0104_manual.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:21 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0105 modificar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0105_modificar.mp4" type="video/mp4" length="116415" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0105_modificar.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:21 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0200 trabajar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0200_trabajar.mp4" type="video/mp4" length="182773" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0200_trabajar.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:21 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0202 instalar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0202_instalar.mp4" type="video/mp4" length="191303" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0202_instalar.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:21 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0202 instalar2</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0202_instalar2.mp4" type="video/mp4" length="128815" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0202_instalar2.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:21 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0203 obtener</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0203_obtener.mp4" type="video/mp4" length="120610" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0203_obtener.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:21 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0204 instalacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0204_instalacion.mp4" type="video/mp4" length="158479" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0204_instalacion.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:21 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0300 comenzando</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0300_comenzando.mp4" type="video/mp4" length="68521" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0300_comenzando.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:21 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0301 escritorio</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0301_escritorio.mp4" type="video/mp4" length="181396" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0301_escritorio.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:21 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0302 ajustes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0302_ajustes.mp4" type="video/mp4" length="191291" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0302_ajustes.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:20 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0303 modos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0303_modos.mp4" type="video/mp4" length="155368" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0303_modos.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:20 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0400 gestion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0400_gestion.mp4" type="video/mp4" length="186271" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0400_gestion.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:20 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0401 editor</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0401_editor.mp4" type="video/mp4" length="144111" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0401_editor.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:20 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0500 multimedia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0500_multimedia.mp4" type="video/mp4" length="101666" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0500_multimedia.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:20 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0501 ajustes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0501_ajustes.mp4" type="video/mp4" length="125834" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0501_ajustes.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:20 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0600 gestion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0600_gestion.mp4" type="video/mp4" length="146761" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0600_gestion.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:20 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0601 editor</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0601_editor.mp4" type="video/mp4" length="143995" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0601_editor.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:20 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0602 categorias</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0602_categorias.mp4" type="video/mp4" length="100776" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0602_categorias.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:20 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0700 editor1</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0700_editor1.mp4" type="video/mp4" length="115642" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0700_editor1.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:20 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0700 editor2</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0700_editor2.mp4" type="video/mp4" length="200183" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0700_editor2.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0701 aniadir1</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0701_aniadir1.mp4" type="video/mp4" length="178378" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0701_aniadir1.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0701 aniadir2</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0701_aniadir2.mp4" type="video/mp4" length="186354" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0701_aniadir2.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0702 crear</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0702_crear.mp4" type="video/mp4" length="111725" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0702_crear.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0703 creacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0703_creacion.mp4" type="video/mp4" length="163305" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0703_creacion.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0704 aniadir</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0704_aniadir.mp4" type="video/mp4" length="162926" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0704_aniadir.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0705 publicacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0705_publicacion.mp4" type="video/mp4" length="161756" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0705_publicacion.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0706 paneles</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0706_paneles.mp4" type="video/mp4" length="153308" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0706_paneles.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0800 entradas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0800_entradas.mp4" type="video/mp4" length="182016" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0800_entradas.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0801 gestion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0801_gestion.mp4" type="video/mp4" length="137802" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0801_gestion.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0802 creacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0802_creacion.mp4" type="video/mp4" length="153181" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0802_creacion.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:19 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0803 uso</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0803_uso.mp4" type="video/mp4" length="160049" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0803_uso.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:18 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0804 otros</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0804_otros.mp4" type="video/mp4" length="174476" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0804_otros.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:18 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0900 paginas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0900_paginas.mp4" type="video/mp4" length="185819" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0900_paginas.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:18 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0901 gestion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0901_gestion.mp4" type="video/mp4" length="137690" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0901_gestion.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:18 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0902 jerarquia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0902_jerarquia.mp4" type="video/mp4" length="182690" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0902_jerarquia.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:18 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 0903 como</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_0903_como.mp4" type="video/mp4" length="139910" />
+			<guid>http://stream.artesvisuales.com/video/WPES_0903_como.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:18 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1000 herramientas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1000_herramientas.mp4" type="video/mp4" length="126186" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1000_herramientas.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:18 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1001 importar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1001_importar.mp4" type="video/mp4" length="130412" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1001_importar.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:18 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1100 comentarios</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1100_comentarios.mp4" type="video/mp4" length="125440" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1100_comentarios.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:18 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1101 gestion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1101_gestion.mp4" type="video/mp4" length="180436" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1101_gestion.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:18 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1102 ajustes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1102_ajustes.mp4" type="video/mp4" length="182378" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1102_ajustes.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:18 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1200 plugins</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1200_plugins.mp4" type="video/mp4" length="170276" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1200_plugins.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:17 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1201 basicos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1201_basicos.mp4" type="video/mp4" length="163501" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1201_basicos.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:17 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1202 creacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1202_creacion.mp4" type="video/mp4" length="208242" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1202_creacion.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:17 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1300 apariencia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1300_apariencia.mp4" type="video/mp4" length="180052" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1300_apariencia.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:17 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1301 instalar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1301_instalar.mp4" type="video/mp4" length="138531" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1301_instalar.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:17 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1302 buenas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1302_buenas.mp4" type="video/mp4" length="180961" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1302_buenas.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:17 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1303 uso</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1303_uso.mp4" type="video/mp4" length="167802" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1303_uso.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:17 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1304 menus</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1304_menus.mp4" type="video/mp4" length="140979" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1304_menus.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:17 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1400 tema</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1400_tema.mp4" type="video/mp4" length="143955" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1400_tema.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:17 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1401 formatos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1401_formatos.mp4" type="video/mp4" length="173496" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1401_formatos.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:17 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1402 plantilla</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1402_plantilla.mp4" type="video/mp4" length="178660" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1402_plantilla.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:17 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1403 personalizacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1403_personalizacion.mp4" type="video/mp4" length="55303" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1403_personalizacion.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1404 widgets</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1404_widgets.mp4" type="video/mp4" length="137904" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1404_widgets.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1405 opciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1405_opciones.mp4" type="video/mp4" length="121379" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1405_opciones.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1406 cabecera</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1406_cabecera.mp4" type="video/mp4" length="139324" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1406_cabecera.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1407 fondo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1407_fondo.mp4" type="video/mp4" length="155746" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1407_fondo.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1500 indexacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1500_indexacion.mp4" type="video/mp4" length="159830" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1500_indexacion.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1501 uso</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1501_uso.mp4" type="video/mp4" length="155528" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1501_uso.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1600 mantener</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1600_mantener.mp4" type="video/mp4" length="127920" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1600_mantener.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+		<item>
+			<title>WPES 1601 archivos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPES_1601_archivos.mp4" type="video/mp4" length="126850" />
+			<guid>http://stream.artesvisuales.com/video/WPES_1601_archivos.mp4</guid>
+			<pubDate>Wed, 29 Jan 2014 08:08:16 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Acrobat, pdf</itunes:keywords>
+		</item>
+	</channel>
+</rss>

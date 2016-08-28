@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS5_07.xml" />
+		<lastBuildDate>Thu, 09 Jun 2011 16:49:15 +0200</lastBuildDate>
+		<title>Plantillas</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://campus.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description />
+		<itunes:subtitle />
+		<itunes:summary />
+		<language>es-es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS5_144.jpg</url>
+			<title>Plantillas</title>
+			<link>http://campus.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS5.jpg" />
+		<category>Training</category>
+		<itunes:category text="Education">
+			<itunes:category text="Training" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords />
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>7.1 Crear y abrir plantillas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0701_crearyabrirplantillas.mov" type="video/quicktime" length="15639115" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0701_crearyabrirplantillas.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 16:48:48 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>7.2 Objetos de plantilla</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0702_objetosdeplantilla.mov" type="video/quicktime" length="25415119" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0702_objetosdeplantilla.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 16:48:31 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>7.3 Trabajo con plantillas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0703_trabajoconplantillas.mov" type="video/quicktime" length="23528598" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0703_trabajoconplantillas.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 16:48:09 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>7.4 Región opcional </title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0704_regionopcional_atributoeditable.mov" type="video/quicktime" length="22672910" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0704_regionopcional_atributoeditable.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 16:46:50 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>7.5 Plantillas anidadas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0705_plantillasanidadas.mov" type="video/quicktime" length="20322777" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0705_plantillasanidadas.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 16:46:33 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>7.6 Incontext editing</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_0706_incontextediting.mov" type="video/quicktime" length="17632986" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_0706_incontextediting.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 16:46:15 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://stream.artesvisuales.com/video/_iTunesU_Acrobat_X_01.xml" />
+		<lastBuildDate>Wed, 05 Jun 2013 08:19:24 +0200</lastBuildDate>
+		<title>1. Introducción Acrobat X</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com/</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[1.1 Resumen general del curso  
+1.2 Utilización de los materiales  
+1.3 Capítulos 
+2.1 Barra de navegación  
+2.2 Barra de Herramientas rápidas  
+2.2.1 Personalización herramienta rápida  
+2.3 Paneles (Herramientas, comentario, compartir)  
+2.4 Paneles de Navegación
+3.1 Desde archivo  
+3.2 Desde captura y escáner    
+3.3 Desde página Web  
+3.4 Desde portapapeles  
+3.5 Desde Programas Adobe    
+3.6 Desde Microsoft Office  
+3.7 Combinar archivos en un PDF
+4.1 Presentación   
+4.2 Preferencias    
+4.3 Búsqueda  
+4.3.1 Búsqueda avanzada  
+4.4 Metadatos
+]]></description>
+		<itunes:subtitle />
+		<itunes:summary>1.1 Resumen general del curso  
+1.2 Utilización de los materiales  
+1.3 Capítulos 
+2.1 Barra de navegación  
+2.2 Barra de Herramientas rápidas  
+2.2.1 Personalización herramienta rápida  
+2.3 Paneles (Herramientas, comentario, compartir)  
+2.4 Paneles de Navegación 
+3.1 Desde archivo  
+3.2 Desde captura y escáner    
+3.3 Desde página Web  
+3.4 Desde portapapeles  
+3.5 Desde Programas Adobe    
+3.6 Desde Microsoft Office  
+3.7 Combinar archivos en un PDF
+4.1 Presentación   
+4.2 Preferencias    
+4.3 Búsqueda  
+4.3.1 Búsqueda avanzada  
+4.4 Metadatos
+</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://stream.artesvisuales.com/video/podcastImage_144.jpg</url>
+			<title>1. Introducción Acrobat X</title>
+			<link>http://www.artesvisuales.com/</link>
+			<width>144</width>
+			<height>114</height>
+		</image>
+		<itunes:image href="http://stream.artesvisuales.com/video/podcastImage.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>ACRX 0101 Resumen general del curso</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0101_resumen.mp4" type="video/mp4" length="34944" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0101_resumen.mp4</guid>
+			<pubDate>Tue, 04 Jun 2013 08:13:55 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0102 Utilización de los materiales</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0102_materiales.mp4" type="video/mp4" length="25573" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0102_materiales.mp4</guid>
+			<pubDate>Tue, 04 Jun 2013 08:13:55 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0103 Capítulos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0103_capitulos.mp4" type="video/mp4" length="25900" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0103_capitulos.mp4</guid>
+			<pubDate>Tue, 04 Jun 2013 08:13:54 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0200 Conociendo Acrobat X</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0200_conociendo.mp4" type="video/mp4" length="24604" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0200_conociendo.mp4</guid>
+			<pubDate>Tue, 04 Jun 2013 08:20:50 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0201 Barra de navegación</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0201_navegacion.mp4" type="video/mp4" length="26948" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0201_navegacion.mp4</guid>
+			<pubDate>Tue, 04 Jun 2013 08:20:50 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0202 Barra de herramientas rápidas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0202_b_rapida.mp4" type="video/mp4" length="33228" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0202_b_rapida.mp4</guid>
+			<pubDate>Tue, 04 Jun 2013 08:20:50 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0203 Paneles</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0203_paneles.mp4" type="video/mp4" length="30824" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0203_paneles.mp4</guid>
+			<pubDate>Tue, 04 Jun 2013 08:20:50 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0204 Paneles de navegación</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0204_paneles_n.mp4" type="video/mp4" length="27802" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0204_paneles_n.mp4</guid>
+			<pubDate>Tue, 04 Jun 2013 08:20:49 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0221 Personalización barra herramientas rápidas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0221_p_b_rapida.mp4" type="video/mp4" length="38630" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0221_p_b_rapida.mp4</guid>
+			<pubDate>Tue, 04 Jun 2013 08:20:49 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0301 Crear archivo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0301_crear_archivo.mp4" type="video/mp4" length="29372" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0301_crear_archivo.mp4</guid>
+			<pubDate>Wed, 05 Jun 2013 08:16:45 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0302 Desde captura y escáner</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0302_crear_captura.mp4" type="video/mp4" length="22335" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0302_crear_captura.mp4</guid>
+			<pubDate>Wed, 05 Jun 2013 08:16:45 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0303 Desde página web</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0303_crear_web.mp4" type="video/mp4" length="27073" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0303_crear_web.mp4</guid>
+			<pubDate>Wed, 05 Jun 2013 08:16:45 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0304 Desde portapapeles</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0304_crear_portapapeles.mp4" type="video/mp4" length="25560" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0304_crear_portapapeles.mp4</guid>
+			<pubDate>Wed, 05 Jun 2013 08:16:45 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0305 Desde programas de Adobe</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0305_crear_adobe.mp4" type="video/mp4" length="33460" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0305_crear_adobe.mp4</guid>
+			<pubDate>Wed, 05 Jun 2013 08:16:45 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0306 Desde Microsoft Office</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0306_crear_office.mp4" type="video/mp4" length="27041" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0306_crear_office.mp4</guid>
+			<pubDate>Wed, 05 Jun 2013 08:16:45 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0307 Combinar archivos en un PDF</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0307_crear_combinar.mp4" type="video/mp4" length="29347" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0307_crear_combinar.mp4</guid>
+			<pubDate>Wed, 05 Jun 2013 08:16:45 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0401 Presentación</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0401_presentacion.mp4" type="video/mp4" length="23052" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0401_presentacion.mp4</guid>
+			<pubDate>Wed, 05 Jun 2013 08:20:35 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0402 Preferencias</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0402_preferencias.mp4" type="video/mp4" length="27503" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0402_preferencias.mp4</guid>
+			<pubDate>Wed, 05 Jun 2013 08:20:35 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0403 Búsqueda</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0403_busqueda.mp4" type="video/mp4" length="22787" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0403_busqueda.mp4</guid>
+			<pubDate>Wed, 05 Jun 2013 08:20:35 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0404 Metadatos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0404_metadatos.mp4" type="video/mp4" length="24079" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0404_metadatos.mp4</guid>
+			<pubDate>Wed, 05 Jun 2013 08:20:35 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+		<item>
+			<title>ACRX 0431 Búsqueda avanzada</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/ACRX_0431_busqueda_avanzada.mp4" type="video/mp4" length="28561" />
+			<guid>http://stream.artesvisuales.com/video/ACRX_0431_busqueda_avanzada.mp4</guid>
+			<pubDate>Wed, 05 Jun 2013 08:20:35 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>Lightroom, fotografía, fotógrafos, fotógrafo, </itunes:keywords>
+		</item>
+	</channel>
+</rss>

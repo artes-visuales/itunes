@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_PremiereCS5_07.xml" />
+		<lastBuildDate>Fri, 10 Jun 2011 11:13:06 +0200</lastBuildDate>
+		<title>Superposición y canales alfa</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Adobe Premiere CS5 es la principal aplicación para la edición y montaje de vídeo digital.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Adobe Premiere CS5 es la principal aplicación para la edición y montaje de vídeo digital.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_PremiereCS5_144.jpg</url>
+			<title>Superposición y canales alfa</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_PremiereCS5.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>7.1 Canal alfa</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0701_canalalfa-qtfs.mp4" type="video/mp4" length="21570109" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0701_canalalfa-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:12:38 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>7.2 Interpretar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0702_interpretar-qtfs.mp4" type="video/mp4" length="10370619" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0702_interpretar-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:12:21 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>7.3 Pasar a negro</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0703_pasaranegro-qtfs.mp4" type="video/mp4" length="22190556" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0703_pasaranegro-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:12:01 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>7.4 Imagen mate</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0704_imagenmate-qtfs.mp4" type="video/mp4" length="9993008" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0704_imagenmate-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:11:30 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>7.5 Pista mate</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0705_pistamate-qtfs.mp4" type="video/mp4" length="16541424" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0705_pistamate-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:11:09 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>7.6 Mate sólido</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PRECS5_0706_matesolido-qtfs.mp4" type="video/mp4" length="7978132" />
+			<guid>http://itunes.artesvisuales.com/Private/PRECS5_0706_matesolido-qtfs.mp4</guid>
+			<pubDate>Fri, 10 Jun 2011 11:10:45 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+	</channel>
+</rss>

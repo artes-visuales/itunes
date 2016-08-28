@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_PhotoshopCS5_03.xml" />
+		<lastBuildDate>Fri, 03 Jun 2011 06:56:27 +0200</lastBuildDate>
+		<title>Bridge</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://artesvisuales.groups.adobe.com/</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Adobe Photoshop CS5 es la principal aplicación cuya función principal es el control sobre la imagen. La función principal de esta asignatura es formar al alumno para que éste sea capaz de conocerla en profundidad.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Adobe Photoshop CS5 es la principal aplicación cuya función principal es el control sobre la imagen. La función principal de esta asignatura es formar al alumno para que éste sea capaz de conocerla en profundidad.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_PhotoshopCS5_144.jpg</url>
+			<title>Bridge</title>
+			<link>http://artesvisuales.groups.adobe.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_PhotoshopCS5.jpg" />
+		<category>Design</category>
+		<itunes:category text="Education">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>3.1 Bridge I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0301_bridge01-ipod.m4v" type="video/x-m4v" length="20614511" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0301_bridge01-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:31:41 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.2 Bridge II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0302_bridge02-ipod.m4v" type="video/x-m4v" length="44921499" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0302_bridge02-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:31:23 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.3 Bridge III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0303_bridge03-ipod.m4v" type="video/x-m4v" length="19588174" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0303_bridge03-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:31:02 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.4 Bridge IV</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0304_bridge04-ipod.m4v" type="video/x-m4v" length="20479233" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0304_bridge04-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:30:41 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.4 Bridge V</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0304_bridge05-ipod.m4v" type="video/x-m4v" length="20160626" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0304_bridge05-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:30:19 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.5 Bridge VI</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0305_bridge06-ipod.m4v" type="video/x-m4v" length="22054136" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0305_bridge06-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:24:57 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.6 Mover</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0306_mover-ipod.m4v" type="video/x-m4v" length="30454118" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0306_mover-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:24:35 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.7 Transformación básica</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0307_transformarbasico-ipod.m4v" type="video/x-m4v" length="23813543" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0307_transformarbasico-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:23:43 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.8 Borradores</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0308_borradores01-ipod.m4v" type="video/x-m4v" length="23813543" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0308_borradores01-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:17:05 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.9 Borradores II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0309_borradores02-ipod.m4v" type="video/x-m4v" length="51449643" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0309_borradores02-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:16:39 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.10 Borradores III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0310_borradores03-ipod.m4v" type="video/x-m4v" length="44972488" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0310_borradores03-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:16:20 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.11 Reglas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0311_reglas-ipod.m4v" type="video/x-m4v" length="29641373" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0311_reglas-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:16:01 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+	</channel>
+</rss>

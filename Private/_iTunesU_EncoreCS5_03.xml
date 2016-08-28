@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_EncoreCS5_03.xml" />
+		<lastBuildDate>Sun, 12 Jun 2011 08:45:28 +0200</lastBuildDate>
+		<title>Crear la introducción</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://campus.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description />
+		<itunes:subtitle />
+		<itunes:summary />
+		<language>es-es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_EncoreCS5_144.jpg</url>
+			<title>Crear la introducción</title>
+			<link>http://campus.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_EncoreCS5.jpg" />
+		<category>Training</category>
+		<itunes:category text="Education">
+			<itunes:category text="Training" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords />
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>3.1 El sonido del menú</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0301_sonidomenu-ipod.m4v" type="video/x-m4v" length="5721245" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0301_sonidomenu-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:45:01 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.2 Editar el sonido del menú</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0302_editesonidomenu-ipod.m4v" type="video/x-m4v" length="13563581" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0302_editesonidomenu-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:44:34 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.3 Crear introducción I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0303_intro-ipod.m4v" type="video/x-m4v" length="7278307" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0303_intro-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:44:11 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.4 Crear introducción II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0304_intro-ipod.m4v" type="video/x-m4v" length="8529910" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0304_intro-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:43:49 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.5 Crear introducción III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0305_intro-ipod.m4v" type="video/x-m4v" length="5525391" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0305_intro-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:43:26 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.6 Crear introducción IV</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0306_intro-ipod.m4v" type="video/x-m4v" length="11180018" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0306_intro-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:43:04 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.7 Crear introducción V</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0307_intro-ipod.m4v" type="video/x-m4v" length="11858201" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0307_intro-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:42:35 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.8 Crear introducción VI</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0308_intro-ipod.m4v" type="video/x-m4v" length="15575542" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0308_intro-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:41:36 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>3.9 Crear introducción VII</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0309_intro-ipod.m4v" type="video/x-m4v" length="7935682" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0309_intro-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:39:02 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+	</channel>
+</rss>

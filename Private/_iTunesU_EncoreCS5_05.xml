@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_EncoreCS5_05.xml" />
+		<lastBuildDate>Sun, 12 Jun 2011 08:55:58 +0200</lastBuildDate>
+		<title>Navegación</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://campus.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description />
+		<itunes:subtitle />
+		<itunes:summary />
+		<language>es-es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_EncoreCS5_144.jpg</url>
+			<title>Navegación</title>
+			<link>http://campus.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_EncoreCS5.jpg" />
+		<category>Training</category>
+		<itunes:category text="Education">
+			<itunes:category text="Training" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords />
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>5.1 Images diapositivas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0501_imagesdiapos-ipod.m4v" type="video/x-m4v" length="6222655" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0501_imagesdiapos-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:55:34 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>5.2 Cuadro diapositivas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0502_cuadrodiapositivas-ipod.m4v" type="video/x-m4v" length="8267843" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0502_cuadrodiapositivas-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:55:19 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>5.3 Coincidir</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0503_coincidir-ipod.m4v" type="video/x-m4v" length="5638270" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0503_coincidir-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:55:02 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>5.4 Sonido diapositivas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0504_sonidodiapos-ipod.m4v" type="video/x-m4v" length="7414613" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0504_sonidodiapos-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:54:33 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>5.5 Sonido diapositivas I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0505_sonidodiapos-ipod.m4v" type="video/x-m4v" length="9587271" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0505_sonidodiapos-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:54:09 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>5.6 Ajustar sonido</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0506_ajustarsonido-ipod.m4v" type="video/x-m4v" length="16642142" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0506_ajustarsonido-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:53:49 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>5.7 Avance manual</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0507_avancemanual-ipod.m4v" type="video/x-m4v" length="5096604" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0507_avancemanual-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:53:28 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>5.8 Transición diapositivas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0508_transiciondiapos-ipod.m4v" type="video/x-m4v" length="11575228" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0508_transiciondiapos-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:52:53 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>5.9 Zooms aleatorios</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0509_zoomsaleatorios-ipod.m4v" type="video/x-m4v" length="8334632" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0509_zoomsaleatorios-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:52:29 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>5.10 Subtítulo diapositivas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0510_subtitulodiapos-ipod.m4v" type="video/x-m4v" length="17190954" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0510_subtitulodiapos-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:51:59 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>5.11 Enlazar presentación</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/ENCS5_0511_enlazarpresent-ipod.m4v" type="video/x-m4v" length="13206150" />
+			<guid>http://itunes.artesvisuales.com/Private/ENCS5_0511_enlazarpresent-ipod.m4v</guid>
+			<pubDate>Sun, 12 Jun 2011 08:51:37 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+	</channel>
+</rss>

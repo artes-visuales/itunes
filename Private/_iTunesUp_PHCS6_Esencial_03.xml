@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesUp_PHCS6_Esencial_03.xml" />
+		<lastBuildDate>Fri, 18 Jan 2013 08:04:54 +0100</lastBuildDate>
+		<title>Photoshop CS6 Esencial III - Pinceles</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Adobe Photoshop CS6 es la principal aplicación cuya función principal es el control sobre la imagen. La función principal de esta asignatura es formar al alumno para que éste cuente con la capacidad de retocar imágenes, prepararlas para la Web, hacer uso de selecciones complejas y un sin fin de operaciones todas ellas en función de la imagen. ]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Adobe Photoshop CS6 es la principal aplicación cuya función principal es el control sobre la imagen. La función principal de esta asignatura es formar al alumno para que éste cuente con la capacidad de retocar imágenes, prepararlas para la Web, hacer uso de selecciones complejas y un sin fin de operaciones todas ellas en función de la imagen. </itunes:summary>
+		<language>es</language>
+		<copyright>Creative Commons 3.0</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_PHCS6ES_144.jpg</url>
+			<title>Photoshop CS6 Esencial III - Capas</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_PHCS6ES.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>PHCS6 0301 pinceles01</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0301_pinceles01.mp4" type="video/mp4" length="32278" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0301_pinceles01.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:03:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0302 pinceles02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0302_pinceles02.mp4" type="video/mp4" length="31212" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0302_pinceles02.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:03:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0303 ajustes preestablecios</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0303_ajustes_preestablecios.mp4" type="video/mp4" length="30654" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0303_ajustes_preestablecios.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:03:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0304 historia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0304_historia.mp4" type="video/mp4" length="39168" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0304_historia.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:03:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0305 instantanea</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0305_instantanea.mp4" type="video/mp4" length="40322" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0305_instantanea.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:03:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0306 rotacion lienzo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0306_rotacion_lienzo.mp4" type="video/mp4" length="33466" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0306_rotacion_lienzo.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:03:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0307 tamano lienzo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0307_tamano_lienzo.mp4" type="video/mp4" length="34256" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0307_tamano_lienzo.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:03:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0308 distorsiones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0308_distorsiones.mp4" type="video/mp4" length="37528" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0308_distorsiones.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:03:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0309 rellenar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0309_rellenar.mp4" type="video/mp4" length="42270" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0309_rellenar.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:03:28 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+	</channel>
+</rss>

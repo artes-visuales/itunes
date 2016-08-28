@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Podcast/_iTunesUp_PRCS4_audio.xml" />
+		<lastBuildDate>Mon, 18 Jul 2011 09:12:28 +0200</lastBuildDate>
+		<title>Premiere CS4 Audio</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Trabajo con sonido en Premiere]]></description>
+		<itunes:subtitle>En esta serie de vídeos explicamos los fundamentos de las capas en Adobe Photoshop.</itunes:subtitle>
+		<itunes:summary>Trabajo con sonido en Premiere</itunes:summary>
+		<language>es-es</language>
+		<copyright>Creative Commons 3.0</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Podcast/_iTunesUp_PRCS4_audio_144.jpg</url>
+			<title>Premiere CS4 Audio</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Podcast/_iTunesUp_PRCS4_audio.jpg" />
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Audio</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author> 
+			<itunesu:category itunesu:code="102105" />     
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PRCS4_06_01_audio.mp4" type="video/mp4" length="5284224" />
+			<guid>http://itunes.artesvisuales.com/Podcast/PRCS4_06_01_audio.mp4</guid>
+			<pubDate>Sun, 17 Jul 2011 09:09:43 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, premiere, </itunes:keywords>
+		</item>
+		<item>
+			<title>Audio Fundamentos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />     
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PRCS4_06_02_audio.pdf" type="application/pdf" length="58300" />
+			<guid>http://itunes.artesvisuales.com/Podcast/PRCS4_06_02_audio.pdf</guid>
+			<pubDate>Sun, 17 Jul 2011 08:57:50 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, premiere, </itunes:keywords>
+		</item>
+		<item>
+			<title>Clips, canales y pistas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author> 
+			<itunesu:category itunesu:code="102105" />     
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PRCS4_06_03_clipscanalespistas.pdf" type="application/pdf" length="56065" />
+			<guid>http://itunes.artesvisuales.com/Podcast/PRCS4_06_03_clipscanalespistas.pdf</guid>
+			<pubDate>Sun, 17 Jul 2011 08:57:21 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, premiere, </itunes:keywords>
+		</item>
+		<item>
+			<title>Grabación de audio</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>  
+			<itunesu:category itunesu:code="102105" />     
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PRCS4_06_04_grabacionaudio.pdf" type="application/pdf" length="138224" />
+			<guid>http://itunes.artesvisuales.com/Podcast/PRCS4_06_04_grabacionaudio.pdf</guid>
+			<pubDate>Sun, 17 Jul 2011 08:56:54 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, premiere, </itunes:keywords>
+		</item>
+		<item>
+			<title>Volumen</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>   
+			<itunesu:category itunesu:code="102105" />     
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PRCS4_06_05_volumen.pdf" type="application/pdf" length="56712" />
+			<guid>http://itunes.artesvisuales.com/Podcast/PRCS4_06_05_volumen.pdf</guid>
+			<pubDate>Sun, 17 Jul 2011 08:56:21 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, premiere, </itunes:keywords>
+		</item>
+		<item>
+			<title>Grabación y mezclas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>  
+			<itunesu:category itunesu:code="102105" />     
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PRCS4_06_06_grabacionmezclas.pdf" type="application/pdf" length="74320" />
+			<guid>http://itunes.artesvisuales.com/Podcast/PRCS4_06_06_grabacionmezclas.pdf</guid>
+			<pubDate>Sun, 17 Jul 2011 08:55:44 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, premiere, </itunes:keywords>
+		</item>
+		<item>
+			<title>Panorámica y equilibrio</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>  
+			<itunesu:category itunesu:code="102105" />     
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/PRCS4_06_07_panoramicaequilibrio.pdf" type="application/pdf" length="16660064" />
+			<guid>http://stream.artesvisuales.com/podcast/PHCS4_0310_capas01-ipod.m4v</guid>
+			<pubDate>Wed, 25 May 2011 10:06:59 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, premiere, </itunes:keywords>
+		</item>
+	</channel>
+</rss>

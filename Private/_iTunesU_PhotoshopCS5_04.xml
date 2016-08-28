@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_PhotoshopCS5_04.xml" />
+		<lastBuildDate>Fri, 03 Jun 2011 06:59:57 +0200</lastBuildDate>
+		<title>Pinceles</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://artesvisuales.groups.adobe.com/</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Adobe Photoshop CS5 es la principal aplicación cuya función principal es el control sobre la imagen. La función principal de esta asignatura es formar al alumno para que éste sea capaz de conocerla en profundidad.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Adobe Photoshop CS5 es la principal aplicación cuya función principal es el control sobre la imagen. La función principal de esta asignatura es formar al alumno para que éste sea capaz de conocerla en profundidad.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_PhotoshopCS5_144.jpg</url>
+			<title>Pinceles</title>
+			<link>http://artesvisuales.groups.adobe.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_PhotoshopCS5.jpg" />
+		<category>Design</category>
+		<itunes:category text="Education">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>4.1 Pinceles I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0401_pinceles01-ipod.m4v" type="video/x-m4v" length="25177097" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0401_pinceles01-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:15:40 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.2 Pinceles II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0402_pinceles02-ipod.m4v" type="video/x-m4v" length="26114938" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0402_pinceles02-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:15:22 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.3 Pinceles III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0403_pinceles03-ipod.m4v" type="video/x-m4v" length="18367750" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0404_pinceles04-ipod-1.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:14:15 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.4 Pinceles IV</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0404_pinceles04-ipod.m4v" type="video/x-m4v" length="18367750" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0404_pinceles04-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:13:54 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.5 Pinceles V</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0405_pinceles05-ipod.m4v" type="video/x-m4v" length="15592486" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0405_pinceles05-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:13:32 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.6 Pinceles VI</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0406_pinceles06-ipod.m4v" type="video/x-m4v" length="24386255" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0406_pinceles06-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:13:10 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.7 Pinceles VII</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0407_pinceles07-ipod.m4v" type="video/x-m4v" length="19792208" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0407_pinceles07-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:12:49 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.8 Pinceles VIII</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0408_pinceles08-ipod.m4v" type="video/x-m4v" length="14234331" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0408_pinceles08-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:12:23 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.9 Definir pinceles</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0409_definirpinceles-ipod.m4v" type="video/x-m4v" length="47260632" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0409_definirpinceles-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:11:58 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.10 Pincel mezclador</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0410_pincelmezclador-ipod.m4v" type="video/x-m4v" length="38096441" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0410_pincelmezclador-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:11:38 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.11 Historia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0411_historia-ipod.m4v" type="video/x-m4v" length="43596817" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0411_historia-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:11:19 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.12 Pincel historia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0412_pincelhistoria-ipod.m4v" type="video/x-m4v" length="68619563" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0412_pincelhistoria-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:10:56 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.13 Rotar lienzos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0413_rotarlienzos-ipod.m4v" type="video/x-m4v" length="19934900" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0413_rotarlienzos-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:10:34 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.14 Distorsiones I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0414_distorsiones01-ipod.m4v" type="video/x-m4v" length="22715148" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0414_distorsiones01-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:10:12 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.15 Distorsiones II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/PHCS5_0415_distorsiones02-ipod.m4v" type="video/x-m4v" length="45262620" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0415_distorsiones02-ipod.m4v</guid>
+			<pubDate>Sun, 29 May 2011 08:09:50 +0200</pubDate>
+			<category>Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+	</channel>
+</rss>

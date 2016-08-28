@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://stream.artesvisuales.com/video/_iTunesU_WooCommerce.xml" />
+		<lastBuildDate>Thu, 30 Jan 2014 14:00:00 +0100</lastBuildDate>
+		<title>WooCommerce</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com/</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Con WooCommerce tu website se convertirá en un sitio de comercio electrónico, potente, flexible, y versátil. Una solución total de ecommerce para wordpress. ]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Con WooCommerce tu website se convertirá en un sitio de comercio electrónico, potente, flexible, y versátil. Una solución total de ecommerce para wordpress. </itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>itunes@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://stream.artesvisuales.com/video/_iTunesU_WooCommerce_144.jpg</url>
+			<title>WooCommerce</title>
+			<link>http://www.artesvisuales.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://stream.artesvisuales.com/video/_iTunesU_WooCommerce.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>wordpress</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>WPCE 0201 Woocommerce plugin</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0201_Woocommerce_plugin.mp4" type="video/mp4" length="26395" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0201_Woocommerce_plugin.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0202 Primeros pasos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0202_Primeros_pasos.mp4" type="video/mp4" length="23830" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0202_Primeros_pasos.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0203 Instalar plugin</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0203_Instalar_plugin.mp4" type="video/mp4" length="30000" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0203_Instalar_plugin.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0301 Conociendo Woocommerce</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0301_Conociendo_Woocommerce.mp4" type="video/mp4" length="24552" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0301_Conociendo_Woocommerce.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0302 Contenido prueba</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0302_Contenido_prueba.mp4" type="video/mp4" length="21465" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0302_Contenido_prueba.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:48 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0303 Configuracion general</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0303_Configuracion_general.mp4" type="video/mp4" length="23032" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0303_Configuracion_general.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0304 configurar catalogo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0304_configurar_catalogo.mp4" type="video/mp4" length="26421" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0304_configurar_catalogo.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0305 configurar paginas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0305_configurar_paginas.mp4" type="video/mp4" length="25167" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0305_configurar_paginas.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0306 configurar stock</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0306_configurar_stock.mp4" type="video/mp4" length="24323" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0306_configurar_stock.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0307 configurar impuestos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0307_configurar_impuestos.mp4" type="video/mp4" length="25088" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0307_configurar_impuestos.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0308 configurar emails</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0308_configurar_emails.mp4" type="video/mp4" length="25998" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0308_configurar_emails.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0309 configurar integracion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0309_configurar_integracion.mp4" type="video/mp4" length="24536" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0309_configurar_integracion.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0401 Envios</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0401_Envios.mp4" type="video/mp4" length="23648" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0401_Envios.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0402 Pasarelas pago</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0402_Pasarelas_pago.mp4" type="video/mp4" length="26679" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0402_Pasarelas_pago.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0403 Paypal</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0403_Paypal.mp4" type="video/mp4" length="23185" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0403_Paypal.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0501 Pagina principal</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0501_Pagina_principal.mp4" type="video/mp4" length="23991" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0501_Pagina_principal.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0502 Widgets personalizados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0502_Widgets_personalizados.mp4" type="video/mp4" length="21362" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0502_Widgets_personalizados.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0503 Apariencia general</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0503_Apariencia_general.mp4" type="video/mp4" length="25274" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0503_Apariencia_general.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:47 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0504 Integrar en paginas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0504_Integrar_en_paginas.mp4" type="video/mp4" length="24159" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0504_Integrar_en_paginas.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0601 Nuevos productos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0601_Nuevos_productos.mp4" type="video/mp4" length="24700" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0601_Nuevos_productos.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0602 Datos productos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0602_Datos_productos.mp4" type="video/mp4" length="25090" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0602_Datos_productos.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0603 Imagenes productos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0603_Imagenes_productos.mp4" type="video/mp4" length="28175" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0603_Imagenes_productos.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0604 Descripcion corta</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0604_Descripcion_corta.mp4" type="video/mp4" length="29253" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0604_Descripcion_corta.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0605 Categorias</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0605_Categorias.mp4" type="video/mp4" length="25952" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0605_Categorias.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0606 Etiquetas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0606_Etiquetas.mp4" type="video/mp4" length="23385" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0606_Etiquetas.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0607 Clases envios</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0607_Clases_envios.mp4" type="video/mp4" length="25027" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0607_Clases_envios.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0608 Atributos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0608_Atributos.mp4" type="video/mp4" length="22049" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0608_Atributos.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0609 Comentarios</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0609_Comentarios.mp4" type="video/mp4" length="26047" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0609_Comentarios.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0701 Productos variables</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0701_Productos_variables.mp4" type="video/mp4" length="24954" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0701_Productos_variables.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0702 Producto digital</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0702_Producto_digital.mp4" type="video/mp4" length="25187" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0702_Producto_digital.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:46 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0801 Experiencia cliente</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0801_Experiencia_cliente.mp4" type="video/mp4" length="29549" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0801_Experiencia_cliente.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:45 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0802 Experiencia administrador</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0802_Experiencia_administrador.mp4" type="video/mp4" length="26051" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0802_Experiencia_administrador.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:45 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0803 Pedidos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0803_Pedidos.mp4" type="video/mp4" length="23589" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0803_Pedidos.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:45 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0804 Informes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0804_Informes.mp4" type="video/mp4" length="23171" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0804_Informes.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:45 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+		<item>
+			<title>WPCE 0805 Cupones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/WPCE_0805_Cupones.mp4" type="video/mp4" length="26034" />
+			<guid>http://stream.artesvisuales.com/video/WPCE_0805_Cupones.mp4</guid>
+			<pubDate>Thu, 30 Jan 2014 13:40:44 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>wordpress</itunes:keywords>
+		</item>
+	</channel>
+</rss>

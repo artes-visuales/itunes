@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS5_10.xml" />
+		<lastBuildDate>Mon, 13 Jun 2011 10:08:21 +0200</lastBuildDate>
+		<title>Escritura</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://artesvisuales.groups.adobe.com/</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[After Effects CS5 es la principal aplicación para la postproducción digital de vídeo.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>After Effects CS5 es la principal aplicación para la postproducción digital de vídeo.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS5_144.jpg</url>
+			<title>Escritura</title>
+			<link>http://artesvisuales.groups.adobe.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS5.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>10.1 Escritura</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_1001_escritura-ipod.m4v" type="video/x-m4v" length="9046840" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_1001_escritura-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:08:00 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>10.2 Aros de luz I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_1002_arosluz-ipod.m4v" type="video/x-m4v" length="9931395" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_1002_arosluz-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:07:38 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>10.3 Aros de luz II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_1003_arosluz-ipod.m4v" type="video/x-m4v" length="11189689" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_1003_arosluz-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:07:23 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>10.4 Aros de luz III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_1004_arosluz-ipod.m4v" type="video/x-m4v" length="11584645" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_1004_arosluz-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:07:07 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>10.5 Invisible</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_1005_inivisible-ipod.m4v" type="video/x-m4v" length="11948705" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_1005_inivisible-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:06:44 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>10.6 Pixel polly I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_1006_pixelpolly-ipod.m4v" type="video/x-m4v" length="7735022" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_1006_pixelpolly-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:06:20 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>10.7 Pixel polly II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_1007_pixelpolly-ipod.m4v" type="video/x-m4v" length="6170352" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_1007_pixelpolly-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:06:02 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>10.8 Pixel polly III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_1008_pixelpolly-ipod.m4v" type="video/x-m4v" length="6578680" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_1008_pixelpolly-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:05:39 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>10.09 Desintegrar I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_1009_desintegrar-ipod.m4v" type="video/x-m4v" length="8955049" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_1009_desintegrar-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:05:17 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>10.10 Desintegrar II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_1010_desintegrar-ipod.m4v" type="video/x-m4v" length="8680184" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_1010_desintegrar-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:05:02 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>10.11 Desintegrar III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_1011_desintegrar-ipod.m4v" type="video/x-m4v" length="5098411" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_1011_desintegrar-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:04:37 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>10.12 Desintegrar IV</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_1012_desintegrar-ipod.m4v" type="video/x-m4v" length="6099289" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_1012_desintegrar-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:03:51 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>10.13 Desintegrar V</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_1013_desintegrar-ipod.m4v" type="video/x-m4v" length="8617461" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_1013_desintegrar-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:03:32 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>10.14 Desintegrar VI</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_1014_desintegrar-ipod.m4v" type="video/x-m4v" length="5398542" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_1014_desintegrar-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:03:06 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>10.15 Desintegrar VII</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_1015_desintegrar-ipod.m4v" type="video/x-m4v" length="14270449" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_1015_desintegrar-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:02:39 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>10.16 Recortar trazados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_1016_recortartrazados-ipod.m4v" type="video/x-m4v" length="12997583" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_1016_recortartrazados-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:02:21 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+	</channel>
+</rss>

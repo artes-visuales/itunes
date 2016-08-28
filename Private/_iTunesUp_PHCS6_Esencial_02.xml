@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesUp_PHCS6_Esencial_02.xml" />
+		<lastBuildDate>Fri, 18 Jan 2013 08:00:41 +0100</lastBuildDate>
+		<title>Photoshop CS6 Esencial II - Bridge</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[El software de gestión de activos digitales Adobe Bridge CS6 es una herramienta de gestión de activos multimedia para fotógrafos y diseñadores. ]]></description>
+		<itunes:subtitle />
+		<itunes:summary>El software de gestión de activos digitales Adobe Bridge CS6 es una herramienta de gestión de activos multimedia para fotógrafos y diseñadores. </itunes:summary>
+		<language>es</language>
+		<copyright>Creative Commons 3.0</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_PHCS6ES_144.jpg</url>
+			<title>Photoshop CS6 Esencial II - Bridge</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_PHCS6ES.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>PHCS6 0201 bridgeI</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0201_bridgeI.mp4" type="video/mp4" length="33038" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0201_bridgeI.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:00:08 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0202 bridgeII</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0202_bridgeII.mp4" type="video/mp4" length="40382" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0202_bridgeII.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:00:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0203 bridgeIII</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0203_bridgeIII.mp4" type="video/mp4" length="34909" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0203_bridgeIII.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:00:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0204 minibridge</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0204_minibridge.mp4" type="video/mp4" length="28951" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0204_minibridge.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:00:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0205 desplazar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0205_desplazar.mp4" type="video/mp4" length="35742" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0205_desplazar.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:00:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0206 perfeccionar bordes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0206_perfeccionar_bordes.mp4" type="video/mp4" length="37721" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0206_perfeccionar_bordes.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:00:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0207 transformaciones I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0207_transformaciones_I.mp4" type="video/mp4" length="32382" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0207_transformaciones_I.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:00:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0208 transformaciones II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0208_transformaciones_II.mp4" type="video/mp4" length="29622" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0208_transformaciones_II.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:00:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0209 transformaciones III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0209_transformaciones_III.mp4" type="video/mp4" length="32380" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0209_transformaciones_III.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:00:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0210 borradoresI</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0210_borradoresI.mp4" type="video/mp4" length="39246" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0210_borradoresI.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:00:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0211 borradoresII</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0211_borradoresII.mp4" type="video/mp4" length="42554" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0211_borradoresII.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:00:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6 0212 reglas guias</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6_0212_reglas_guias.mp4" type="video/mp4" length="28755" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6_0212_reglas_guias.mp4</guid>
+			<pubDate>Fri, 18 Jan 2013 08:00:05 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesUp_PHCS6_Fotografos_03.xml" />
+		<lastBuildDate>Wed, 23 Jan 2013 08:28:49 +0100</lastBuildDate>
+		<title>Photoshop CS6 Fotógrafos - 3. Corrección luces y sombras</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[3.2 Desenfoque suavizado  
+3.3 Enderezar  
+3.4 Tipos de imágenes  
+3.5 Ajustar Luces y Sombras  
+3.6 Luces, sombras y Niveles  
+3.7 Sombras e IIuminaciones 01  
+3.8 Sombras e Iluminaciones 02  ]]></description>
+		<itunes:subtitle />
+		<itunes:summary>3.2 Desenfoque suavizado  
+3.3 Enderezar  
+3.4 Tipos de imágenes  
+3.5 Ajustar Luces y Sombras  
+3.6 Luces, sombras y Niveles  
+3.7 Sombras e IIuminaciones 01  
+3.8 Sombras e Iluminaciones 02  </itunes:summary>
+		<language>es</language>
+		<copyright>Creative Commons 3.0</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_PHCS6F_144.jpg</url>
+			<title>Photoshop CS6 Fotógrafos - 3. Corrección luces y sombras</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_PHCS6F.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>PHCS6FOT 0301 ruidos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0301_ruidos.mp4" type="video/mp4" length="28964" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0301_ruidos.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:28:08 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0302 desenfoque suavizado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0302_desenfoque_suavizado.mp4" type="video/mp4" length="35568" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0302_desenfoque_suavizado.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:28:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0303 enderezar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0303_enderezar.mp4" type="video/mp4" length="33112" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0303_enderezar.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:28:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0304 tiposdeimagenes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0304_tiposdeimagenes.mp4" type="video/mp4" length="29773" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0304_tiposdeimagenes.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:28:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0305 ajustarluces sombras</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0305_ajustarluces_sombras.mp4" type="video/mp4" length="35423" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0305_ajustarluces_sombras.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:28:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0306 luces sombras niveles</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0306_luces_sombras_niveles.mp4" type="video/mp4" length="34641" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0306_luces_sombras_niveles.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:28:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0307 sombras e iluminaciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0307_sombras_e_iluminaciones.mp4" type="video/mp4" length="34200" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0307_sombras_e_iluminaciones.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:28:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6FOT 0308 sombras e iluminaciones02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6FOT_0308_sombras_e_iluminaciones02.mp4" type="video/mp4" length="41970" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6FOT_0308_sombras_e_iluminaciones02.mp4</guid>
+			<pubDate>Wed, 23 Jan 2013 08:28:07 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS5_10.xml" />
+		<lastBuildDate>Thu, 09 Jun 2011 17:11:40 +0200</lastBuildDate>
+		<title>Comportamientos</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://campus.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description />
+		<itunes:subtitle />
+		<itunes:summary />
+		<language>es-es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS5_144.jpg</url>
+			<title>Comportamientos</title>
+			<link>http://campus.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS5.jpg" />
+		<category>Training</category>
+		<itunes:category text="Education">
+			<itunes:category text="Training" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords />
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>10.1 Introducción comportamientos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_1001_introduccioncomportamientos.mov" type="video/quicktime" length="13997458" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_1001_introduccioncomportamientos.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 17:11:21 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>10.2 Ventana comportamiento</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_1002_ventanacomportamiento_insertarcomportamiento.mov" type="video/quicktime" length="16699115" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_1002_ventanacomportamiento_insertarcomportamiento.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 17:10:59 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>10.3 Comportamiento texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_1003_comportamientotexto.mov" type="video/quicktime" length="14714620" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_1003_comportamientotexto.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 17:10:41 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>10.4 Abrir ventana</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_1004_abrirventana_arrastrardivpa_cambiarpropiedad.mov" type="video/quicktime" length="17925627" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_1004_abrirventana_arrastrardivpa_cambiarpropiedad.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 17:10:18 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>10.5 Comprobar plugin</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_1005_comprobarplugin_intercambioimagen_cargapreviaimagen.mov" type="video/quicktime" length="16115971" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_1005_comprobarplugin_intercambioimagen_cargapreviaimagen.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 17:09:57 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>10.6 Definir texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_1006_definirtexto_irurl_llamarjavascript_ventanaemergente.mov" type="video/quicktime" length="14741271" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_1006_definirtexto_irurl_llamarjavascript_ventanaemergente.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 17:08:53 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>10.7 Menú salto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_1007_menusalto_restaurarimagen_mostrarocultar.mov" type="video/quicktime" length="14264338" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_1007_menusalto_restaurarimagen_mostrarocultar.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 17:08:23 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>10.8 Agitar, desvanecer, arrinconar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_1008_agitar_desvanecer_arrinconar.mov" type="video/quicktime" length="15212603" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_1008_agitar_desvanecer_arrinconar.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 17:07:59 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>10.9 Deslizar, persiana, aumentar, resaltado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_1009_deslizar_persiana_aumentar_resaltado.mov" type="video/quicktime" length="16505725" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_1009_deslizar_persiana_aumentar_resaltado.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 17:03:07 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS5_09.xml" />
+		<lastBuildDate>Mon, 13 Jun 2011 10:01:33 +0200</lastBuildDate>
+		<title>Dibujos animados</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://artesvisuales.groups.adobe.com/</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[After Effects CS5 es la principal aplicación para la postproducción digital de vídeo.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>After Effects CS5 es la principal aplicación para la postproducción digital de vídeo.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS5_144.jpg</url>
+			<title>Dibujos animados</title>
+			<link>http://artesvisuales.groups.adobe.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS5.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>9.1 Dibujos animados I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0901_dibujosanimados-ipod.m4v" type="video/x-m4v" length="13383358" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0901_dibujosanimados-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:01:01 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>9.2 Dibujos animados II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0902_dibujosanimados-ipod.m4v" type="video/x-m4v" length="19919022" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0902_dibujosanimados-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:00:42 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>9.3 Dibujos animados III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0903_dibujosanimados-ipod.m4v" type="video/x-m4v" length="16506061" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0903_dibujosanimados-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 10:00:22 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>9.4 Dibujos animados IV</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0904_dibujosanimados-ipod.m4v" type="video/x-m4v" length="28392374" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0904_dibujosanimados-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:59:51 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>9.5 Dibujos animados V</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0905_dibujosanimados-ipod.m4v" type="video/x-m4v" length="35181633" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0905_dibujosanimados-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:59:28 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>9.6 Dibujos animados VI</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0906_dibujosanimados-ipod.m4v" type="video/x-m4v" length="24790108" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0906_dibujosanimados-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:59:10 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>9.7 Dibujos animados VII</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0907_dibujosanimados-ipod.m4v" type="video/x-m4v" length="19292829" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0907_dibujosanimados-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:58:35 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>9.8 Dibujos animados VIII</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0908_dibujosanimados-ipod.m4v" type="video/x-m4v" length="15345105" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0908_dibujosanimados-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:58:17 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>9.9 Archivo 3D</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0909_archivo3d-ipod.m4v" type="video/x-m4v" length="12077896" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0909_archivo3d-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:57:58 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>9.10 Objeto 3D</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0910_objeto3d-ipod.m4v" type="video/x-m4v" length="25885276" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0910_objeto3d-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:57:33 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>9.11 Objeto 3D II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0911_objeto3d-ipod.m4v" type="video/x-m4v" length="4718766" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0911_objeto3d-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:57:11 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>9.12 Auto orientación</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_0912_autoorientacion-ipod.m4v" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_0912_autoorientacion-ipod.m4v</guid>
+			<pubDate>Mon, 13 Jun 2011 09:56:48 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+	</channel>
+</rss>

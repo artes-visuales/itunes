@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Podcast/_iTunesU_INDCS5_maquetacion.xml" />
+		<lastBuildDate>Mon, 06 Jun 2011 10:06:36 +0200</lastBuildDate>
+		<title>Maquetación</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://artesvisuales.groups.adobe.com/</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Adobe Indesign CS5 es la principal aplicación cuya función principal es la autoedición o maquetación digital.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Adobe Indesign CS5 es la principal aplicación cuya función principal es la autoedición o maquetación digital.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Podcast/_iTunesUp_INDCS5_maquetacion_144.jpg</url>
+			<title>Maquetación</title>
+			<link>http://artesvisuales.groups.adobe.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Podcast/_iTunesUp_INDCS5_maquetacion.jpg" />
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, indesign</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>3.13 Maquetación I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>       
+			<itunesu:category itunesu:code="102105" />   
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0313_maquetacion01-ipod.m4v" type="video/x-m4v" length="16238206" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0302_basicas02-ipod.m4v</guid>
+			<pubDate>Mon, 06 Jun 2011 08:20:44 +0200</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.14 Maquetación II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />   
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0314_maquetacion02-ipod.m4v" type="video/x-m4v" length="24897758" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0303_contornos-ipod.m4v</guid>
+			<pubDate>Mon, 06 Jun 2011 08:20:26 +0200</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.15 Maquetación III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>   
+			<itunesu:category itunesu:code="102105" />   			
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0315_maquetacion03-ipod.m4v" type="video/x-m4v" length="26616598" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0304_lapices-ipod.m4v</guid>
+			<pubDate>Mon, 06 Jun 2011 08:19:56 +0200</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.16 Maquetación IV</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>    
+			<itunesu:category itunesu:code="102105" />   			
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0316_maquetacion04-ipod.m4v" type="video/x-m4v" length="29479899" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0305_compuestas-ipod.m4v</guid>
+			<pubDate>Mon, 06 Jun 2011 08:19:33 +0200</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.17 Maquetación V</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>   
+			<itunesu:category itunesu:code="102105" />   			
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0317_maquetacion05-ipod.m4v" type="video/x-m4v" length="27292356" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0101_intro-ipod.m4v</guid>
+			<pubDate>Mon, 06 Jun 2011 08:00:23 +0200</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.18 Maquetación VI</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>   
+			<itunesu:category itunesu:code="102105" />   			
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0318_maquetacion06-ipod.m4v" type="video/x-m4v" length="13165974" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0102_paginas-ipod.m4v</guid>
+			<pubDate>Mon, 06 Jun 2011 07:59:53 +0200</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.19 Maquetación VII</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author> 
+			<itunesu:category itunesu:code="102105" />   			
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/INDCS5_0319_maquetacion07-ipod.m4v" type="video/x-m4v" length="15693861" />
+			<guid>http://itunes.artesvisuales.com/Private/INDCS5_0103_superimposicion-ipod.m4v</guid>
+			<pubDate>Mon, 06 Jun 2011 07:59:22 +0200</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+	</channel>
+</rss>

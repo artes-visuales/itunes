@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">     
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_Fundamentos_Design.xml" />
+		<lastBuildDate>Wed, 18 Jan 2012 08:04:28 +0100</lastBuildDate>
+		<title>Fundamentos del Diseño</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Explicaciones de la asignatura de Fundamentos del Diseño.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Explicaciones de la asignatura de Fundamentos del Diseño.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_Fundamentos_Design_144.jpg</url>
+			<title>Fundamentos del Diseño</title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_Fundamentos_Design.jpg" />
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>1. Arte y Diseño</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author> 
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-156/lg/FUND_0100_artediseno.mov" type="video/quicktime" length="4745932" />
+			<guid>http://videos.artesvisuales.com/albums/album-156/lg/FUND_0100_artediseno.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:58:41 +0100</pubDate>
+			<category>Graphic Design</category>  
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales</itunes:keywords>
+		</item>
+		<item>
+			<title>2. Elementos Fundamentales</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-157/lg/FUND_0200_elementosfund.mov" type="video/quicktime" length="3515422" />
+			<guid>http://videos.artesvisuales.com/albums/album-157/lg/FUND_0200_elementosfund.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:58:01 +0100</pubDate>
+			<category>Graphic Design</category>  
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales</itunes:keywords>
+		</item>
+		<item>
+			<title>2.1 Elementos Fundamentales I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-157/lg/FUND_0201_elementosfund.mov" type="video/quicktime" length="7465081" />
+			<guid>http://videos.artesvisuales.com/albums/album-157/lg/FUND_0201_elementosfund.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:57:39 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales</itunes:keywords>
+		</item>
+		<item>
+			<title>2.2 Elementos Fundamentales II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-157/lg/FUND_0202_elementosfund.mov" type="video/quicktime" length="5080011" />
+			<guid>http://videos.artesvisuales.com/albums/album-157/lg/FUND_0202_elementosfund.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:57:08 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales</itunes:keywords>
+		</item>
+		<item>
+			<title>2.3 Contorno básico</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-157/lg/FUND_0203_contornobasico.mov" type="video/quicktime" length="4294967295" />
+			<guid>http://videos.artesvisuales.com/albums/album-157/lg/FUND_0203_controlbasico.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:56:12 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales</itunes:keywords>
+		</item>
+		<item>
+			<title>2.4 Recorrido Visual</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-157/lg/FUND_0204_recorridovisual.mov" type="video/quicktime" length="24981948" />
+			<guid>http://videos.artesvisuales.com/albums/album-157/lg/FUND_0204_recorridovisual.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:55:48 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales</itunes:keywords>
+		</item>
+		<item>
+			<title>2.5 Escala</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-157/lg/FUND_0205_escala.mov" type="video/quicktime" length="5018201" />
+			<guid>http://videos.artesvisuales.com/albums/album-157/lg/FUND_0205_escala.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:55:27 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales</itunes:keywords>
+		</item>
+		<item>
+			<title>2.6 Dimensiones del color</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-157/lg/FUND_0206_dimensionescolor.mov" type="video/quicktime" length="4103156" />
+			<guid>http://videos.artesvisuales.com/albums/album-157/lg/FUND_0206_dimensionescolor.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:55:07 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales</itunes:keywords>
+		</item>
+		<item>
+			<title>3. Percepción Visual</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-158/lg/FUND_0300_percepcionvisual.mov" type="video/quicktime" length="9142321" />
+			<guid>http://videos.artesvisuales.com/albums/album-158/lg/FUND_0300_percepcionvisual.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:54:22 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales</itunes:keywords>
+		</item>
+		<item>
+			<title>3. Lógica Visual</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-158/lg/FUND_0301_logicavisual.mov" type="video/quicktime" length="5666426" />
+			<guid>http://videos.artesvisuales.com/albums/album-158/lg/FUND_0301_logicavisual.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:53:51 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales</itunes:keywords>
+		</item>
+		<item>
+			<title>3.2 Lógica Visual I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-158/lg/FUND_0302_logicavisual.mov" type="video/quicktime" length="7501638" />
+			<guid>http://videos.artesvisuales.com/albums/album-158/lg/FUND_0302_logicavisual.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:53:36 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales</itunes:keywords>
+		</item>
+		<item>
+			<title>3.3 Jerarquía</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-158/lg/FUND_0303_jerarquia.mov" type="video/quicktime" length="7883869" />
+			<guid>http://videos.artesvisuales.com/albums/album-158/lg/FUND_0303_jerarquia.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:53:07 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales</itunes:keywords>
+		</item>
+		<item>
+			<title>3.4 Coherencia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-158/lg/FUND_0304_coherencia.mov" type="video/quicktime" length="3056512" />
+			<guid>http://videos.artesvisuales.com/albums/album-158/lg/FUND_0304_coherencia.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:52:30 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales</itunes:keywords>
+		</item>
+		<item>
+			<title>3.5 Organización</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author> 
+			<itunesu:category itunesu:code="102105" />    			
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-158/lg/FUND_0305_organizacion.mov" type="video/quicktime" length="11913183" />
+			<guid>http://videos.artesvisuales.com/albums/album-158/lg/FUND_0305_organizacion.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:42:42 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>3.6 Organización II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-158/lg/FUND_0306_organizacion.mov" type="video/quicktime" length="13447410" />
+			<guid>http://videos.artesvisuales.com/albums/album-158/lg/FUND_0306_organizacion.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:42:19 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4. Composición</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-159/lg/FUND_0400_composicion.mov" type="video/quicktime" length="6796078" />
+			<guid>http://videos.artesvisuales.com/albums/album-159/lg/FUND_0400_composicion.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:41:40 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.1 Composición I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-159/lg/FUND_0401_composicion.mov" type="video/quicktime" length="8164498" />
+			<guid>http://videos.artesvisuales.com/albums/album-159/lg/FUND_0401_composicion.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:41:19 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.2 Composición II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-159/lg/FUND_0402_composicion.mov" type="video/quicktime" length="12027834" />
+			<guid>http://videos.artesvisuales.com/albums/album-159/lg/FUND_0402_composicion.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:41:04 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.3 Composición III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-159/lg/FUND_0403_composicion.mov" type="video/quicktime" length="13114351" />
+			<guid>http://videos.artesvisuales.com/albums/album-159/lg/FUND_0403_composicion.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:40:47 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.4 Composición IV</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-159/lg/FUND_0404_composicion.mov" type="video/quicktime" length="4512716" />
+			<guid>http://videos.artesvisuales.com/albums/album-159/lg/FUND_0404_composicion.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:40:29 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.5 Espacio de composición</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-159/lg/FUND_0405_espaciocomposicion.mov" type="video/quicktime" length="6529390" />
+			<guid>http://videos.artesvisuales.com/albums/album-159/lg/FUND_0405_espaciocomposicion.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:40:04 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.6 Métodos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-159/lg/FUND_0406_metodos.mov" type="video/quicktime" length="7716040" />
+			<guid>http://videos.artesvisuales.com/albums/album-159/lg/FUND_0406_metodos.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:39:31 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>4.7 Métodos I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-159/lg/FUND_0407_metodos.mov" type="video/quicktime" length="7916908" />
+			<guid>http://videos.artesvisuales.com/albums/album-159/lg/FUND_0407_metodos.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:39:10 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5. Armonía</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-160/lg/FUND_0500_armonia.mov" type="video/quicktime" length="10490351" />
+			<guid>http://videos.artesvisuales.com/albums/album-160/lg/FUND_0500_armonia.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:38:36 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.1 Armonía</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-160/lg/FUND_0501_armonia.mov" type="video/quicktime" length="7575921" />
+			<guid>http://videos.artesvisuales.com/albums/album-160/lg/FUND_0501_armonia.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:38:16 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.2 Armonía</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-160/lg/FUND_0502_armonia.mov" type="video/quicktime" length="6446400" />
+			<guid>http://videos.artesvisuales.com/albums/album-160/lg/FUND_0502_armonia.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:37:56 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.3 Contraste</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-160/lg/FUND_0503_contraste.mov" type="video/quicktime" length="6466094" />
+			<guid>http://videos.artesvisuales.com/albums/album-160/lg/FUND_0503_contraste.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:37:15 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>5.4 Sinestesia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-160/lg/FUND_0504_sinestesia.mov" type="video/quicktime" length="5148345" />
+			<guid>http://videos.artesvisuales.com/albums/album-160/lg/FUND_0504_sinestesia.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:36:49 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>6. Ajuste de texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-161/lg/FUND_0600_ajustetexto.mov" type="video/quicktime" length="9131092" />
+			<guid>http://videos.artesvisuales.com/albums/album-161/lg/FUND_0600_ajustetexto.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:36:06 +0100</pubDate>
+			<category>Graphic Design</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+		<item>
+			<title>6.1 Ajuste de texto I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://videos.artesvisuales.com/albums/album-161/lg/FUND_0601_ajustetexto.mov" type="video/quicktime" length="19373925" />
+			<guid>http://videos.artesvisuales.com/albums/album-161/lg/FUND_0601_ajustetexto.mov</guid>
+			<pubDate>Wed, 18 Jan 2012 07:35:45 +0100</pubDate>
+			<category>Graphic Design</category>  
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+	</channel>
+</rss>

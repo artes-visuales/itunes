@@ -1,0 +1,1760 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_IllustratorCS5.xml" />
+		<lastBuildDate>Thu, 02 Jun 2011 10:40:25 +0200</lastBuildDate>
+		<title>Illustrator CS5</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://artesvisuales.groups.adobe.com/</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[Adobe Illustrator CS5 es la principal aplicación de dibujo vectorial. El objetivo de esta asignatura es formar al alumno para que éste sea capaz de conocerla en profundidad.]]></description>
+		<itunes:subtitle />
+		<itunes:summary>Adobe Illustrator CS5 es la principal aplicación de dibujo vectorial. El objetivo de esta asignatura es formar al alumno para que éste sea capaz de conocerla en profundidad.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_AICS5_144.jpg</url>
+			<title>Illustrator CS5</title>
+			<link>http://artesvisuales.groups.adobe.com/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_AICS5.jpg" />
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<category>Visual Arts</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Visual Arts" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>1. Bienvenida</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0100_bienvenida-ipod.m4v" type="video/x-m4v" length="8585697" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0100_bienvenida-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:24:43 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>1.1 Interface</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0101_interface-ipod.m4v" type="video/x-m4v" length="21607472" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0101_interface-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:24:22 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>1.2 Valores</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0102_valores-ipod.m4v" type="video/x-m4v" length="12861112" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0102_valores-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:24:04 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>1.3 Visibilidad</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0103_visibilidad-ipod.m4v" type="video/x-m4v" length="16103928" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0103_visibilidad-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:23:48 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>1.4 Ajustar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0104_ajustar-ipod.m4v" type="video/x-m4v" length="9857324" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0104_ajustar-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:23:24 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>1.5 Resaltar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0105_resaltar-ipod.m4v" type="video/x-m4v" length="16889298" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0105_resaltar-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:23:06 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>1.6 Avanzado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0106_avanzado-ipod.m4v" type="video/x-m4v" length="9223690" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0106_avanzado-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:22:49 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>1.7 Mesa</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0107_mesa-ipod.m4v" type="video/x-m4v" length="12109738" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0107_mesa-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:22:32 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>1.8 Redimensionar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0108_redimensionar-ipod.m4v" type="video/x-m4v" length="8549920" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0108_redimensionar-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:22:16 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>1.9 Generales</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0109_generales-ipod.m4v" type="video/x-m4v" length="16768663" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0109_generales-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:21:58 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>1.10 Azulejos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0110_azulejos-ipod.m4v" type="video/x-m4v" length="18981072" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0110_azulejos-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:21:38 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2. Selecciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0200_seleccion-ipod.m4v" type="video/x-m4v" length="18708600" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0200_seleccion-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:21:18 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.1 Pluma</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0201_pluma-ipod.m4v" type="video/x-m4v" length="8359955" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0201_pluma-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:20:49 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.2 Opciones de pluma</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0202_opcionespluma-ipod.m4v" type="video/x-m4v" length="6491633" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0202_opcionespluma-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:20:29 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.3 Anclajes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0203_anclaje-ipod.m4v" type="video/x-m4v" length="4107343" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0203_anclaje-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:20:05 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.4 Curvas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0204_curvada-ipod.m4v" type="video/x-m4v" length="5444200" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0204_curvada-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:19:46 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.5  Correcciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0205_correcto-ipod.m4v" type="video/x-m4v" length="11692029" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0205_correcto-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:19:23 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.6 Arco</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0206_arco-ipod.m4v" type="video/x-m4v" length="17329466" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0206_arco-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:19:03 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.7 Añadir</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0207_anadir-ipod.m4v" type="video/x-m4v" length="4294967295" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0207_anadir-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:18:33 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.8 Polígonos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0208_poligonales-ipod.m4v" type="video/x-m4v" length="12543710" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0208_poligonales-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:17:58 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.9 Destello</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0209_destello-ipod.m4v" type="video/x-m4v" length="25671088" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0209_destello-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:17:41 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.10 Lazo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0210_lazo-ipod.m4v" type="video/x-m4v" length="11950956" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0210_lazo-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:17:20 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.11 Modo de dibujo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0211_mododibujo-ipod.m4v" type="video/x-m4v" length="7676077" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0211_mododibujo-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:17:01 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.12 Guías</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0212_guias-ipod.m4v" type="video/x-m4v" length="15991071" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0212_guias-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:16:39 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.13 Cuadrícula</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0213_cuadricula-ipod.m4v" type="video/x-m4v" length="15102831" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0213_cuadricula-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:16:06 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.14 Construir objeto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0214_construirobjeto-ipod.m4v" type="video/x-m4v" length="10105940" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0214_construirobjeto-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:15:47 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.15.1 Flecha</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0215_flecha-ipod.m4v" type="video/x-m4v" length="11975751" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0215_flecha-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:15:25 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.15 Tijeras</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0215_tijera-ipod.m4v" type="video/x-m4v" length="13154370" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0215_tijera-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:15:05 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.16 Escala</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0216_escala-ipod.m4v" type="video/x-m4v" length="14300175" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0216_escala-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:14:44 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.17 Promediar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0217_promediar-ipod.m4v" type="video/x-m4v" length="12151077" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0217_promediar-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:14:27 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.18 Desplazamiento</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0218_desplazamiento-ipod.m4v" type="video/x-m4v" length="17861635" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0218_desplazamiento-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:14:02 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.19 Plantillas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0219_plantilla-ipod.m4v" type="video/x-m4v" length="19639422" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0219_plantilla-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:13:41 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.20 Capas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0220_capas-ipod.m4v" type="video/x-m4v" length="14679842" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0220_capas-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:13:23 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.21 Opciones de capas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0221_opcionescapas-ipod.m4v" type="video/x-m4v" length="9138525" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0221_opcionescapas-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:13:03 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.22 Apariencia de capa</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0222_aparienciacapa-ipod.m4v" type="video/x-m4v" length="7737752" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0222_aparienciacapa-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:12:41 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>2.23 Localizar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0223_localizar-ipod.m4v" type="video/x-m4v" length="5741014" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0223_localizar-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:12:21 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>3. Lápiz</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0300_lapiz-ipod.m4v" type="video/x-m4v" length="10059288" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0300_lapiz-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:12:00 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>3.1 Caligráfico</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0301_caligrafico-ipod.m4v" type="video/x-m4v" length="10418316" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0301_caligrafico-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:10:47 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>3.2 Dispersión</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0302_dispersion-ipod.m4v" type="video/x-m4v" length="12096531" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0302_dispersion-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:10:23 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>3.3 Dejar trazos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0303_dejartrazos-ipod.m4v" type="video/x-m4v" length="7347935" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0303_dejartrazos-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:09:59 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>3.4 Pincel de arte</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0304_pincelarte-ipod.m4v" type="video/x-m4v" length="12942185" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0304_pincelarte-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:05:03 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>3.5 Pincel de motivos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0305_pincelmotivo-ipod.m4v" type="video/x-m4v" length="8028477" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0305_pincelmotivo-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:04:40 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>3.6 Pincel de cerda</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0306_pincelcerda-ipod.m4v" type="video/x-m4v" length="6747336" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0306_pincelcerda-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:04:18 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>3.7 Biblioteca</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0307_biblioteca-ipod.m4v" type="video/x-m4v" length="8101916" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0307_biblioteca-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:03:59 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>3.8 Manchas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0308_manchas-ipod.m4v" type="video/x-m4v" length="8988673" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0308_manchas-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 10:03:31 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>3.9 Anchura</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0309_anchura-ipod.m4v" type="video/x-m4v" length="7351778" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0309_anchura-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:58:44 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>3.10 Malla</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0310_malla-ipod.m4v" type="video/x-m4v" length="18868924" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0310_malla-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:58:26 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>4. Degradado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0400_degradado-ipod.m4v" type="video/x-m4v" length="11311291" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0400_degradado-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:58:00 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>4.1 Fusión</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0401_fusion-ipod.m4v" type="video/x-m4v" length="15698452" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0401_fusion-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:57:39 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>5. Copiar apariencia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0500_copiarapariencia-ipod.m4v" type="video/x-m4v" length="5438430" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0500_copiarapariencia-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:57:19 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>5.1 Estilo gráfico</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0501_estilografico-ipod.m4v" type="video/x-m4v" length="18567893" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0501_estilografico-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:57:00 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>6. Símbolos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0600_simbolos-ipod.m4v" type="video/x-m4v" length="15842670" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0600_simbolos-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:56:40 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>6.1 Cambiar símbolo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0601_cambiarsimbolo-ipod.m4v" type="video/x-m4v" length="14132817" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0601_cambiarsimbolo-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:56:16 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>6.2 Operaciones con símbolos I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0602_operacionessimbolos-ipod.m4v" type="video/x-m4v" length="13065884" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0602_operacionessimbolos-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:55:42 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>6.3 Operaciones con símbolos II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0603_operacionessimbolos-ipod.m4v" type="video/x-m4v" length="9482775" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0603_operacionessimbolos-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:55:12 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>6.4 Operaciones con símbolos III</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0604_operacionessimbolos-ipod.m4v" type="video/x-m4v" length="9422904" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0604_operacionessimbolos-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:54:32 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>6.5 Reemplazar símbolo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0605_reemplazarsimbolo-ipod.m4v" type="video/x-m4v" length="8447553" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0605_reemplazarsimbolo-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:54:08 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>7. Preferencias de texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0700_preferenciastexto-ipod.m4v" type="video/x-m4v" length="21596317" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0700_preferenciastexto-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:53:42 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>7.1 Texto y trazo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0701_textotrazo-ipod.m4v" type="video/x-m4v" length="12244991" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0701_textotrazo-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:53:22 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>7.2 Carácter</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0702_caracter-ipod.m4v" type="video/x-m4v" length="26556380" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0702_caracter-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:53:00 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>7.3 Texto área</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0703_textoarea-ipod.m4v" type="video/x-m4v" length="23389227" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0703_textoarea-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:52:38 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>7.4 Parrafo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0704_parrafo-ipod.m4v" type="video/x-m4v" length="17741410" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0704_parrafo-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:52:18 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>7.5 Tabuladores</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0705_tabuladores-ipod.m4v" type="video/x-m4v" length="11256486" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0705_tabuladores-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:51:50 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>7.6 Otras operaciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0706_otrasoperaciones-ipod.m4v" type="video/x-m4v" length="21371949" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0706_otrasoperaciones-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:51:30 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>7.7 Open Type</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0707_opentype-ipod.m4v" type="video/x-m4v" length="6478275" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0707_opentype-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:51:09 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>7.8.1 Envolvente</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0708_envolvente-ipod.m4v" type="video/x-m4v" length="19964568" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0708_envolvente-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:50:42 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>7.8 Objeto superior</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0708_objetosuperior-ipod.m4v" type="video/x-m4v" length="6844087" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0708_objetosuperior-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:50:10 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>7.9 Texto trazado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0709_textotrazado-ipod.m4v" type="video/x-m4v" length="12331725" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0709_textotrazado-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:49:50 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>8. Marcas de recorte</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0800_marcasrecorte-ipod.m4v" type="video/x-m4v" length="9236503" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0800_marcasrecorte-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:49:31 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>8.1 Interactiva</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0801_interactiva-ipod.m4v" type="video/x-m4v" length="17574311" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0801_interactiva-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:49:09 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>8.2 Corregir zonas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0802_corregirzonas-ipod.m4v" type="video/x-m4v" length="12931556" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0802_corregirzonas-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:39:53 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>8.3 Casos de pintura</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0803_casospintura-ipod.m4v" type="video/x-m4v" length="7003530" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0803_casospintura-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:39:32 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>8.4 Calco interactivo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0804_calcointeractivo-ipod.m4v" type="video/x-m4v" length="15059331" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0804_calcointeractivo-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:39:13 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>8.5 Relleno de motivo</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0805_rellenomotivo-ipod.m4v" type="video/x-m4v" length="16431448" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0805_rellenomotivo-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:38:53 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>9. Modos de forma</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0900_modosdeforma-ipod.m4v" type="video/x-m4v" length="10403162" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0900_modosdeforma-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:38:32 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>9.1 Busca trazos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0901_buscatrazos-ipod.m4v" type="video/x-m4v" length="8899890" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0902_contorneartexto-ipod-1.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:37:31 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>9.2 Contornear texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0902_contorneartexto-ipod.m4v" type="video/x-m4v" length="9849308" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0902_contorneartexto-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:37:11 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>9.3 Creador de formas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0903_creadorformas-ipod.m4v" type="video/x-m4v" length="9782249" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0903_creadorformas-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:36:51 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>9.4 Máscara de recorte</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0904_mascararecorte-ipod.m4v" type="video/x-m4v" length="10261997" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0904_mascararecorte-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 09:36:28 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>9.5 Máscaras de opacidad</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0905_mascaraopacidad-ipod.m4v" type="video/x-m4v" length="7973811" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0905_mascaraopacidad-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:21:23 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>9.6 Trazados compuestos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_0906_trazadocompuesto-ipod.m4v" type="video/x-m4v" length="7087562" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_0906_trazadocompuesto-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:20:57 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>10. Graficas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1000_graficos-ipod.m4v" type="video/x-m4v" length="6319157" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1000_graficos-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:20:34 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>10.1 Opciones de graficas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1001_opcionesgraficas-ipod.m4v" type="video/x-m4v" length="19933019" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1001_opcionesgraficas-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:20:03 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>10.2 Gráficas de tarta</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1002_tarta-ipod.m4v" type="video/x-m4v" length="13193213" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1002_tarta-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:19:40 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>11. Rotaciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1100_rotaciones-ipod.m4v" type="video/x-m4v" length="16615637" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1100_rotaciones-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:19:19 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>11.1 Reflejar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1101_reflejar-ipod.m4v" type="video/x-m4v" length="10800199" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1101_reflejar-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:19:02 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>11.2 Escala</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1102_escala-ipod.m4v" type="video/x-m4v" length="23112636" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1102_escala-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:18:40 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>11.3 Distorsion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1103_distorsion-ipod.m4v" type="video/x-m4v" length="15898419" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1103_distorsion-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:18:21 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>11.4 Reformar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1104_reformar-ipod.m4v" type="video/x-m4v" length="7393739" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1104_reformar-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:18:01 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>11.5 Deformar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1105_deformar-ipod.m4v" type="video/x-m4v" length="19586544" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1105_deformar-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:17:40 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>11.6 Deformaciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1106_deformaciones-ipod.m4v" type="video/x-m4v" length="9014495" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1106_deformaciones-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:17:16 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>11.7 Deformar el texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1107_deformatexto-ipod.m4v" type="video/x-m4v" length="19411876" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1107_deformatexto-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:16:52 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>11.8 Distorsionar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1108_distorsionar-ipod.m4v" type="video/x-m4v" length="15432933" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1108_distorsionar-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:16:29 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>11.9 Alinear</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1109_alinear-ipod.m4v" type="video/x-m4v" length="19114580" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1109_alinear-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:16:10 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>11.10 Transparencia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1110_transparencia-ipod.m4v" type="video/x-m4v" length="7009337" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1110_transparencia-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:15:51 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>11.11 Apariencia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1111_desdeapariencia-ipod.m4v" type="video/x-m4v" length="8628479" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1111_desdeapariencia-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:15:31 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>11.12 Resaltado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1112_resaltado-ipod.m4v" type="video/x-m4v" length="10263751" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1112_resaltado-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:15:10 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>11.13 Agrupamiento</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1113_agrupamiento-ipod.m4v" type="video/x-m4v" length="14103749" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1113_agrupamiento-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:14:50 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>11.14 Envolvente</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1114_envolvente-ipod.m4v" type="video/x-m4v" length="10121087" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1114_envolvente-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:14:27 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>11.15 Zig zag</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1115_zigzag-ipod.m4v" type="video/x-m4v" length="20856436" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1115_zigzag-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:14:00 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>12. Extrusion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1200_extrusion-ipod.m4v" type="video/x-m4v" length="17590460" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1200_extrusion-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:13:39 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>12.1 3D girar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1201_3dgirar-ipod.m4v" type="video/x-m4v" length="19374099" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1201_3dgirar-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:13:15 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>12.2 Mapear</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1202_mapear-ipod.m4v" type="video/x-m4v" length="12037409" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1202_mapear-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:12:55 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>12.3 Perspectiva</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1203_perspectiva-ipod.m4v" type="video/x-m4v" length="19223750" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1203_perspectiva-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:12:27 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>12.4 Definir perspectiva</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1204_definirperspectiva-ipod.m4v" type="video/x-m4v" length="19577273" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1204_definirperspectiva-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:08:41 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>12.5 Armado</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1205_armado-ipod.m4v" type="video/x-m4v" length="9234898" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1205_armado-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:08:17 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>13. Global</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1300_global-ipod.m4v" type="video/x-m4v" length="7821230" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1300_global-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:07:57 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>13.1 Convertir tinta plana</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1301_convertiraplana-ipod.m4v" type="video/x-m4v" length="13462704" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1301_convertiraplana-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:07:22 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>13.2 Guias de color</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1302_guiacolor-ipod.m4v" type="video/x-m4v" length="17621756" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1302_guiacolor-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:06:55 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>13.3 Nuevas pruebas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1303_nuevaspruebas-ipod.m4v" type="video/x-m4v" length="12002518" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1303_nuevaspruebas-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:06:30 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>13.4 Gama visual</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1304_gamavisual-ipod.m4v" type="video/x-m4v" length="7751833" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1304_gamavisual-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:06:07 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>13.5 Valores</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1305_valores-ipod.m4v" type="video/x-m4v" length="9488323" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1305_valores-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:05:47 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>13.6 Colores usados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1306_coloresusados-ipod.m4v" type="video/x-m4v" length="11904226" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1306_coloresusados-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:05:20 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>13.7 Reventado manual</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1307_reventadomanual-ipod.m4v" type="video/x-m4v" length="9804894" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1307_reventadomanual-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:04:57 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>13.8 Reventado I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1308_reventado-ipod.m4v" type="video/x-m4v" length="9065114" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1308_reventado-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:04:23 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>13.9 Reventado II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1309_reventar-ipod.m4v" type="video/x-m4v" length="12829505" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1309_reventar-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:03:58 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>14. Colocar archivos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1400_colocararchivos-ipod.m4v" type="video/x-m4v" length="15161868" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1400_colocararchivos-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:03:25 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>14.1 Resoluciones ps</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1401_resolucioneps-ipod.m4v" type="video/x-m4v" length="10499229" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1401_resolucioneps-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:02:56 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>14.2 Trabajar con archivos psd</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1402_archivopsd-ipod.m4v" type="video/x-m4v" length="15056535" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1402_archivopsd-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:02:26 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>14.3 Exportar pdf</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1403_exportarpdf-ipod.m4v" type="video/x-m4v" length="6333624" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1403_exportarpdf-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:02:00 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>15. Diseño para móviles</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1500_paramovil-ipod.m4v" type="video/x-m4v" length="15944068" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1500_paramovil-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:01:23 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>15.1 Sectorizacion</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1501_sectorizacion-ipod.m4v" type="video/x-m4v" length="15138733" />
+			<guid>http://itunes.artesvisuales.com/Private/AICS5_1501_sectorizacion-ipod.m4v</guid>
+			<pubDate>Thu, 02 Jun 2011 08:00:36 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, illustrator</itunes:keywords>
+		</item>
+		<item>
+			<title>15.2 Animaciones swf</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AICS5_1502_animacionswf-ipod.m4v" type="video/x-m4v" length="23427115" />
+			<guid>http://itunes.artesvisuales.com/Private/PHCS5_0101_intro-ipod.m4v</guid>
+			<pubDate>Mon, 30 May 2011 06:46:09 +0200</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop</itunes:keywords>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>iTunesU artesvisuales</title>
+        <link>http://itunes.artesvisuales.com/Private</link>
+        <description>elearning diseño, motion y web</description>
+        <generator>RoadMovie 2.5, http://www.bitfield.se/roadmovie/</generator>
+        <language>en</language>
+        <pubDate>Wed, 15 Jun 2005 19:00:00 GMT</pubDate>
+        <copyright>© Todos los derechos reservados</copyright>
+        <itunes:author>Instituto Artes Visuales</itunes:author>
+        <itunes:block>no</itunes:block>
+        <itunes:image href="http://www.bitfield.se/roadmovie/images/podcast-logo.jpg"></itunes:image>
+        <itunes:category text="Arts"></itunes:category>
+        <item>
+            <title>CSS3 con Dreamweaver CS3</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0200_aplicar_I.mp4" length="18659527" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">7C69239D-0400-45D6-8D28-91B5434C31A4</guid>
+            <pubDate>Mon, 12 Nov 2012 12:32:58 +0100</pubDate>
+            <itunes:duration>00:07:41</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Aplicar II</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0200_aplicar_II.mp4" length="15126661" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">CFDAC2C9-3B97-4CD7-BBC2-7F270DB7423F</guid>
+            <pubDate>Mon, 12 Nov 2012 12:33:51 +0100</pubDate>
+            <itunes:duration>00:07:52</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Panel</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0201_panel.mp4" length="12493184" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">3DD50364-F201-4E79-9B98-F1E8F55D7960</guid>
+            <pubDate>Mon, 12 Nov 2012 12:34:50 +0100</pubDate>
+            <itunes:duration>00:05:29</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Barra</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0202_barra.mp4" length="6513206" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">E420C9E3-97DB-428C-ACCF-7CA7FF9782A7</guid>
+            <pubDate>Mon, 12 Nov 2012 12:35:14 +0100</pubDate>
+            <itunes:duration>00:03:34</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Adobe</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0203_adobe.mp4" length="15955215" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">1AD22E2B-748F-41F6-B475-3E7E00D9F70B</guid>
+            <pubDate>Mon, 12 Nov 2012 12:36:43 +0100</pubDate>
+            <itunes:duration>00:05:20</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Mejorando.</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0300_mejorando.mp4" length="9740946" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">C1764CA9-A618-4C77-8AD3-5CC1B5D1D4BD</guid>
+            <pubDate>Mon, 12 Nov 2012 12:37:17 +0100</pubDate>
+            <itunes:duration>00:05:14</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Bordes I</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0301_bordes.mp4" length="14323471" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">570531F4-EF3D-4A15-9FC3-64413E657236</guid>
+            <pubDate>Mon, 12 Nov 2012 12:38:46 +0100</pubDate>
+            <itunes:duration>00:06:40</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Bordes II</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0302_borde.mp4" length="8789508" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">DAF2470F-565F-4A4E-B731-D2A364E6B4B6</guid>
+            <pubDate>Mon, 12 Nov 2012 12:39:19 +0100</pubDate>
+            <itunes:duration>00:05:48</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Sombras</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0303_sombras.mp4" length="10955232" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">89AD62D4-6393-454D-9377-82AF1618521C</guid>
+            <pubDate>Mon, 12 Nov 2012 12:40:01 +0100</pubDate>
+            <itunes:duration>00:06:40</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Trasparencias</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0304_transparencias.mp4" length="12358592" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">51FCC249-4A10-42E3-ABF0-672E352B85C2</guid>
+            <pubDate>Mon, 12 Nov 2012 12:40:46 +0100</pubDate>
+            <itunes:duration>00:06:46</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Degradados</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0305_degradados.mp4" length="30997373" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">D0EF9C9A-6044-4624-82BA-012A06EC65BE</guid>
+            <pubDate>Mon, 12 Nov 2012 12:44:59 +0100</pubDate>
+            <itunes:duration>00:07:09</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Propiedades I</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0306_propiedades_I.mp4" length="6719106" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">858070D0-FFC7-4764-B879-4D91455B4B6F</guid>
+            <pubDate>Mon, 12 Nov 2012 12:45:21 +0100</pubDate>
+            <itunes:duration>00:03:42</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Propiedades II</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0306_propiedades_II.mp4" length="4575733" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">42AD9AC2-7192-4275-8129-1FAF0D21088C</guid>
+            <pubDate>Mon, 12 Nov 2012 12:45:35 +0100</pubDate>
+            <itunes:duration>00:02:06</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Propiedades III</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0306_propiedades_III.mp4" length="3433708" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">71E01622-E0D3-4AAC-89A6-D1CFF0B6B81D</guid>
+            <pubDate>Mon, 12 Nov 2012 12:45:47 +0100</pubDate>
+            <itunes:duration>00:02:02</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Trabajando con Tipografías</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0307_tipografias.mp4" length="9654398" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">19732DA7-C451-41AA-A023-543EE1305AD9</guid>
+            <pubDate>Mon, 12 Nov 2012 12:46:19 +0100</pubDate>
+            <itunes:duration>00:04:51</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>CSS3</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0400_css3.mp4" length="8547455" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">47ED1639-0CB7-4DE6-938B-CC6B812F5963</guid>
+            <pubDate>Mon, 12 Nov 2012 12:46:48 +0100</pubDate>
+            <itunes:duration>00:05:18</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Panel</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0401_panel.mp4" length="8309535" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">DCBC816F-415C-4BFC-8E85-616D2D5AB1CD</guid>
+            <pubDate>Mon, 12 Nov 2012 12:47:20 +0100</pubDate>
+            <itunes:duration>00:05:54</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Animaciones I</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0402_animaciones_I.mp4" length="7096328" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">87C4FB5A-E7DA-4AE1-9C09-6D08414ABB14</guid>
+            <pubDate>Mon, 12 Nov 2012 12:47:47 +0100</pubDate>
+            <itunes:duration>00:04:46</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Animaciones II</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0402_animaciones_II.mp4" length="10879200" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">8AD8A607-B070-41F5-9899-0BABBF1E83B0</guid>
+            <pubDate>Mon, 12 Nov 2012 12:48:26 +0100</pubDate>
+            <itunes:duration>00:06:08</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Diseñando el layout II</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0502_layout.mp4" length="3538323" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">4DD023D2-E94D-4ED4-8596-714B54D06D27</guid>
+            <pubDate>Mon, 12 Nov 2012 12:48:39 +0100</pubDate>
+            <itunes:duration>00:01:53</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title></title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0503_layout_I.mp4" length="9380860" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">91E23AD2-8F81-4C82-886F-955DEAE71B88</guid>
+            <pubDate>Mon, 12 Nov 2012 12:49:07 +0100</pubDate>
+            <itunes:duration>00:04:12</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Diseñando el layout III</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0503_layout_II.mp4" length="6524001" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">41295B97-D8BB-4F00-B5EF-273205445F78</guid>
+            <pubDate>Mon, 12 Nov 2012 12:49:49 +0100</pubDate>
+            <itunes:duration>00:02:07</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Diseñando el layout IV</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0504_layout.mp4" length="21343429" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">106CC4AF-E5E5-4368-9556-E49132006B11</guid>
+            <pubDate>Mon, 12 Nov 2012 12:53:09 +0100</pubDate>
+            <itunes:duration>00:03:29</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Diseñando el layout V</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0505_layout.mp4" length="6824359" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">D2C83A03-1B49-4F1E-BCFF-C094C13BBADB</guid>
+            <pubDate>Mon, 12 Nov 2012 12:53:31 +0100</pubDate>
+            <itunes:duration>00:02:55</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Diseñando el layout VI</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0506_layout.mp4" length="10878891" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">2E6B654B-7FC1-4776-9EAA-03869B2D3E58</guid>
+            <pubDate>Mon, 12 Nov 2012 12:54:07 +0100</pubDate>
+            <itunes:duration>00:04:41</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Diseñando el layout VII</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0507_layout.mp4" length="8692354" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">85E4589D-BEFC-42AB-832A-CE0CF5807B9D</guid>
+            <pubDate>Mon, 12 Nov 2012 12:54:35 +0100</pubDate>
+            <itunes:duration>00:03:25</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Optimización I</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0601_optimizacion_I.mp4" length="19729871" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">77290F15-72D7-4FEC-B8B3-ABC5C96492D5</guid>
+            <pubDate>Mon, 12 Nov 2012 12:55:34 +0100</pubDate>
+            <itunes:duration>00:06:55</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Optimización II</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0601_optimizacion_II.mp4" length="8163124" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">9D0017AF-44F1-40F5-AB85-F9FEF7B62481</guid>
+            <pubDate>Mon, 12 Nov 2012 12:56:07 +0100</pubDate>
+            <itunes:duration>00:04:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Optimización III</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0601_optimizacion_III.mp4" length="9810729" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">D7649D5A-F759-4486-A480-11BDC2102E17</guid>
+            <pubDate>Mon, 12 Nov 2012 12:56:52 +0100</pubDate>
+            <itunes:duration>00:05:14</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Optimización IV</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0601_optimizacion_IV.mp4" length="13187361" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">8DD06349-F484-4E86-AC15-AEBBE80B1F7E</guid>
+            <pubDate>Mon, 12 Nov 2012 12:58:22 +0100</pubDate>
+            <itunes:duration>00:04:08</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Realizar ajustes I</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0701_ajustes.mp4" length="6015744" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">CAB902BB-6E1C-421F-8B61-2569130FC8D7</guid>
+            <pubDate>Mon, 12 Nov 2012 12:58:46 +0100</pubDate>
+            <itunes:duration>00:04:08</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Realizar ajustes II</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0702_ajustes.mp4" length="12939669" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">6120690F-108A-4106-ACF0-E1276A318CDF</guid>
+            <pubDate>Mon, 12 Nov 2012 12:59:38 +0100</pubDate>
+            <itunes:duration>00:08:42</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Desbordamientos</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0703_desbordamientos.mp4" length="5175291" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">B1E0FB03-2A4E-4A5E-9B44-88E64218838D</guid>
+            <pubDate>Mon, 12 Nov 2012 12:59:58 +0100</pubDate>
+            <itunes:duration>00:03:27</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+        <item>
+            <title>Trabajar con columnas</title>
+            <description></description>
+            <enclosure url="http://stream.artesvisuales.com/video/DWCS6CSS3_0704_columnas.mp4" length="5757573" type="video/mp4"></enclosure>
+            <guid isPermaLink="false">EBEDA5DD-B544-45FE-B609-10C91237BC3B</guid>
+            <pubDate>Mon, 12 Nov 2012 13:00:21 +0100</pubDate>
+            <itunes:duration>00:03:44</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+    </channel>
+</rss>

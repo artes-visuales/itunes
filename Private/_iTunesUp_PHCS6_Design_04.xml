@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesUp_PHCS6_Design_04.xml" />
+		<lastBuildDate>Tue, 22 Jan 2013 08:01:46 +0100</lastBuildDate>
+		<title>Photoshop CS6 Diseñadores I - Tema 4. Operaciones con Canales  </title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.1 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[4.2 CMYK  
+4.3 Escala de grises  
+4.4 Canales 01  
+4.5 Canales 02  
+4.6 Canales personalizados 01  
+4.7 Canales personalizados 02  
+4.8 Canales personalizados 03  
+4.9 Canal de Tinta Plana  
+4.10 Profundidad de bit  ]]></description>
+		<itunes:subtitle />
+		<itunes:summary>4.2 CMYK  
+4.3 Escala de grises  
+4.4 Canales 01  
+4.5 Canales 02  
+4.6 Canales personalizados 01  
+4.7 Canales personalizados 02  
+4.8 Canales personalizados 03  
+4.9 Canal de Tinta Plana  
+4.10 Profundidad de bit  </itunes:summary>
+		<language>es</language>
+		<copyright>Creative Commons 3.0</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesUp_PHCS6D_144.jpg</url>
+			<title>Photoshop CS6 Diseñadores I - Tema 4. Operaciones con Canales  </title>
+			<link>http://www.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesUp_PHCS6D.jpg" />
+		<category>Educational Technology</category>
+		<itunes:category text="Education">
+			<itunes:category text="Educational Technology" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>PHCS6D 0401 RGB</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0401_RGB.mp4" type="video/mp4" length="32810" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0401_RGB.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 08:01:31 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0402 CMYK</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0402_CMYK.mp4" type="video/mp4" length="32344" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0402_CMYK.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 08:01:31 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0403 grises</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0403_grises.mp4" type="video/mp4" length="29522" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0403_grises.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 08:01:31 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0404 canales01</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0404_canales01.mp4" type="video/mp4" length="29473" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0404_canales01.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 08:01:31 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0405 canales02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0405_canales02.mp4" type="video/mp4" length="31955" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0405_canales02.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 08:01:31 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0406 canales personalizados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0406_canales_personalizados.mp4" type="video/mp4" length="30537" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0406_canales_personalizados.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 08:01:31 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0407 canales personalizados02</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0407_canales_personalizados02.mp4" type="video/mp4" length="30018" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0407_canales_personalizados02.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 08:01:31 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0408 canales personalizados03</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0408_canales_personalizados03.mp4" type="video/mp4" length="36622" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0408_canales_personalizados03.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 08:01:31 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0409 canal tintaplana</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0409_canal_tintaplana.mp4" type="video/mp4" length="37970" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0409_canal_tintaplana.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 08:01:31 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+		<item>
+			<title>PHCS6D 0410 profundidad bit</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://stream.artesvisuales.com/video/PHCS6D_0410_profundidad_bit.mp4" type="video/mp4" length="40559" />
+			<guid>http://stream.artesvisuales.com/video/PHCS6D_0410_profundidad_bit.mp4</guid>
+			<pubDate>Tue, 22 Jan 2013 08:01:31 +0100</pubDate>
+			<category>Educational Technology</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, photoshop, </itunes:keywords>
+		</item>
+	</channel>
+</rss>

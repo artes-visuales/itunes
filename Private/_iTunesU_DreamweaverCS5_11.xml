@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS5_11.xml" />
+		<lastBuildDate>Thu, 09 Jun 2011 17:15:17 +0200</lastBuildDate>
+		<title>Configurar sitio</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://campus.artesvisuales.com</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description />
+		<itunes:subtitle />
+		<itunes:summary />
+		<language>es-es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS5_144.jpg</url>
+			<title>Configurar sitio</title>
+			<link>http://campus.artesvisuales.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_DreamweaverCS5.jpg" />
+		<category>Training</category>
+		<itunes:category text="Education">
+			<itunes:category text="Training" />
+		</itunes:category>
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords />
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>11.1 Configurar sitio</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_1101_configurarsitio_panelarchivos.mov" type="video/quicktime" length="12671601" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_1101_configurarsitio_panelarchivos.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 17:14:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>11.2 Panel archivos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_1102_panelarchivos_preferenciasdelsitio.mov" type="video/quicktime" length="16784881" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_1102_panelarchivos_preferenciasdelsitio.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 17:14:27 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>11.3 Proteger archivo y design notes</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_1103_protegerarchivo_designnotes.mov" type="video/quicktime" length="14802433" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_1103_protegerarchivo_designnotes.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 17:14:03 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>11.4 Buscar y reemplazar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_1104_buscaryreemplazar.mov" type="video/quicktime" length="17673433" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_1104_buscaryreemplazar.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 17:13:46 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>11.5 Compatibilidad navegadores</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_1105_compatibilidadnavegadores_verificarvinculos.mov" type="video/quicktime" length="13949486" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_1105_compatibilidadnavegadores_verificarvinculos.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 17:13:25 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>11.6 Informes visualización navegadores</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_1106_informes_visualizacionnavegadores.mov" type="video/quicktime" length="12836017" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_1106_informes_visualizacionnavegadores.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 17:13:03 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+		<item>
+			<title>11.7 Device central</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/DWCS5_1107_devicecentral.mov" type="video/quicktime" length="14574472" />
+			<guid>http://itunes.artesvisuales.com/Private/DWCS5_1107_devicecentral.mov</guid>
+			<pubDate>Thu, 09 Jun 2011 17:12:45 +0200</pubDate>
+			<category>Training</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Podcast/_iTunesUp_AICS4_malla.xml" />
+		<lastBuildDate>Thu, 26 May 2011 07:45:25 +0200</lastBuildDate>
+		<title>Illustrator CS4 - Malla de degradados</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://linkd.in/lifelong-learning</link>
+		<generator>Podcast Maker v1.4.0 - http://www.lemonzdream.com/podcastmaker</generator>
+		<description><![CDATA[En este módulo de formación estudiamos las herramientas de malla de degradados de Illustrator		]]></description>
+		<itunes:subtitle>En este capítulo estudiamos las herramientas de malla de degradados de Illustrator.</itunes:subtitle>
+		<itunes:summary>En este módulo de formación estudiamos las herramientas de malla de degradados de Illustrator		</itunes:summary>
+		<language>es</language>
+		<copyright>Creative Commons 3.0</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Podcast/_iTunesUp_AICS4_malla_144.jpg</url>
+			<title>Illustrator CS4 - Malla de degradados</title>
+			<link>http://linkd.in/lifelong-learning</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Podcast/_iTunesUp_AICS4_malla.jpg" />
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Malla de degradados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>   
+			<itunesu:category itunesu:code="102105" />  
+			<description><![CDATA[Malla de degradados]]></description>
+			<itunes:subtitle>Malla de degradados</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/AICS4_0401_malla-ipod.m4v" type="video/x-m4v" length="18997076" />
+			<guid>http://itunes.artesvisuales.com/Podcast/AICS4_0401_malla-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 07:44:49 +0200</pubDate>  
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Degradados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author> 
+			<itunesu:category itunesu:code="102105" />  
+			<description><![CDATA[Los colores del degradado se definen mediante una serie de paradas a lo largo del regulador de degradado.]]></description>
+			<itunes:subtitle>Los colores del degradado se definen mediante una serie de paradas a lo largo del regulador de degradado.</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/AICS4_0402_degradados-ipod.m4v" type="video/x-m4v" length="6543558" />
+			<guid>http://itunes.artesvisuales.com/Podcast/AICS4_0402_degradados-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 07:43:44 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Aplicando degradados</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>       
+			<itunesu:category itunesu:code="102105" />  
+			<description><![CDATA[Utilice rellenos de degradado para aplicar una fusión gradual de colores como lo haría con cualquier otro color.]]></description>
+			<itunes:subtitle>Utilice rellenos de degradado para aplicar una fusión gradual de colores como lo haría con cualquier otro color.</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/AICS4_0403_aplicandodegradados-ipod.m4v" type="video/x-m4v" length="13590584" />
+			<guid>http://itunes.artesvisuales.com/Podcast/AICS4_0403_aplicandodegradados-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 07:42:57 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Apariencia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>   
+			<itunesu:category itunesu:code="102105" />  
+			<description><![CDATA[Apariencia]]></description>
+			<itunes:subtitle>Apariencia</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/AICS4_0404_apariencia-ipod.m4v" type="video/x-m4v" length="6152915" />
+			<guid>http://itunes.artesvisuales.com/Podcast/AICS4_0404_apariencia-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 07:42:34 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Crear un estilo gráfico</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>   
+			<itunesu:category itunesu:code="102105" />  
+			<description><![CDATA[Crear un estilo gráfico]]></description>
+			<itunes:subtitle>Crear un estilo gráfico</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/AICS4_0405_crearestilografico-ipod.m4v" type="video/x-m4v" length="6031833" />
+			<guid>http://itunes.artesvisuales.com/Podcast/AICS4_0405_crearestilografico-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 07:42:04 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Duplicar atributos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author> 
+			<itunesu:category itunesu:code="102105" />  
+			<description><![CDATA[Atributos]]></description>
+			<itunes:subtitle>Atributos</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/AICS4_0406_duplicaratributos-ipod.m4v" type="video/x-m4v" length="5072520" />
+			<guid>http://itunes.artesvisuales.com/Podcast/AICS4_0406_duplicaratributos-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 07:41:09 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Efectos y apariencia</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>  
+			<itunesu:category itunesu:code="102105" />  
+			<description><![CDATA[Efectos y apariencia]]></description>
+			<itunes:subtitle>Efectos y apariencia</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/AICS4_0407_efectosapariencia-ipod.m4v" type="video/x-m4v" length="6423883" />
+			<guid>http://itunes.artesvisuales.com/Podcast/AICS4_0407_efectosapariencia-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 07:40:07 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Pintura Interactiva I</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>   
+			<itunesu:category itunesu:code="102105" />  
+			<description><![CDATA[Pintura interactiva es un medio intuitivo para crear dibujos con color.]]></description>
+			<itunes:subtitle>Pintura interactiva es un medio intuitivo para crear dibujos con color.</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/AICS4_0408_pinturainteractiva-ipod.m4v" type="video/x-m4v" length="7014147" />
+			<guid>http://itunes.artesvisuales.com/Podcast/AICS4_0408_pinturainteractiva-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 07:39:28 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Pintura Interactiva II</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author> 
+			<itunesu:category itunesu:code="102105" />  
+			<description><![CDATA[Pintura interactiva es un medio intuitivo para crear dibujos con color.]]></description>
+			<itunes:subtitle>Pintura interactiva es un medio intuitivo para crear dibujos con color.</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/AICS4_0409_pinturainteractiva-ipod.m4v" type="video/x-m4v" length="6593887" />
+			<guid>http://itunes.artesvisuales.com/Podcast/AICS4_0409_pinturainteractiva-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 07:38:34 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+		<item>
+			<title>Opciones de hueco</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>  
+			<itunesu:category itunesu:code="102105" />  
+			<description><![CDATA[Opciones de hueco]]></description>
+			<itunes:subtitle>Opciones de hueco</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Podcast/AICS4_0410_opcioneshueco-ipod.m4v" type="video/x-m4v" length="27460779" />
+			<guid>http://itunes.artesvisuales.com/Podcast/AICS4_0410_opcioneshueco-ipod.m4v</guid>
+			<pubDate>Thu, 26 May 2011 07:35:34 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, Illustrator, </itunes:keywords>
+		</item>
+	</channel>
+</rss>

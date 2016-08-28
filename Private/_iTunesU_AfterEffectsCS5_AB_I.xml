@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link rel="self" type="application/rss+xml" href="http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS5_AB_I.xml" />
+		<lastBuildDate>Thu, 9 Feb 2012 10:01:26 +0200</lastBuildDate>
+		<title>Animación básica con After Effects CS5</title>
+		<itunes:author>Instituto Artes Visuales</itunes:author>
+		<link>http://www.artesvisuales.com/lowcost/after-effects-motion-i/</link>
+		<description><![CDATA[After Effects CS5 es un programa para capacitarse en la realización de animaciones con After Effects.]]></description>
+		<itunes:subtitle>En este capítulo estudiamos las capacidades de animación de After Effects.</itunes:subtitle>
+		<itunes:summary>After Effects CS5 es la principal aplicación para la postproducción digital de vídeo.</itunes:summary>
+		<language>es</language>
+		<copyright>(c) Todos los derechos reservados</copyright>
+		<itunes:owner>
+			<itunes:name />
+			<itunes:email>campus@artesvisuales.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS5_AB_I_144.jpg</url>
+			<title>Dibujos animados</title>
+			<link>http://www.artesvisuales.com/lowcost/after-effects-motion-i/</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://itunes.artesvisuales.com/Private/_iTunesU_AfterEffectsCS5_AB_I.jpg" />
+	   	<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category> 
+		<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>1. Introducción</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>  
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0000_introduccion-iPod.m4v" type="video/x-m4v" length="13383358" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0000_introduccion-iPod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 10:01:01 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>1.1 Nuevo proyecto.</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author> 
+				<itunesu:category itunesu:code="102105" />   
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0101_nuevoproyecto-iPod.m4v" type="video/x-m4v" length="19919022" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0101_nuevoproyecto-iPod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 10:00:42 +0200</pubDate>
+			<itunesu:category itunesu:code="102105" /> 
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>1.2 Composición</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author> 
+			<itunesu:category itunesu:code="102105" />   		
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0102_composicion-iPod.m4v" type="video/x-m4v" length="16506061" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0102_composicion-iPod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 10:00:22 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>1.3 Importación</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" /> 
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0103_importacion-iPod.m4v" type="video/x-m4v" length="28392374" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0103_importacion-iPod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:59:51 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>1.4 Capas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0104_capas-iPod.m4v" type="video/x-m4v" length="35181633" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0104_capas-iPod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:59:28 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>2.1 Interactividad</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />    
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0201_interactiva-iPod.m4v" type="video/x-m4v" length="24790108" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0201_interactiva-iPod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:59:10 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>2.2 Control numérico</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />     
+	   		<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0202_numerica-iPod.m4v" type="video/x-m4v" length="19292829" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0202_numerica-iPod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:58:35 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>2.3 Posición</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0203_posicion-iPod.m4v" type="video/x-m4v" length="15345105" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0203_posicion-iPod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:58:17 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>2.4 Añadir capas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0204_anadircapas-iPod.m4v" type="video/x-m4v" length="12077896" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0204_anadircapas-iPod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:57:58 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>2.5 Animaciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0205_animaciones-iPod.m4v" type="video/x-m4v" length="25885276" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0205_animaciones-iPod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:57:33 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>2.6 Escala</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0206_escala-iPod.m4v" type="video/x-m4v" length="4718766" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0206_escala-iPod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:57:11 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>3.1 Simultánea</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0301_simultanea-iPod.m4v" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0301_simultanea-iPod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:56:48 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item> 
+		<item>
+			<title>3.2 Sólida</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0302_solida-iPod.m4v" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0302_solida-iPod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:56:48 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>   
+		<item>
+			<title>3.3 Efectos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0303_efectos-iPod.m4v" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0303_efectos-iPod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:56:48 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>3.4 Rederizar</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0304_renderizar-iPod.m4v" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0304_renderizar-iPod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:56:48 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>4.1 Cambios</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0401_variando-iPod.m4v" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0401_variando-iPod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:56:48 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>4.2 Variando el diseño</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0402_variandodiseno.mov" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0402_variandodiseno.mov</guid>
+			<pubDate>Thu, 9 Feb 2012 09:56:48 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>4.3 Capa de texto</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0403_capatexto-ipod.m4v" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0403_capatexto-ipod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:56:48 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>5.1 Puntos de animación</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0501_puntosanimacion-ipod.m4v" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0501_puntosanimacion-ipod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:56:48 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>5.2 Agregar vértices</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0502_agregarvertices-ipod.m4v" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0502_agregarvertices-ipod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:56:48 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>5.3 Convertir vértices</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0503_convertirvertices-ipod.m4v" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0503_convertirvertices-ipod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:56:48 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>5.4 Desplazamientos</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0504_desplazamientos-ipod.m4v" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0504_desplazamientos-ipod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:56:48 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item> 
+		<item>
+			<title>5.5 Automática</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0505_automatica-ipod.m4v" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0505_automatica-ipod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:56:48 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>6.1 Areas de seguridad</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0601_areasseguridad-ipod.m4v" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0601_areasseguridad-ipod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:56:48 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>6.2 Cuadrículas</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0602_cuadriculas-ipod.m4v" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0602_cuadriculas-ipod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:56:48 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>   
+		<item>
+			<title>6.3 Alinear</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0603_alinear-ipod.m4v" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0603_alinear-ipod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:56:48 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>6.4 Distribuciones</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0604_distribuciones-ipod.m4v" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0604_distribuciones-ipod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:56:48 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>7.1 Trabajar con psd</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0701_psd-ipod.m4v" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0701_psd-ipod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:56:48 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+		<item>
+			<title>7.2 Canal Alfa</title>
+			<itunes:author>Instituto Artes Visuales</itunes:author>
+			<itunesu:category itunesu:code="102105" />  			
+			<description />
+			<itunes:subtitle />
+			<itunes:summary />
+			<enclosure url="http://itunes.artesvisuales.com/Private/AEFCS5_AB_0702_alfa-ipod.m4v" type="video/x-m4v" length="11012966" />
+			<guid>http://itunes.artesvisuales.com/Private/AEFCS5_AB_0702_alfa-ipod.m4v</guid>
+			<pubDate>Thu, 9 Feb 2012 09:56:48 +0200</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>artesvisuales, adobe, after effects,</itunes:keywords>
+		</item>
+	</channel>
+</rss>
